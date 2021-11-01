@@ -1,0 +1,400 @@
+{
+  "numSong": 36,
+  "api": [
+   {
+      "title": "Always With Me (Spirit Away)",
+      "singer": "Youmi Kimura",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Spirited%20Away)%20Always%20With%20Me%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000154884197-y299a3-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=EIcwEj9uzkk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=115",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Sparkle (Your Name OSt)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Your%20Name)%20Sparkle%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/f7/f2/79/f7f279cede0a314f109f5e04c78af05f.gif",
+      "info":
+          "https://www.youtube.com/watch?v=_u_SrYBSr3c&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=109",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "It Was A Good Day",
+      "singer": "Depapepe",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Depapepe%20%E3%81%84%E3%81%84%E6%97%A5%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AD%20It%20Was%20A%20Good%20Day%20%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/cc/be/c3/ccbec33968405a288041dd3a3621ac66.jpg",
+      "info": "https://www.youtube.com/watch?v=VzkZDBEjDR4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=34",
+      "cover": "(Cover by Thien An Nguyen)"
+    },
+    {
+      "title": "Is There Still Anything That Love Can Do?",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Is%20There%20Still%20Anything%20That%20Love%20Can%20Do%20Weathering%20With%20You%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ab/dd/49/abdd497fd21951ea1038e22433fb572f.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oTgVtTh-rY4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=61",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Nandemonaiya",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Nandemonaiya%20Guitar%20Cover%20by%20Edward%20Ong.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/1e/6a/e3/1e6ae3dd17cbfd089bd07ee50d4cee18.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=jI8YraI4CP0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=65",
+      "cover": "(Cover by Edward Ong)"
+    },
+    {
+      "title": "Zen Zen Zense (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Zenzenzense-%20YourNameOST-Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/83/75/4d/83754d9c24901ad643a403b6846e2e08.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=CNG8u-uNprM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Edward Ong)"
+    },
+    {
+      "title": "Irony",
+      "singer": "Majiko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Irony%20%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%8B%20Vocaloid%20Fingerstyle%20Guitar%20Cover%20TABS(JayJay%20Fingerstyle).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/8a/ca/92/8aca92fedcdb8f60ed1470894842fd8c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6wuYLzQkzJw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by JayJay Fingerstyle)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Renai%20Circulation%20on%20Guitar%20ft%20The%20Anime%20Man(Eddie%20van%20der%20Meer).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/17/6f/7a/176f7a1abb4d32850bcab6ee2b3baf27.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1MgIqz66NZA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Cover by Eddie van der Meer)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Renai%20Circulation%E6%81%8B%E6%84%9B%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3fingerstyle%20cover%20%20Kana%20Hanazawa(Iqbal%20Gumilar).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/8c/c0/df/8cc0dfc0a980134f15cb1c4c0f8b552d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=uZYCWDtSmQY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Iqbal Gumilar)"
+    },
+    {
+      "title": "Summertime",
+      "singer": "Cinnamons & Evening cinema",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/summertime%20%20cinnamons%20evening%20cinema%20%20guitar(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://m.media-amazon.com/images/I/610jev8sNeL._SS500_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=b7hPRyygMeI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=18",
+      "cover": "(Cover by Paul Iballa)"
+    },
+    {
+      "title": "Irony",
+      "singer": "Majiko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Irony%20%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%8B%20Vocaloid%20Fingerstyle%20Guitar%20Cover%20TABS(JayJay%20Fingerstyle).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/79/35/d5/7935d5bb073005aa00dff9d3ed5d2aa0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=l_9TGpuIAvk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Natanael A.)"
+    },
+    {
+      "title": "Chiisana Koi no Uta",
+      "singer": "Mongol800",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Chiisana%20Koi%20no%20Uta%20%20Fingerstyle%20Guitar%20(Leon%20Alex).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/9c/97/49/9c97490921e8ff904adeec0183ebee29.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=iGDv17HKPuM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=36",
+      "cover": "(Cover by Leon Alex)"
+    },
+    {
+      "title": "Uchiage Hanabi",
+      "singer": "Daoko and Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Uchiage%20Hanabi%20Music%20Box%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/16/b7/11/16b711608d72dd16e1662944726ea428.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=S8vyJMsXTXA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by Flow Music)"
+    },
+    {
+      "title": "GUMI",
+      "singer": "Hoshi Ai",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/GUMI%20-%20Hoshi%20Ai%20Music%20Box.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4b/00/65/4b0065c9fd27d0ee873069776a8f079c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=t-DEjAzPzeA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Flow Music)"
+    },
+    {
+      "title": "Lemon",
+      "singer": "Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Lemon%20-%20Kenshi%20Yonezu%20Music%20Box%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/15/93/ed/1593ed12f2315a66b9552da96c5d3cda.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=LdYB-YoAOjc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Flow Music)"
+    },
+    {
+      "title": "March 9 (1リットルの涙)",
+      "singer": "Remioromen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/3%E6%9C%889%E6%97%A5%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/59/ad/c4/59adc41d3df46ba6534ade35b5133335.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=2rlEyqfJJHc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
+      "cover": "(Cover by R3 Music Box )"
+    },
+    {
+      "title": "Konayuki(1リットルの涙)",
+      "singer": "Remioromen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Konayuki.mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/ErPn_iJW4AMcpAp.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=3PS_lShi7nQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=25",
+      "cover": "(Cover by Relax α Wave - Topic)"
+    },
+    {
+      "title": "Grand Escape (Weathering with You OST)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Weathering%20With%20You%20OST%20-%20Grand%20Escape%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://avatarfiles.alphacoders.com/200/200974.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Wk5uoaQTzc0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=95",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Carrying You (Castle in the Sky OST)",
+      "singer": "Azumi Inoue",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%E5%90%9B%E3%82%92%E3%81%AE%E3%81%9B%E3%81%A6%E4%BA%95%E4%B8%8A%E3%81%82%E3%81%9A%E3%81%BF(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000085328517-s0prur-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=OaQhzOaB2xo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
+      "cover": "(Cover by R3 Music Box)"
+    },
+    {
+      "title": "Summertime",
+      "singer": "Cinnamons & Evening Cinema",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Summertime%20Cinnamons%20x%20Evening%20Cinema%20Music%20Box%20Cover(Violin%20X%20Cello%20Official).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/11/87/23/1187235ddef1caa590283cdc72466ac9.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=8d78vtaZVn8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Violin X Cello Official)"
+    },
+    {
+      "title": "Always With Me",
+      "singer": "Youmi Kimura",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Alwayswithme-SpiritedAwayOST.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/57/b7/95/57b79500c34f0229f0bc882e6507cc20.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oK3J0xI_KaY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by ToWiMe)"
+    },
+    {
+      "title": "Lemon",
+      "singer": "Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Lemon%20-%20Yonezu%20Kenshi%20l%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/59/1e/f1/591ef1b1fbd29ae93d3647e6b21f377e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=07iRsCH1aRo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=40",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "Sangatsu Kokonoka (March 9)",
+      "singer": "Remioromen (1リットルの涙)",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Sangatsu%20Kokonoka-%20Remioromen(Piano%20March%209).mp3?raw=true",
+      "coverUrl":
+          "https://logo-imagecluster.img.mixi.jp/photo/comm/2/86/440286_122.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5SUsd0zIo9k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by Ray Krislianggi - AniMusic)"
+    },
+    {
+      "title": "Sparkle (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Sparkle%20-%20Kimi%20no%20Nawa%20(%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF)%20OST%20l%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ae/15/f4/ae15f4431e360a5997dfa86ecc3e11ee.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Gbb3fu631pc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=38",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "Zen Zen Zense (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Zen%20Zen%20Zense%20Kimi%20no%20Nawa%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/83/75/4d/83754d9c24901ad643a403b6846e2e08.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1g0xorm_sJw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=39",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "Irony",
+      "singer": "Majiko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Hatsune%20Miku%20Irony%20%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%8B%20piano%20cover(Xxoo00O00ooxX).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/af/7c/68/af7c68795fa9a000dd3c6ce3a1f7cd61.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rZ5NFnG5h_k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by Xxoo00O00ooxX)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Renai%20Circulation%20%20Kana%20Hanazawa%20%20Bakemonogatari%20OP%204%20Piano(Fonzi%20M%20-%20Melodies%20on%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/60/a9/43/60a94300890d84fefecce018983a2db7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=zZYx2C4oY70&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Cover by Fonzi M - Melodies on Piano)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Renai%20Circulation%20%E3%83%94%E3%82%A2%E3%83%8E(Pan%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000460685424-c47haz-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=GNBwkNo893k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Pan Piano)"
+    },
+    {
+      "title": "Harehare Ya",
+      "singer": "Maigo Hanyuu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Harehare%20Ya%20Sheet%20music%20Piano%20(Annan).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-DVKaOuDNHuaEULue-i2TcWw-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=k5RLIsMOsLg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=39",
+      "cover": "(Cover by Annan)"
+    },
+    {
+      "title": "Kokoronashi Somehow",
+      "singer": "Sou",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Kokoronashi%20Somehow%20%E5%BF%83%E5%81%9A%E3%81%97%20piano(dinhosaurrx~).mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273f672cfe50a513713ea7cdc85",
+      "info":
+          "https://www.youtube.com/watch?v=_fGm_teekjo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=37",
+      "cover": "(Cover by dinhosaurrx~)"
+    },
+    {
+      "title": "Kokoronashi",
+      "singer": "Sou",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Kokoronashi%E8%9D%B6Piano%20Cover(SLSMusic).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000129070881-33exfz-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=H3REpwirkzc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=36",
+      "cover": "(Cover by SLSMusic)"
+    },
+    {
+      "title": "Sparkle (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Sparkle%20%20RADWIMPS(Animenz%20Piano%20Sheets).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/33/17/e4/3317e4e44f971d961cd93a411fa03837.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=cKgnDmpb4BU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=44",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Is There Still Anything That Love Can Do? (Weathering With You)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/There%20Still%20Anything%20That%20Love%20Can%20Do(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/6d/4c/ec/6d4cec0de1ca4f57e78f2a99c09474cb.gif",
+      "info":
+          "https://www.youtube.com/watch?v=RWAj-fX5CyE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "PLANET",
+      "singer": "ラムジ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Ukulele/PLANET%E3%83%A9%E3%83%A0%E3%82%B8%20Fingerstyle%20Ukulele%20Cover(EnyaMusic%20Anny).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/24/13/13/241313ad5124729a15476cdced40ba9f.gif",
+      "info":
+          "https://www.youtube.com/watch?v=JuBxQes1rtk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
+      "cover": "(Cover by EnyaMusic Anny)"
+    },
+    {
+      "title": "Watashi no Uso",
+      "singer": "Your Lie in April OST",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/your%20lie%20in%20aprilwatashi%20no%20uso%20LilyPichu.mp3?raw=true",
+      "coverUrl":
+          "https://i1.wp.com/66.media.tumblr.com/346e7c2dc66daff8e45c0ce881889033/tumblr_nq9xw2wKVE1s5f9ado1_500.gif",
+      "info":
+          "https://www.youtube.com/watch?v=iW_P2UPkpc4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by LilyPichu)"
+    },
+    {
+      "title": "「名探偵コナン」メインテーマ (Detective Conan OST)",
+      "singer": "Katsuo Ohno",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Detective%20Conan%20OST%20(%E6%9C%88%E9%87%8E%E3%82%A2%E3%82%A4%E3%83%A9%E3%80%88Aira%20Piano%E3%80%89).mp3?raw=true",
+      "coverUrl":
+          "https://data.whicdn.com/images/156253303/original.gif",
+      "info":
+          "https://www.youtube.com/watch?v=3B19vmd_-Y4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Cover by 月野アイラ〈Aira Piano〉)"
+    }
+  ]
+}

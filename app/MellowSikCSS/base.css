@@ -1,0 +1,51 @@
+/*************** 
+ * BASE STYLES *
+ ***************/
+
+/* Variables */
+:root {
+  --blue: #2d46b9;
+  --white: #ffffff;
+  --white2: #dfe6e9;    
+  --black: #000000;
+  --black2: #2d3436;    
+  --green1: #1ed760;
+  --green2: #1db954;
+  --gray1: #c1c3c6;
+  --gray2: #919496;
+  --gray3: #616467;
+  --yellow1: #ffeaa7; 
+  --yellow2: #fdcb6e;    
+  --hero-bg-color: #636e72;
+  --hero-terms-link: #efefef;
+  --MellowSik-bg-color: #636e72;
+}
+
+/* Overwrite browser defaults */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}

@@ -1,0 +1,27 @@
+{
+  "numSong": 2,
+  "api": [
+   {
+      "title": "Count On Me",
+      "singer": "Bruno Mars",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Coun%20On%20Me-Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://m.media-amazon.com/images/I/717FVMJIJCL._SS500_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=EbAcN0WfSG0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=38",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "PLANET",
+      "singer": "ラムジ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Ukulele/PLANET%E3%83%A9%E3%83%A0%E3%82%B8%20Fingerstyle%20Ukulele%20Cover(EnyaMusic%20Anny).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/24/13/13/241313ad5124729a15476cdced40ba9f.gif",
+      "info":
+          "https://www.youtube.com/watch?v=JuBxQes1rtk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
+      "cover": "(Cover by EnyaMusic Anny)"
+    }
+  ]
+}
