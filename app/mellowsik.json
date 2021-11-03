@@ -2369,6 +2369,50 @@
       "cover": "(Cover by Andrew Foy 앤디)"
     },
     {
+      "title": "Peer Gynt - Morning Mood",
+      "singer": "Edvard Grieg",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Grieg%20-%20Peer%20Gynt%20_%20Oramo%20%C2%B7%20Berliner%20Philharmoniker%20-%20(Akademia%20Filmu%20i%20Telewizji).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.youtube.com/watch?v=QCiQho5DzfY",
+      "cover": "(Cover by Berliner Philharmoniker)"
+   },
+   {
+      "title": "Mariage d'Amour",
+      "singer": "Richard Clayderman",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Mariage%20d'Amour%20-%20Paul%20de%20Senneville%20_%20Jacob's%20Piano%20-%20(Jacob's%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.youtube.com/watch?v=FoCG-WNsZio&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=3",
+      "cover": "(Cover by Jacob's Piano)"
+   },
+   {
+      "title": "Eine Kleine Nachtmusik",
+      "singer": "Mozart",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Eine%20Kleine%20Nachtmusik%20-%20Mozart%20-%20(AllClassicalMusic).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4e/34/c3/4e34c3eec1d34cc1d44d5b3ba3786b60.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oy2zDJPIgwc&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=4",
+      "cover": "(Cover by AllClassicalMusic)"
+   },
+   { 
+      "title": "Für Elise",
+      "singer": "Ludwig van Beethoven",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Beethoven%20-%20F%C3%BCr%20Elise%20_%20Piano%20%26%20Orchestra%20-%20(Georgii%20Cherkin%20LIVE).mp3?raw=true",
+      "coverUrl":
+          "https://www.biography.com/.image/t_share/MTI2NTgyMzIxOTcyMjU5NDU5/beethoven-600x600jpg.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=e4d0LOuP4Uw&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=2",
+      "cover": "(Cover by Georgii Cherkin LIVE)"
+   },
+    {
       "title": "My Heart Will Go on",
       "singer": "Celine Dion",
       "url":
