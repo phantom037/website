@@ -1,5 +1,5 @@
 {
-  "numSong": 66,
+  "numSong": 68,
   "api": [
     {
       "title": "Let It Go (Frozen OST)",
@@ -11,6 +11,28 @@
       "info":
           "https://www.youtube.com/watch?v=AAnID4RS7Vg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=110",
       "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Why Not Me",
+      "singer": "Enrique Iglesias",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Why%20Not%20Me%20(Enrique%20Iglesias)%20-%20Guitar%20(Nguy%E1%BB%85n%20Hu%E1%BB%B3nh%20Th%C3%A1i%20-%20R%C3%A8).mp3?raw=true",
+      "coverUrl":
+          "https://avatar-ex-swe.nixcdn.com/playlist/2016/07/14/2/4/5/3/1468486450547_500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=wVdQjZxUb1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Nguyễn Huỳnh Thái - Rè)"
+    },
+    {
+      "title": "You Belong With Me",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/you%20belong%20with%20me%20-%20taylor%20swift%20-%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/87/6e/6e/876e6ef3b13a578e3f7d32aba863febc.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9SCluoF_ick&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by paul iballa)"
     },
     {
       "title": "It Ain't Me",
