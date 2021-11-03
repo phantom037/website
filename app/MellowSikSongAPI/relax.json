@@ -1,6 +1,28 @@
 {
-  "numSong": 147,
+  "numSong": 149,
   "api": [
+    {
+      "title": "Monsters",
+      "singer": "Katie Sky",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Monsters%20-%20Katie%20Sky%20_%20Cover%20%E9%82%93%E5%A3%AC%E9%91%AB%20-%20(OkaMeoww).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000248106304-ang1c5-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6rmj5Rmhhws&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by OkaMeoww)"
+    },
+    {
+      "title": "Why Not Me",
+      "singer": "Enrique Iglesias",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Why%20Not%20Me%20(Enrique%20Iglesias)%20-%20Guitar%20(Nguy%E1%BB%85n%20Hu%E1%BB%B3nh%20Th%C3%A1i%20-%20R%C3%A8).mp3?raw=true",
+      "coverUrl":
+          "https://avatar-ex-swe.nixcdn.com/playlist/2016/07/14/2/4/5/3/1468486450547_500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=wVdQjZxUb1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Nguyễn Huỳnh Thái - Rè)"
+    },
     {
       "title": "It Ain't Me",
       "singer": "Selena Gomez & Kygo",
