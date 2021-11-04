@@ -1,4 +1,5 @@
 [
+     
      {
       "title": "I Really Like You",
       "singer": "Carly Rae Jepsen",
@@ -21,6 +22,116 @@
           "https://www.youtube.com/watch?v=wVdQjZxUb1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
       "cover": "(Cover by Nguyễn Huỳnh Thái - Rè)"
     },
+    {
+      "title": "Coincidence (Let's Fight Ghost OST)",
+      "singer": "Kim Sohee & Song Yubin",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Coincidence%20-%20Let's%20Fight%20Ghost%20-%20(%C3%9D%20Nhi%C3%AAn).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/77/31/287731bf3fe03b62892d45adb5242f8a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=mvk41pESSdM",
+      "cover": "(Cover by Ý Nhiên)"
+   },
+   {
+      "title": "Good Morning (Fight For My Way OST)",
+      "singer": "Kim Sohee & Song Yubin",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Good%20Morning%20-%20Fight%20for%20my%20way%20-%20(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/77/31/287731bf3fe03b62892d45adb5242f8a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=mLdw8bnt7WY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Pianoheart)"
+   },
+   {
+      "title": "I'm Saying (The Heirs OST)",
+      "singer": "Lee Hong Ki",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/I'm%20Saying%20%EB%A7%90%EC%9D%B4%EC%95%BC%20(The%20Heirs%20OST)%20-%20(Animexduo).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/77/31/287731bf3fe03b62892d45adb5242f8a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9qO3IXSrU18&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by Animexduo)"
+   },
+   {
+      "title": "I'm Saying (The Heirs OST)",
+      "singer": "Lee Hong Ki",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/I'm%20Saying%20%EB%A7%90%EC%9D%B4%EC%95%BC%20(The%20Heirs%20OST)%20-%20(Animexduo).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ed/1d/97/ed1d97560be01fe8686c64a27fb4ffc0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=v06uRd6GBOo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Animexduo)"
+   },
+   {
+      "title": "Moment (The Heirs OST)",
+      "singer": "Lee Chang Min",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Moment%20(The%20Heirs%20OST)%20-%20(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/1e/73/22/1e7322cbc04e66acbe41f89fff5b7448.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=KiylJwIbjLg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Pianoheart)"
+   },
+   {
+      "title": "No Way (Doctor OST)",
+      "singer": "Park Yongin & Kwon Soonil",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/No%20Way%20Doctor%20OST%20-%20(Funguypiano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/1e/73/22/1e7322cbc04e66acbe41f89fff5b7448.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=r9A8YBjQCDQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Funguypiano)"
+   },
+   {
+      "title": "Say Yes (Moon Lovers OST)",
+      "singer": "Loco & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Say%20Yes%20by%20Loco%20%2C%20Punch%20-%20Scarlet%20Heart%20Ryeo%20OST%20-%20%20(Funguypiano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c3/c7/70/c3c7702575668778b38ada584af530cf.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=e-2CUyzSo8g",
+      "cover": "(Cover by Funguypiano)"
+   },
+   {
+      "title": "Reset",
+      "singer": "Tiger JK & Jinsil",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Tiger%20JK%20-%20Reset%20(Feat.%20Jinsil%20%EC%A7%84%EC%8B%A4%20Of%20Mad%20Soul%20Child)%20-%20(Blowing%20In%20The%20Wind).mp3?raw=true",
+      "coverUrl":
+          "hhttps://i.pinimg.com/564x/e7/40/7d/e7407d9d0a4f71a0c018501d7cbc30e9.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=f8Jcey0N1c0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Blowing In The Wind)"
+   },
+   {
+      "title": "Ambiguous (Fight For My Way OST)",
+      "singer": "BtoB",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/Ambiguous%20(Fight%20For%20My%20Way)%20-%20(R3%20Music%20Box).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/aa/38/36/aa38361b7a0529b13fc92ea28029a029.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=gjbhoUh2APU",
+      "cover": "(Cover by R3 Music Box)"
+   }, 
+   {
+      "title": "Say Yes (Moon Lovers OST)",
+      "singer": "Loco & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Say%20Yes%20-%20Loco%20x%20Punch%20-%20(Jorell%20Prospero).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bd/71/4b/bd714bade09c73c86f9bd239a1b1b059.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ONmiTg9XW1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Jorell Prospero)"
+   }, 
     {
       "title": "You Belong With Me",
       "singer": "Taylor Swift",
