@@ -1,5 +1,5 @@
 {
-  "numSong": 29,
+  "numSong": 30,
   "api": [
      {
       "title": "Canon In D",
@@ -11,6 +11,17 @@
       "info":
           "https://www.youtube.com/watch?v=q_WH3miXs0M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
       "cover": "(Cover by DeepBlue5412)"
+    },
+    {
+      "title": "Ambiguous (Fight For My Way OST)",
+      "singer": "BtoB",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/Ambiguous%20(Fight%20For%20My%20Way)%20-%20(R3%20Music%20Box).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/aa/38/36/aa38361b7a0529b13fc92ea28029a029.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=gjbhoUh2APU",
+      "cover": "(Cover by R3 Music Box)"
     },
     {
       "title": "Snow Flower",
