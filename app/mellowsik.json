@@ -1,28 +1,16 @@
 [
-     
-     {
+          {
       "title": "I Really Like You",
       "singer": "Carly Rae Jepsen",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20Violin%20Cover%20-(Laurent%20Bernadac).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20(Ray%20Mak).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/27/d8/b1/27d8b11b767db8322724c36c8568369b.jpg",
+          "https://avatar-ex-swe.nixcdn.com/song/2018/10/30/2/4/7/9/1540882623377_640.jpg",
       "info":
-          "https://www.youtube.com/watch?v=5PF40Zs3sz4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
-      "cover": "(Cover by Laurent Bernadac)"
+          "https://www.youtube.com/watch?v=v06uRd6GBOo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Ray Mak)"
      },
      {
-      "title": "Why Not Me",
-      "singer": "Enrique Iglesias",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Why%20Not%20Me%20(Enrique%20Iglesias)%20-%20Guitar%20(Nguy%E1%BB%85n%20Hu%E1%BB%B3nh%20Th%C3%A1i%20-%20R%C3%A8).mp3?raw=true",
-      "coverUrl":
-          "https://avatar-ex-swe.nixcdn.com/playlist/2016/07/14/2/4/5/3/1468486450547_500.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=wVdQjZxUb1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
-      "cover": "(Cover by Nguyễn Huỳnh Thái - Rè)"
-    },
-    {
       "title": "Coincidence (Let's Fight Ghost OST)",
       "singer": "Kim Sohee & Song Yubin",
       "url":
@@ -98,40 +86,40 @@
       "info":
           "https://www.youtube.com/watch?v=f8Jcey0N1c0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
       "cover": "(Cover by Blowing In The Wind)"
-    },
-   {
-      "title": "Ambiguous (Fight For My Way OST)",
-      "singer": "BtoB",
+     },
+     {
+      "title": "Monsters",
+      "singer": "Katie Sky",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/Ambiguous%20(Fight%20For%20My%20Way)%20-%20(R3%20Music%20Box).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Monsters%20-%20Katie%20Sky%20_%20Cover%20%E9%82%93%E5%A3%AC%E9%91%AB%20-%20(OkaMeoww).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/aa/38/36/aa38361b7a0529b13fc92ea28029a029.jpg",
+          "https://i1.sndcdn.com/artworks-000248106304-ang1c5-t500x500.jpg",
       "info":
-          "https://www.youtube.com/watch?v=gjbhoUh2APU",
-      "cover": "(Cover by R3 Music Box)"
-   }, 
-   {
-      "title": "Say Yes (Moon Lovers OST)",
-      "singer": "Loco & Punch",
+          "https://www.youtube.com/watch?v=6rmj5Rmhhws&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by OkaMeoww)"
+     },
+     {
+      "title": "Why Not Me",
+      "singer": "Enrique Iglesias",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Say%20Yes%20-%20Loco%20x%20Punch%20-%20(Jorell%20Prospero).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Why%20not%20me%20-%20Enrique%20Iglesias%20_%20Piano%20-%20(I%20live%20in%20my%20world).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/bd/71/4b/bd714bade09c73c86f9bd239a1b1b059.jpg",
+          "https://1.bp.blogspot.com/-58NtJBOQ8-I/XW4bSSRh6KI/AAAAAAAACK4/KyXflpjeWw0vzg4KLepuTz-9N0MkSqz8wCLcBGAs/s1600/bai194.jpg",
       "info":
-          "https://www.youtube.com/watch?v=ONmiTg9XW1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
-      "cover": "(Cover by Jorell Prospero)"
-   }, 
-    {
+          "https://www.youtube.com/watch?v=y0k3h2iCDog&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by I live in my world)"
+     },
+     {
       "title": "You Belong With Me",
       "singer": "Taylor Swift",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/you%20belong%20with%20me%20-%20taylor%20swift%20-%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20-%20You%20Belong%20With%20Me%20piano%20-%20(TAM%20TAM%20MUSIC).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/87/6e/6e/876e6ef3b13a578e3f7d32aba863febc.jpg",
+          "https://i.scdn.co/image/ab67616d0000b273b787fda21f1fe8e6d81c6e85",
       "info":
-          "https://www.youtube.com/watch?v=9SCluoF_ick&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
-      "cover": "(Cover by paul iballa)"
-    },
+          "https://www.youtube.com/watch?v=GeierEnSkrQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by TAM TAM MUSIC)"
+     },
      {
       "title": "Sweet But Psycho",
       "singer": "Ava Max",
@@ -1515,642 +1503,708 @@
       "cover": "(Cover by 月野アイラ〈Aira Piano〉)"
     },
     {
-      "title": "Silent Night",
-      "singer": "Christmas carol",
+      "title": "Canon In D",
+      "singer": "Johann Pachelbel",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Silent%20Night.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/CanonInD-MusicBox.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/originals/fc/e2/ad/fce2adc404993736148bb29acccb1ce7.jpg",
+          "https://i.pinimg.com/564x/a1/4c/04/a14c043a8523e5f03a21c3b9cea18f5e.jpg",
       "info":
-          "https://www.abijahgupta.com/christmas.html",
-      "cover": "(Cover by Abijah)"
+          "https://www.youtube.com/watch?v=q_WH3miXs0M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
+      "cover": "(Cover by DeepBlue5412)"
     },
     {
-      "title": "Joy To The World",
-      "singer": "Christmas carol",
+      "title": "Ambiguous (Fight For My Way OST)",
+      "singer": "BtoB",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Joy%20To%20The%20World.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/Ambiguous%20(Fight%20For%20My%20Way)%20-%20(R3%20Music%20Box).mp3?raw=true",
       "coverUrl":
-          "https://www.london.gov.uk/sites/default/files/carols-in-the-square-659-1x1.jpg?v=214219",
+          "https://i.pinimg.com/564x/aa/38/36/aa38361b7a0529b13fc92ea28029a029.jpg",
       "info":
-          "https://www.abijahgupta.com/christmas.html",
-      "cover": "(Cover by Abijah)"
-    },
-    {
-      "title": "Deck The Halls",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Deck%20The%20Halls.mp3?raw=true",
-      "coverUrl":
-          "https://kiddiehood.com.au/wp-content/uploads/2019/11/IMG_3848.jpg",
-      "info":
-          "https://www.abijahgupta.com/christmas.html",
-      "cover": "(Cover by Abijah)"
-    },
-    {
-      "title": "Blue Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Blue%20Christmas.mp3?raw=true",
-      "coverUrl":
-          "https://resizer.otstatic.com/v2/photos/xlarge/25959844.jpg",
-      "info":
-          "https://www.abijahgupta.com/christmas.html",
-      "cover": "(Cover by Abijah)"
-    },
-    {
-      "title": "Ave Maria",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Ave%20Maria.mp3?raw=true",
-      "coverUrl":
-          "https://www.abijahgupta.com/assets/music_albumart/abijah-gupta-christmas-album.png",
-      "info":
-          "https://www.abijahgupta.com/christmas.html",
-      "cover": "(Cover by Abijah)"
-    },
-    {
-      "title": "Angels We Have Heard on High",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Angels%20We%20Have%20Heard%20on%20High%20%E2%80%A2%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/f4/f7/32/f4f7327a44a85e5041c9cbe70730bc50.gif",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "Fairest Lord Jesus",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Fairest%20Lord%20Jesus%20%E2%80%A2%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/8d/f5/66/8df5666b29e6bac4897569b3b1fa8fdc.jpg",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "In the Bleak Midwinter",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/In%20the%20Bleak%20Midwinter%20-%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/00/fa/58/00fa5829adeba57d04907012fc2b5d76.jpg",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "It Came Upon a Midnight Clear",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/It%20Came%20Upon%20a%20Midnight%20Clear%20%E2%80%A2%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/d2/7a/42/d27a42e818f8e3a73e878e4fd65e33fa.jpg",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "O Come, All Ye Faithful",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/O%20Come%2C%20All%20Ye%20Faithful%20%E2%80%A2%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/fc/93/5a/fc935a0b48827a1659a889224301b128.gif",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "O Holy Night",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/O%20Holy%20Night%20%E2%80%A2%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/f4/d2/9c/f4d29cff7b51f31066efcdd6d73c53af.jpg",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "Silent Night",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Silent%20Night%20%E2%80%A2%20(Soothing%20Relaxation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/00/4c/6d/004c6dd9137b6611d991cfacfcd625ae.jpg",
-      "info":
-          "https://soothingrelaxation.lnk.to/listenYL",
-      "cover": "(Cover by Peder B. Helland)"
-    },
-    {
-      "title": "Jingle Bell",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Jingle%20Bell%20-%20(H%C3%B9ng%20Music).mp3?raw=true",
-      "coverUrl":
-          "https://p.favim.com/orig/2018/12/20/red-christmas-aesthetic-Favim.com-6695517.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=ytoRcid3UGA&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=2",
-      "cover": "(Cover by Hùng Music)"
-    },
-    {
-      "title": "Silent Night",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Silent%20Night%20(Christmas%20Piano%20Cover)%20-%20(Rousseau).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/00/4c/6d/004c6dd9137b6611d991cfacfcd625ae.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=MhC90ReY49I&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=14",
-      "cover": "(Cover by Rousseau)"
-    },
-    {
-      "title": "Silent Night",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Silent%20Night%20-%20Instrumental%20-%20(bdProductions%20%20Music%20For%20Videos).mp3?raw=true",
-      "coverUrl":
-          "https://static.dezeen.com/uploads/2019/06/fuglemyrhytta-olso-cabin-snohetta_dezeen_2364_sq_0-411x411.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=IJsy77j56gA&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=4",
-      "cover": "(Cover by bdProductions Music For Videos)"
-    },
-    {
-      "title": "We Wish You a Merry Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/We%20Wish%20You%20a%20Merry%20Christmas%20-%20%20(Pudding%20TV%20-%20Nursery%20Rhymes).mp3?raw=true",
-      "coverUrl":
-          "https://www.lovethispic.com/uploaded_images/320022-Christmas-Lights-On-A-Snowy-Winter-Night.gif",
-      "info":
-          "https://www.youtube.com/watch?v=8vdXR_igALU&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=13",
-      "cover": "(Cover by Pudding TV - Nursery Rhymes)"
-    },
-    {
-      "title": "We Wish You a Merry Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/We%20Wish%20You%20a%20Merry%20Christmas%20-%20(Audio%20Library%20%E2%80%94%20Music%20for%20content%20creators).mp3?raw=true",
-      "coverUrl":
-          "http://i.123g.us/c/edec_c_newjingle/card/310721.gif",
-      "info":
-          "https://www.youtube.com/watch?v=vAwDyMz2j5I&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=5",
-      "cover": "(Cover by Audio Library — Music for content creators)"
-    },
-    {
-      "title": "Last Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Wham!%20-%20Last%20Christmas%20(Piano%20Cover).mp3?raw=true",
-      "coverUrl":
-          "https://c.tenor.com/nmHQOEEkpQoAAAAC/christmas-merry-christmas.gif",
-      "info":
-          "https://www.youtube.com/watch?v=ZKlpFNknBps&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=3",
-      "cover": "(Cover by Rousseau)"
-    },
-    {
-      "title": "Silent Night",
-      "singer": "Michael Ramir C.",
-      "url":
-          "https://assets.mixkit.co/music/preview/mixkit-a-very-happy-christmas-897.mp3",
-      "coverUrl":
-          "https://i.pinimg.com/originals/fa/45/50/fa455000b40c5d1a911a22d167688800.gif",
-      "info":
-          "https://mixkit.co/free-stock-music/tag/christmas/",
-      "cover": "(Mixkit Version)"
-    },
-    {
-      "title": "We Wish You A Merry Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/we%20wish%20you%20a%20Merry%20Christmas%20-%20(ViOLiNiA%20Zhanna%20Stelmakh).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/81/14/16/811416b42ba5d8c0473aca96f36b765b.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=K6hAjE27mAc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
-      "cover": "(Cover by ViOLiNiA Zhanna Stelmakh)"
-    },
-    {
-      "title": "All I Want For Christmas is You",
-      "singer": "Mariah Carey",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/All%20I%20Want%20For%20Christmas%20is%20You%20-%20(rainbowpig2).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/56/0f/b1/560fb11625d8de608941926a19dbb1d8.gif",
-      "info":
-          "https://www.youtube.com/watch?v=xDcaAtMCwBE&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=17",
-      "cover": "(Cover by rainbowpig2)"
-    },
-    {
-      "title": "Feliz Navidad",
-      "singer": "José Feliciano, Raananá Symphonette Orchestra",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Feliz%20Navidad%20-%20(INSTRUMENTAL%20DREAMS).mp3?raw=true",
-      "coverUrl":
-          "https://i.gifer.com/SYtj.gif",
-      "info":
-          "https://www.youtube.com/watch?v=V16YGmw7N9c&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=5",
-      "cover": "(Cover by INSTRUMENTAL DREAMS)"
-    },
-    {
-      "title": "Feliz Navidad",
-      "singer": "José Feliciano, Raananá Symphonette Orchestra",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Feliz%20Navidad%20-%20(max).mp3?raw=true",
-      "coverUrl":
-          "https://png.pngtree.com/png-clipart/20191123/ourlarge/pngtree-creative-hand-drawn-merry-christmas-art-word-png-image_2005560.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=3_a-7zeKqz8&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=5",
-      "cover": "(Cover by max)"
-    },
-    {
-      "title": "It Came Upon The Midnight Clear",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/It%20Came%20Upon%20The%20Midnight%20Clear%20-%20(SweTunes).mp3?raw=true",
-      "coverUrl":
-          "https://img.freepik.com/free-vector/hand-drawn-merry-christmas-decorative-background-design_1017-28933.jpg?size=1080&ext=jpg",
-      "info":
-          "https://www.youtube.com/watch?v=YiJZmsgfXpY&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=8",
-      "cover": "(Cover by SweTunes)"
-    },
-    {
-      "title": "It Came Upon The Midnight Clear",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/It%20Came%20Upon%20the%20Midnight%20Clear%20-%20(Kaleb%20Brasee).mp3?raw=true",
-      "coverUrl":
-          "https://img.freepik.com/free-vector/3d-glossy-xmas-trees-with-golden-stars_1302-24063.jpg?size=720&ext=jpg",
-      "info":
-          "https://www.youtube.com/watch?v=iSiq44VDrio&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=9",
-      "cover": "(Cover by Kaleb Brasee)"
-    },
-    {
-      "title": "Jingle Bell Rock",
-      "singer": "Bobby Helms",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Jingle%20Bell%20Rock%20-%20(genyinalamp).mp3?raw=true",
-      "coverUrl":
-          "https://media.istockphoto.com/vectors/santa-claus-and-text-christmas-tree-vector-id165961508?k=20&m=165961508&s=612x612&w=0&h=vfd1XOE7Kh-YZ_G5XoCsGEgmQzpG3SV0dbEgUuj8km0=",
-      "info":
-          "https://www.youtube.com/watch?v=n0hhl5XT11c&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=13",
-      "cover": "(Cover by genyinalamp)"
-    },
-    {
-      "title": "Jingle Bells",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Jingle%20Bells%20-%20(Andr%C3%A9%20Rieu).mp3?raw=true",
-      "coverUrl":
-          "https://image.freepik.com/free-vector/christmas-tree-made-golden-stars_1199-175.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=0xZRLyDeD5E&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=12",
-      "cover": "(Cover by André Rieu)"
-    },
-    {
-      "title": "Jingle Bells",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Jingle%20Bells%20-%20(KON).mp3?raw=true",
-      "coverUrl":
-          "https://www.smitcreation.com/sc/05/32761/32761.gif",
-      "info":
-          "https://www.youtube.com/watch?v=R1gskElaLNo&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=15",
-      "cover": "(Cover by KON)"
-    },
-    {
-      "title": "Jingle Bells",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Jingle%20Bells%20-(Adrian%20Covaci).mp3?raw=true",
-      "coverUrl":
-          "https://875399.smushcdn.com/1944427/wp-content/uploads/2018/06/1m-1.5m-Fibre-Optic-Colourful-Flashing-LED-Light-Christmas-Tree-9.gif?lossy=1&strip=1&webp=1",
-      "info":
-          "https://www.youtube.com/watch?v=M86zQErvfU8",
-      "cover": "(Cover by Adrian Covaci)"
-    },
-    {
-      "title": "Last Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Last%20Christmas%20-%20(Antonino%20Imanuel%20Piano%20%26%20Orchestra%20Musicl).mp3?raw=true",
-      "coverUrl":
-          "https://h2.commercev3.net/cdn.bitsandpiecescanada.ca/images/1000/42523.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=njV7CwSUNeY",
-      "cover": "(Cover by Antonino Imanuel Piano & Orchestra Musicl)"
-    },
-    {
-      "title": "Last Christmas",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Last%20Christmas%20-%20(iViolation).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/3c/0d/b3/3c0db319ad71c8448b30c88890d39084.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=aWVL_yLoTzc&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=2",
-      "cover": "(Cover by iViolation)"
-    },
-    {
-      "title": "The First Noel",
-      "singer": "Pentatonix",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/London%20Symphony%20Orchestra%20-%20The%20First%20Noel%20-%20(TAM%20TAM%20MUSIC).mp3?raw=true",
-      "coverUrl":
-          "https://20fd661yccar325znz1e9bdl-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/twinkle-star-star-string-lights-christmas-lights.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=_2o5PwBGNyM&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=9",
-      "cover": "(Cover by TAM TAM MUSIC)"
-    },
-    {
-      "title": "All I Want For Christmas is You",
-      "singer": "Mariah Carey",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Mariah%20Carey%20-%20All%20I%20Want%20For%20Christmas%20Is%20You%20-%20(Rousseau).mp3?raw=true",
-      "coverUrl":
-          "https://static-01.daraz.com.bd/p/c1a90b3e3ea590c10d9a228651b025e5.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=K6hAjE27mAc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
-      "cover": "(Cover by Rousseau)"
-    },
-    {
-      "title": "All I Want For Christmas is You",
-      "singer": "Mariah Carey",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Mariah%20Carey%20-%20All%20I%20Want%20For%20Christmas%20Is%20You%20_%20Piano%20-%20(Francesco%20Parrino).mp3?raw=true",
-      "coverUrl":
-          "https://cf.shopee.ph/file/4524e7f6dd43319670fc5eca05c4c066",
-      "info":
-          "https://www.youtube.com/watch?v=0GJRdRBfGyA&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=19",
-      "cover": "(Cover by Francesco Parrino)"
-    },
-    {
-      "title": "Mary's Boy Child",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Mary's%20Boy%20Child%20-%20(Caroline%20Hanna).mp3?raw=true",
-      "coverUrl":
-          "https://data.whicdn.com/images/338945161/original.gif",
-      "info":
-          "https://www.youtube.com/watch?v=H7gawdxT104",
-      "cover": "(Cover by Caroline Hanna)"
-    },
-    {
-      "title": "Mary's Boy Child",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Mary's%20Boy%20Child%20-%20Piano%20Cover%20-%20(Rafael%20Atantya).mp3?raw=true",
-      "coverUrl":
-          "https://cdn.lowgif.com/full/18cbe9b7cb6df14d-100-feet-gif-find-share-on-giphy.gif",
-      "info":
-          "https://www.youtube.com/watch?v=7oXSNO82WF0",
-      "cover": "(Cover by Rafael Atantya)"
-    },
-    {
-      "title": "O Holy Night",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/O%20Holy%20Night%20(Rousseau).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/7b/56/99/7b569930c810d79b791102f027a7e461.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=dwJ04_9LGrM&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=14",
-      "cover": "(Cover by Rousseau)"
-    },
-    {
-      "title": "O Holy Night",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/O%20Holy%20Night%20-%20(iMusico).mp3?raw=true",
-      "coverUrl":
-          "http://www.lovethispic.com/uploaded_images/379521-Merry-Christmas-Wreath-Animated-Quote.gif",
-      "info":
-          "https://www.youtube.com/watch?v=1q43RZgQSC4&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=16",
-      "cover": "(Cover by iMusico)"
-    },
-    {
-      "title": "Santa Claus Is Coming To Town",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Santa%20Claus%20Is%20Coming%20To%20Town%20-%20(genyinalamp).mp3?raw=true",
-      "coverUrl":
-          "https://thumbs.gfycat.com/CloudyPiercingDarwinsfox-size_restricted.gif",
-      "info":
-          "https://www.youtube.com/watch?v=dCXzcQPjaq8&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=3",
-      "cover": "(Cover by genyinalamp)"
-    },
-    {
-      "title": "Santa Claus Is Coming To Town",
-      "singer": "Christmas carol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Santa%20Claus%20Is%20Coming%20to%20Town%20-%20(R3%20Music%20Box).mp3?raw=true",
-      "coverUrl":
-          "https://www.digitalartsonline.co.uk/cmsdata/slideshow/3637622/nancy-chiang_05_snow_globe_1.gif",
-      "info":
-          "https://www.youtube.com/watch?v=zoyy-CxKukM",
+          "https://www.youtube.com/watch?v=gjbhoUh2APU",
       "cover": "(Cover by R3 Music Box)"
     },
     {
-      "title": "Last Christmas",
-      "singer": "Christmas carol",
+      "title": "Snow Flower",
+      "singer": "Park Hyo Shin",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Wham!%20-%20Last%20Christmas%20-%20(Epic%20Orchestra).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/snowflower.mp3?raw=true",
       "coverUrl":
-          "https://images.squarespace-cdn.com/content/v1/5358544be4b0fde632927355/1511721476963-49AV2QLBZI7ACGLS15UO/ChristmasTreeDress.gif?format=1500w",
+          "https://i.pinimg.com/564x/52/a4/81/52a4811ef83e9dad35fc937dfa4c5d52.jpg",
       "info":
-          "https://www.youtube.com/watch?v=R95K8crD94M&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=1",
-      "cover": "(Cover by Epic Orchestra)"
+          "https://www.youtube.com/watch?v=R2BSBOvUQWk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Music Box by Flow Music)"
     },
     {
-      "title": "The First Noel",
-      "singer": "Pentatonix",
+      "title": "Uchiage Hanabi",
+      "singer": "Daoko and Kenshi Yonezu",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/The%20First%20Noel%20-%20(The%20Spirit%20of%20Orchestral%20Music).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Uchiage%20Hanabi%20Music%20Box%20Cover.mp3?raw=true",
       "coverUrl":
-          "https://data.whicdn.com/images/302342301/original.gif",
+          "https://i.pinimg.com/564x/16/b7/11/16b711608d72dd16e1662944726ea428.jpg",
       "info":
-          "https://www.youtube.com/watch?v=kGD0_Xuq1IE&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=10",
-      "cover": "(Cover by The Spirit of Orchestral Music)"
+          "https://www.youtube.com/watch?v=S8vyJMsXTXA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by Flow Music)"
     },
     {
-      "title": "The First Noel",
-      "singer": "Pentatonix",
+      "title": "Memories",
+      "singer": "Maroon 5",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/The%20First%20Noel_Christmas%20Song%20-%20(R3%20Music%20Box).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Maroon%205%20-%20Memories.mp3?raw=true",
       "coverUrl":
-          "https://i.imgur.com/TbSAymQ.gif",
+          "https://i.pinimg.com/474x/29/18/62/291862dab6db10ae7f276fefcc5537a8.jpg",
       "info":
-          "https://www.youtube.com/watch?v=XqEtEe7JX60&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=11",
+          "https://www.youtube.com/watch?v=NRWfEu3JRcc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Musicbox Cover)"
+    },
+    {
+      "title": "GUMI",
+      "singer": "Hoshi Ai",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/GUMI%20-%20Hoshi%20Ai%20Music%20Box.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4b/00/65/4b0065c9fd27d0ee873069776a8f079c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=t-DEjAzPzeA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Flow Music)"
+    },
+     {
+      "title": "Fox Rain",
+      "singer": "Lee Sun Hee",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Fox%20RainLee%20Sun%20Hee%20%5BMusic%20Box%5D.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/d9/a7/b2/d9a7b22102edfc88bb79eb63fb1d8b38.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=A_WHcuoxCj8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Music Box by R3 Music)"
+    },
+    {
+      "title": "Lemon",
+      "singer": "Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Lemon%20-%20Kenshi%20Yonezu%20Music%20Box%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/15/93/ed/1593ed12f2315a66b9552da96c5d3cda.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=LdYB-YoAOjc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Flow Music)"
+    },
+    {
+      "title": "March 9 (1リットルの涙)",
+      "singer": "Remioromen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/3%E6%9C%889%E6%97%A5%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/59/ad/c4/59adc41d3df46ba6534ade35b5133335.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=2rlEyqfJJHc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
+      "cover": "(Cover by R3 Music Box )"
+    },
+    {
+      "title": "Always",
+      "singer": "Yoon Mi Rae",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Always-MusicBox.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/27/76/57/2776574535317a2f12d3148907e8b5f3.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=xN_vIbpYV0o&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
+      "cover": "(Cover by relaxu)"
+    },
+    {
+      "title": "Beautiful In White",
+      "singer": "Westlife",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Beautiful%20in%20White%20by%20Westlife%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/0a/3b/03/0a3b03ce300f33a79195dff734249b99.gif",
+      "info":
+          "https://www.youtube.com/watch?v=0f45P8GETqE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=92&t=49s",
+      "cover": "(Cover by Music Box Melodies)"
+    },
+    {
+      "title": "Everytime",
+      "singer": "CHEN (EXO) & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/CHEN%20(EXO)%20%26%20Punch%20%E2%80%93%20Everytime%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/6e/f6/16/6ef616b887e51c343191abf9e45eeb0a.gif",
+      "info":
+          "https://www.youtube.com/watch?v=cXdykBGeGCI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=91&t=33s",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Call Me Baby",
+      "singer": "Carly Rae Jepsen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Carly%20Rae%20Jepsen%20Call%20Me%20Maybe%20Musicbox.mp3?raw=true",
+      "coverUrl":
+          "https://media.tenor.com/images/3e898037d1d1d7aaed83786bada0ad00/tenor.gif",
+      "info":
+          "https://www.youtube.com/watch?v=SCIohy4z_k8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=89",
+      "cover": "(Musicbox Cover)"
+    },
+    {
+      "title": "We Don't Talk Anymore",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Charlie%20Puth%20We%20Don't%20Talk%20Anymore%20(Musicbox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/93/73/46/9373463c019496ea2e32370ab148d4ca.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qFokXdA8eVc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=88&t=34s",
+      "cover": "(Musicbox Cover)"
+    },
+     {
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Ed%20Sheeran%20-%20Perfect%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/68/6d/3b/686d3bd01a52b6ce54a5dcd979c3e764.gif",
+      "info":
+          "https://www.youtube.com/watch?v=rvDdXRuCbME&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=93",
+      "cover": "(Musicbox cover)"
+    },
+    {
+      "title": "Summertime",
+      "singer": "Cinnamons & Evening Cinema",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Kimi%20no%20Toriko%20(Summertime)%20Music%20Box.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/95/48/ce/9548ce1af4cd2ec9946bfd1e1fe87cae.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ftggefpJvq4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=43",
+      "cover": "(Cover by Project Lullaby)"
+    },
+    {
+      "title": "Konayuki(1リットルの涙)",
+      "singer": "Remioromen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Konayuki.mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/ErPn_iJW4AMcpAp.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=3PS_lShi7nQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=25",
+      "cover": "(Cover by Relax α Wave - Topic)"
+    },
+    {
+      "title": "Let Her Go",
+      "singer": "Passenger",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Passenger%20-%20Let%20Her%20Go%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://upload.wikimedia.org/wikipedia/vi/b/ba/Passenger_-_Let_Her_Go.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=-on9do-knIA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=85",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Price Tag",
+      "singer": " Jessie J",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Price%20Tag%20-%20Musicbox%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f6/31/cf/f631cfd904122f50aaa804d0f02d920a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=GlvmxwFa5x4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=90",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Love Story",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Taylor%20Swift%20-%20Love%20Story%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://s4.favim.com/orig/141103/chibi-couple-cute-happy-Favim.com-2207374.gif",
+      "info":
+          "https://www.youtube.com/watch?v=qv1nbbi8ZH4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=94",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Grand Escape (Weathering with You OST)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Weathering%20With%20You%20OST%20-%20Grand%20Escape%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://avatarfiles.alphacoders.com/200/200974.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Wk5uoaQTzc0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=95",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Beautiful (Goblin OST)",
+      "singer": "Crush",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%5BGoblin%20%EB%8F%84%EA%B9%A8%EB%B9%84%20OST%5D%20Crush%20(%ED%81%AC%EB%9F%AC%EC%89%AC)%20-%20Beautiful%20(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/42/ce/a5/42cea510595cd341b2677ad5e33c7113.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5QrQjk3CE_Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=86",
+      "cover": "(Cover by Musicbox Cover)"
+    },
+    {
+      "title": "Carrying You (Castle in the Sky OST)",
+      "singer": "Azumi Inoue",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%E5%90%9B%E3%82%92%E3%81%AE%E3%81%9B%E3%81%A6%E4%BA%95%E4%B8%8A%E3%81%82%E3%81%9A%E3%81%BF(MusicBox).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000085328517-s0prur-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=OaQhzOaB2xo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
       "cover": "(Cover by R3 Music Box)"
     },
     {
-      "title": "He's a Pirate (Pirates of the Caribbean)",
-      "singer": "Klaus Badelt",
+      "title": "Stay With Me (Goblin OST)",
+      "singer": "Punch & Chanyeol",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/2CELLOS%20-%20Pirates%20Of%20The%20Caribbean.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%EC%B0%AC%EC%97%B4%20(Chanyeol)%20%26%20%ED%8E%80%EC%B9%98%20(Punch)%20%E2%80%93%20Stay%20With%20Me%20(MusicBox).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/fd/57/37/fd5737e91bbf2a17da0f925ad15f2c0a.jpg",
+          "https://i.pinimg.com/564x/01/05/b0/0105b0b3ac53804e0327b42062319156.jpg",
       "info":
-          "https://www.youtube.com/watch?v=Xj3gU3jACe8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
-      "cover": "(Cover by 2CELLOS)"
+          "https://www.youtube.com/watch?v=5QrQjk3CE_Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=87",
+      "cover": "(Cover by Musicbox Cover)"
+    },
+    {
+      "title": "The Passing of Time (时间的过客)",
+      "singer": "名决",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/L%E1%BB%AF%20Kh%C3%A1ch%20Qua%20Th%E1%BB%9Di%20Gian%20%20Danh%20Quy%E1%BA%BFt%20%E6%97%B6%E9%97%B4%E7%9A%84%E8%BF%87%E5%AE%A2%20%20%E5%90%8D%E5%86%B3%20%20Kalimba%20Cover%20With%20Tab.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/d0/38/07/d03807f2470c27daf000198d3956e2d1.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=c6S1M4gO7Vg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=99",
+      "cover": "(Cover by KAI KALIMBA)"
+    },
+    {
+      "title": "Hedwig's Theme",
+      "singer": "John Williams",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Hedwigs%20ThemeJohn%20Williams%20Music%20Box%20Harry%20Potter.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/58/ea/e0/58eae0f099e197bf4be7eadfa87e2ae1.png",
+      "info":
+          "https://www.youtube.com/watch?v=QpE1NHqvwwE",
+      "cover": "(Cover by R3 Music Box)"
+    },
+    {
+      "title": "Summertime",
+      "singer": "Cinnamons & Evening Cinema",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Summertime%20Cinnamons%20x%20Evening%20Cinema%20Music%20Box%20Cover(Violin%20X%20Cello%20Official).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/11/87/23/1187235ddef1caa590283cdc72466ac9.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=8d78vtaZVn8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Violin X Cello Official)"
+    },
+    {
+      "title": "Love Yourself",
+      "singer": "Justin Bieber",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/Love%20Yourself(Musicbox%20cover).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/76/6a/f6/766af68da7633d852d889e8d70751fbf.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=90gfPQlKUfw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Cover by Musicbox cover)"
+    },
+    {
+      "title": "Little Did You Know",
+      "singer": "Alex & Sierra",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/%5BMusic%20Box%5D%20Alex%20%26%20Sierra%20-%20Little%20Do%20You%20Know-Yealt.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/2a/ac/7e/2aac7e9f585ccdf2cabdfebf286514b2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=TpiXfykn2Pk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by Yealt)"
+    },
+    {
+      "title": "Say Yes (Moon Lovers OST)",
+      "singer": "Loco & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/%5BMusic%20box%20Cover%5D%20Say%20Yes%20-%20Loco%20%26%20Punch.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/ab/56/28ab56f270776020ccf380723e1330e0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9iTzAX1nN-Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Musicbox Cover)"
+    },
+    {
+      "title": "It Ain't Me",
+      "singer": "Selena Gomez & Kygo",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/It%20Ain't%20Me%20(Selena%20Gomez%20%26%20Kygo%20Cover)%20-%20(Lindsey%20Stirling).mp3?raw=true",
+      "coverUrl":
+          "https://data.whicdn.com/images/326301065/original.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=4xcuKEwCDWg",
+      "cover": "(Cover by Lindsey Stirling)"
+     },
+     {
+      "title": "I Really Like You",
+      "singer": "Carly Rae Jepsen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20Violin%20Cover%20-(Laurent%20Bernadac).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/27/d8/b1/27d8b11b767db8322724c36c8568369b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5PF40Zs3sz4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Laurent Bernadac)"
+     },
+     {
+      "title": "Always",
+      "singer": "Yoon Mi Rae",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Always-violin.mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/C8jSjz0XUAAFQuf.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=VIcwzjpmJNg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
+      "cover": "(Cover by Jenny Yun)"
+    },
+    {
+      "title": "O Mio Babbino Caro",
+      "singer": "Giacomo Puccini & Giovacchino Forzano",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/PucciniMioBabbinoCaro-violin.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/e7/0c/7b/e70c7bfc2b874fa6cc3c0415835e4089.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9uQomRL7gDc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Cover by Violinbow)"
+    },
+    {
+      "title": "Sad Violin",
+      "singer": "Sad Violin Music Collective",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/SadViolin.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c5/11/a7/c511a7f472e8650f86b29c0be3744bc2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=QuNhTLVgV2Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
+      "cover": "(Cover by thaSparkaZ)"
+    },
+    {
+      "title": "A Million Dreams",
+      "singer": "Ziv Zaifman, Hugh Jackman, Michelle Williams",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/A%20Million%20Dreams%20-%20The%20Greatest%20Showman%20(Violin%20Cover).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ca/4d/43/ca4d434fa970953d8de61536ace4e983.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5rm-TDPjYIo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=13",
+      "cover": "(Cover by Taylor Davis)"
+    },
+    {
+      "title": "Faded",
+      "singer": "Alan Walker",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/ALAN%20WALKER%20-%20FADED%20VIOLIN%20COVER.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000169731686-zgvff2-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=u6P2cs9FA2M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=13",
+      "cover": "(Cover by ItsAMoney)"
+    },
+     {
+      "title": "Back In Time (The Moon that Embraces the Sun)",
+      "singer": "Lee Sun Hee",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Back%20In%20Time%20(OST%20The%20Moon%20that%20Embraces%20the%20Sun)%20Violin%20Cover%20by%20Kezia%20Amelia.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000019754301-64e44l-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=SWsStfj33Zg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=24",
+      "cover": "(Cover by Kezia Amelia)"
+    },
+    {
+      "title": "Canon In D",
+      "singer": "Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Canon%20in%20D%20(Pachelbel)%20-%20Violin%20%26%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://images-na.ssl-images-amazon.com/images/I/41Z1057hhPL.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=RBx-Ue28KUE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
+      "cover": "(Cover by TRITONIA MUSIC)"
+    },
+    {
+      "title": "Closer",
+      "singer": "Chainsmokers & Halsey",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Closer%20-%20The%20Chainsmokers%20-%20Violin%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/64/63/9f/64639fbdafd3f412dd7331d0dd9a86d0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=S7OBCY2X7e0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Daniel Jang)"
+    },
+    {
+      "title": "Despacito",
+      "singer": "Luis Fonsi & Daddy Yankee",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Despacito%20-%20Karolina%20Protsenko%20-%20Violin%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ff/13/fd/ff13fd41be2a12d346b31f38d671cef0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=xB4iFysPm9Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Cover by Karolina Protsenko)"
     },
     {
       "title": "Perfect",
       "singer": "Ed Sheeran",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/PERFECT%20-%20ED%20SHEERAN%20(PianoCello%20Cover)%20PIANOCELLO%20DUO.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Ed%20Sheeran%20-%20Perfect%20-%20Eduard%20Freixa%20Electric%20Violin.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/59/8f/81/598f8185977fe7e76286b78bde2aaee8.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMGU5YTRjMTUtZDU4Mi00NjFlLWExYTAtMjVkN2JmOTE1Y2Q2XkEyXkFqcGdeQXVyNjE0ODc0MDc@._V1_.jpg",
       "info":
-          "https://www.youtube.com/watch?v=TXHB9wL4WFg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
-      "cover": "(Cover by 2CELLOS)"
+          "https://www.youtube.com/watch?v=j8DXM1GMi9c&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=18",
+      "cover": "(Cover by Eduard Freixa)"
     },
     {
-      "title": "Wake Me Up",
-      "singer": "Avicii",
+      "title": "Love Shot",
+      "singer": "EXO",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Wake%20Me%20Up%20%20Avicii%20violincellobass%20cover%20%20Simply%20Three.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/EXO%20-%20LOVE%20SHOT%20VIOLIN%20COVER.mp3?raw=true",
       "coverUrl":
-          "https://i1.sndcdn.com/artworks-000109873950-ftefx9-t500x500.jpg",
+          "https://i.pinimg.com/originals/33/b0/1a/33b01ac4c928658e49a463a53378e307.jpg",
       "info":
-          "https://www.youtube.com/watch?v=XSs2cR2Tvuk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
+          "https://www.youtube.com/watch?v=N5k1xSAV2XU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by Jenny Yun)"
+    },
+    {
+      "title": "Believer",
+      "singer": "Imagine Dragons",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Imagine%20Dragons%20-%20Believer%20for%20violin%20and%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/13/ec/dc/13ecdc8fd4ba37012c075f0fc2c65a5e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Cm_N-hqbElc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
+      "cover": "(Cover by Alison Sparrow)"
+    },
+    {
+      "title": "Love Story",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/LOVE%20STORY%20(Taylor%20Swift)%20-%20Violin%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/06/4b/e5/064be510f908080f7a1e47f282c07819.png",
+      "info":
+          "https://www.youtube.com/watch?v=bQIUQzMMD8I&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by ItsAMoney)"
+    },
+    {
+      "title": "Love Me Like You Do",
+      "singer": "Ellie Goulding",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Love%20Me%20Like%20You%20Do-Violin%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/52/ad/da/52adda693b9a1756e4422c7e1249b6cd.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=VZRVou4cyic&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Robert Mendoza)"
+    },
+    {
+      "title": "Memories",
+      "singer": "Maroon 5",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Maroon%205%20-%20Memories%20-%20Cover%20(Violin).mp3?raw=true",
+      "coverUrl":
+          "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/memories-album-art-02-design-template-f8a8aa46a67d375c6b6b7a7498de7232_screen.jpg?ts=1566569423",
+      "info":
+          "https://www.youtube.com/watch?v=Vh_sQ11LFTQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
+      "cover": "(Cover by ItsAMoney)"
+    },
+    {
+      "title": "My Heart Will Go On",
+      "singer": "Celine Dion",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/My%20Heart%20Will%20Go%20On%20(Titanic)%20Taylor%20Davis%20-%20Violin.mp3?raw=true",
+      "coverUrl":
+          "https://hips.hearstapps.com/ame-prod-goodhousekeeping-assets.s3.amazonaws.com/main/embedded/27732/best-period-romances-titanic-goodhousekeepinguk.jpg?crop=0.583xw:1.00xh;0.0452xw,0&resize=480:*",
+      "info":
+          "https://www.youtube.com/watch?v=tFdlhlmQ-ek&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=25",
+      "cover": "(Cover by Taylor Davis)"
+    },
+    {
+      "title": "Play Date",
+      "singer": "Melanie Martinez",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Playdate%20(Melanie%20Martinez)%20but%20it's%20on%20violin.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a1/cb/a0/a1cba00db52fed953544bd868fc87a6c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Fg0Y19nYVME&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
+      "cover": "(Cover by Joel Sunny Violin)"
+    },
+    {
+      "title": "River Flow In You",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/River%20Flow%20In%20You%20Violin.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a2/dd/cd/a2ddcd8762c8d4ef5072f44a0b7b709b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=12ibMHRQDGc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by Alison Sparrow)"
+    },
+    {
+      "title": "Rolling In The Deep",
+      "singer": "Adele",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Rolling%20in%20the%20Deep%20-%20Adele%20(violincellobass%20cover)%20-%20Simply%20Three.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/89/57/428957c7abec2888988b87b3ee9033f6.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=tt2NIDtp-Ls&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
       "cover": "(Cover by Simply Three)"
     },
     {
-      "title": "Nocturne in E flat major, Op. 9 no. 2",
-      "singer": "Klaus Badelt",
+      "title": "Someone You Loved",
+      "singer": "Lewis Capaldi",
       "url":
-          "https://files.musopen.org/recordings/101a3183-264d-4568-a78c-53a5f8a15c54.mp3?filename=Nocturne+in+E+flat+major,+Op.+9+no.+2.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Someone%20You%20Loved%20-%20Lewis%20Capaldi%20-%20Violin%20cover%20by%20Daniel%20Jang.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/fe/28/57/fe28573857a718f84eb9c21d6f3e7c41.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=0S7X2ntBHtM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
+      "cover": "(Cover by Daniel Jang)"
     },
     {
-      "title": "Nocturne in B flat minor, Op. 9 no. 1",
-      "singer": "Ed Sheeran",
+      "title": "Way Back Home",
+      "singer": "Shaun",
       "url":
-          "https://files.musopen.org/recordings/8476ae47-3751-4a07-a6db-a602e9dc5ffd.mp3?filename=Nocturne+in+B+flat+minor,+Op.+9+no.+1.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Way%20Back%20Home%20Violin%20-%20Jenny%20Yun%20%20Ivan%20Lee.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/65/85/3d/65853dd9b784ef5b2d3b7c9c7507a267.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=ddOja8d4GGY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=62",
+      "cover": "(Cover by Jenny Yun)"
     },
     {
-      "title": "Violin Concerto in F minor, RV 297 'Winter' - II. Largo",
-      "singer": "Avicii",
+      "title": "Lovely",
+      "singer": "Billie Eilish & Khalid",
       "url":
-          "https://files.musopen.org/recordings/7750384a-3cc8-48b3-a653-4130641d60e2.mp3?filename=Violin+Concerto+in+F+minor,+RV+297+%27Winter%27+-+II.+Largo.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/ovely%20-%20Billie%20Eilish%20%26%20Khalid%20-%20Cover%20(Violin).mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/a0/8c/57/a08c57d3c317af684dd0b33c49047752.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=_KFsJvgPfHg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by ItsAMoney)"
     },
     {
-      "title": "Paul Pitman - Moonlight Sonata Op. 27 No. 2 - II. Allegretto",
-      "singer": "Avicii",
+      "title": "Watashi no Uso",
+      "singer": "Your Lie in April OST",
       "url":
-          "https://files.musopen.org/recordings/6f8b86e1-2c34-4fc5-9d95-6998170e5593.mp3?filename=Paul+Pitman+-+Moonlight+Sonata+Op.+27+No.+2+-+II.+Allegretto.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/your%20lie%20in%20aprilwatashi%20no%20uso%20LilyPichu.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i1.wp.com/66.media.tumblr.com/346e7c2dc66daff8e45c0ce881889033/tumblr_nq9xw2wKVE1s5f9ado1_500.gif",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=iW_P2UPkpc4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by LilyPichu)"
     },
     {
-      "title": "Violin Concerto in E major, RV 269 'Spring' - II. Largo",
-      "singer": "Avicii",
+      "title": "Love Scenario",
+      "singer": "iKON",
       "url":
-          "https://files.musopen.org/recordings/a1b2efc0-c68a-4565-8aef-5687173fe5de.mp3?filename=Violin+Concerto+in+E+major,+RV+269+%27Spring%27+-+II.+Largo.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/iKON(Love%20scenario)%20VIOLIN%20MUSIC.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/cb/ee/e9/cbeee9be7c73e58fb86546e7641234dc.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=TvOssPvE7Sc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by Jenny Yun)"
     },
     {
-      "title": "Arabesque No. 1. Andantino con moto",
-      "singer": "Avicii",
+      "title": "Flower (Crash Landing On You)",
+      "singer": "Yoon Mi Rae",
       "url":
-          "https://files.musopen.org/recordings/fea67336-3826-421a-949d-fa18a2c5bf49.mp3?filename=Arabesque+No.+1.+Andantino+con+moto.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Yoon%20Mi%20Rae%EC%9C%A4%EB%AF%B8%EB%9E%98-FLOWER%20Violin%20Cover%20Nana%20BanaDuo.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/originals/ec/9c/25/ec9c2545089c5efef70c5987327e24ee.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=MGMGXEbKF5Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by Nana BanaDuo)"
     },
     {
-      "title": "Goldberg Variations, BWV 988 - 10 - Variatio 9 a 1 Clav. Canone alla Terza",
-      "singer": "Avicii",
+      "title": "Harry Potter Medley",
+      "singer": "John Williams",
       "url":
-          "https://files.musopen.org/recordings/c4d8f6d8-29d7-404c-bb23-cdce709b47fd.mp3?filename=Goldberg+Variations,+BWV+988+-+10+-+Variatio+9+a+1+Clav.+Canone+alla+Terza.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Harry%20Potter%20%20Medley%20Juncurryahn%20and%20Lilypichu(sleightlymusical).mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/5c/b2/2f/5cb22f977f9ad5d772b38474626fba58.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=2s8QhbTB9VE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
+      "cover": "(Cover by Juncurryahn and Lilypichu)"
     },
     {
-      "title": "Goldberg Variations, BWV 988 - 17 - Variatio 16 a 1 Clav. Ouverture",
-      "singer": "Avicii",
+      "title": "Give You My Heart (Crash Landing On You)",
+      "singer": "IU",
       "url":
-          "https://files.musopen.org/recordings/6cff37d0-2228-4972-ac1f-fc92c30fb796.mp3?filename=Goldberg+Variations,+BWV+988+-+17+-+Variatio+16+a+1+Clav.+Ouverture.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/IU%E7%8D%BB%E4%B8%8A%E6%88%91%E7%9A%84%E5%BF%83%20Give%20You%20My%20Heart%E9%9F%93%E5%8A%87%E6%84%9B%E7%9A%84%E8%BF%AB%E9%99%8D%E5%8E%9F%E8%81%B2%E5%B8%B6%E5%B0%8F%E6%8F%90%E7%90%B4%E7%89%88%E6%9C%AC%20%20ViolinCover%20by%20AnViolin.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/d8/0d/58/d80d58b7bf1e3814cfe4d27cb9675355.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=-cgT5WK5Dpc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by 林子安 AnViolin)"
     },
     {
-      "title": "Goldberg Variations, BWV 988 - 22 - Variatio 21 Canone alla Settima",
-      "singer": "Avicii",
+      "title": "Roar",
+      "singer": "Katy Perry",
       "url":
-          "https://files.musopen.org/recordings/ce95ce76-75c5-4467-8b87-a39441bdcc95.mp3?filename=Goldberg+Variations,+BWV+988+-+22+-+Variatio+21+Canone+alla+Settima.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Katy%20Perry%20%20Roar%20for%20violin(Alison%20Sparrow).mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/originals/bd/92/7a/bd927a1570a1b0f0903c2e8ad465ad6a.gif",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=MPwwmXdCZGw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
+      "cover": "(Cover by Alison Sparrow)"
     },
     {
-      "title": "Goldberg Variations, BWV. 988 - Variation 22",
-      "singer": "Avicii",
+      "title": "Something Just Like This",
+      "singer": "The Chainsmokers & Coldplay",
       "url":
-          "https://files.musopen.org/recordings/8832773e-c948-4474-b1de-f9d80f7dc672.mp3?filename=Goldberg+Variations,+BWV.+988+-+Variation+22.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Something%20Just%20Like%20This%20(Alison%20Sparrow).mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/f7/f3/70/f7f370c1104b9c6f8e523f23e362e2c7.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=Pxy8Z2K1pF8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by Alison Sparrow)"
     },
     {
-      "title": "Cello Suite No.1 in G major, BWV 1007",
-      "singer": "Avicii",
+      "title": "Shake It Off",
+      "singer": "Taylor Swift",
       "url":
-          "https://files.musopen.org/recordings/17371b6a-cf7c-4498-8e57-2b3c065dffe7.mp3?filename=Cello+Suite+No.1+in+G+major,+BWV+1007+.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Shake%20It%20Off%20%20Taylor%20Swift%20%20(From%20the%20Top).mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/39/00/54/3900546809177fa1ec12ac60d7c76a74.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=HlzEHobggRs&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=24",
+      "cover": "(Cover by From the Top)"
     },
     {
-      "title": "Reverie - Constantin Stephan",
-      "singer": "Avicii",
+      "title": "Memories X Canon in D X Beautiful in White",
+      "singer": "Various Artist",
       "url":
-          "https://files.musopen.org/recordings/215784e0-ef13-4b5a-a0d8-5675908077f7.mp3?filename=Reverie+-+Constantin+Stephan.mp3&amp;preview",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Memories%20X%20Canon%20in%20D%20X%20Beautiful%20in%20White%20Violin-Angelita%20Cecilia.mp3?raw=true",
       "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+          "https://i.pinimg.com/564x/4f/3f/32/4f3f32261d2889645dfe4f8d79cc1d09.jpg",
       "info":
-          "https://musopen.org/",
-      "cover": "(From MUSOPEN)"
+          "https://www.youtube.com/watch?v=PHVSNWWM36Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Angelita Cecilia)"
+    },
+    {
+      "title": "Say Yes (Moon Lovers OST)",
+      "singer": "Loco & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Say%20Yes%20-%20Loco%20x%20Punch%20-%20(Jorell%20Prospero).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bd/71/4b/bd714bade09c73c86f9bd239a1b1b059.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ONmiTg9XW1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Jorell Prospero)"
     },
     {
       "title": "Let It Go (Frozen OST)",
@@ -2162,6 +2216,28 @@
       "info":
           "https://www.youtube.com/watch?v=AAnID4RS7Vg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=110",
       "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Why Not Me",
+      "singer": "Enrique Iglesias",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Why%20Not%20Me%20(Enrique%20Iglesias)%20-%20Guitar%20(Nguy%E1%BB%85n%20Hu%E1%BB%B3nh%20Th%C3%A1i%20-%20R%C3%A8).mp3?raw=true",
+      "coverUrl":
+          "https://avatar-ex-swe.nixcdn.com/playlist/2016/07/14/2/4/5/3/1468486450547_500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=wVdQjZxUb1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Nguyễn Huỳnh Thái - Rè)"
+    },
+    {
+      "title": "You Belong With Me",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/you%20belong%20with%20me%20-%20taylor%20swift%20-%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/87/6e/6e/876e6ef3b13a578e3f7d32aba863febc.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9SCluoF_ick&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by paul iballa)"
     },
     {
       "title": "It Ain't Me",
@@ -2468,50 +2544,6 @@
           "https://www.youtube.com/watch?v=tRNBvub1Dik&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=52",
       "cover": "(Cover by Andrew Foy 앤디)"
     },
-    {
-      "title": "Peer Gynt - Morning Mood",
-      "singer": "Edvard Grieg",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Grieg%20-%20Peer%20Gynt%20_%20Oramo%20%C2%B7%20Berliner%20Philharmoniker%20-%20(Akademia%20Filmu%20i%20Telewizji).mp3?raw=true",
-      "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
-      "info":
-          "https://www.youtube.com/watch?v=QCiQho5DzfY",
-      "cover": "(Cover by Berliner Philharmoniker)"
-   },
-   {
-      "title": "Mariage d'Amour",
-      "singer": "Richard Clayderman",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Mariage%20d'Amour%20-%20Paul%20de%20Senneville%20_%20Jacob's%20Piano%20-%20(Jacob's%20Piano).mp3?raw=true",
-      "coverUrl":
-          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
-      "info":
-          "https://www.youtube.com/watch?v=FoCG-WNsZio&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=3",
-      "cover": "(Cover by Jacob's Piano)"
-   },
-   {
-      "title": "Eine Kleine Nachtmusik",
-      "singer": "Mozart",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Eine%20Kleine%20Nachtmusik%20-%20Mozart%20-%20(AllClassicalMusic).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/4e/34/c3/4e34c3eec1d34cc1d44d5b3ba3786b60.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=oy2zDJPIgwc&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=4",
-      "cover": "(Cover by AllClassicalMusic)"
-   },
-   { 
-      "title": "Für Elise",
-      "singer": "Ludwig van Beethoven",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Beethoven%20-%20F%C3%BCr%20Elise%20_%20Piano%20%26%20Orchestra%20-%20(Georgii%20Cherkin%20LIVE).mp3?raw=true",
-      "coverUrl":
-          "https://www.biography.com/.image/t_share/MTI2NTgyMzIxOTcyMjU5NDU5/beethoven-600x600jpg.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=e4d0LOuP4Uw&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=2",
-      "cover": "(Cover by Georgii Cherkin LIVE)"
-   },
     {
       "title": "My Heart Will Go on",
       "singer": "Celine Dion",
@@ -2920,70 +2952,26 @@
       "cover": "(Cover by paul iballa)"
     },
     {
-      "title": "My Heart Will Go on",
-      "singer": "Celine Dion",
+      "title": "Count On Me",
+      "singer": "Bruno Mars",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Harp/MyHeartWillGoOn-Harp%26Violin.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Coun%20On%20Me-Sungha%20Jung.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/7b/de/b8/7bdeb8734b736533e977ef3172d5c612.jpg",
+          "https://m.media-amazon.com/images/I/717FVMJIJCL._SS500_.jpg",
       "info":
-          "https://www.youtube.com/watch?v=RigyRr5B_gY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
-      "cover": "(Cover by Marion Le Solliec)"
+          "https://www.youtube.com/watch?v=EbAcN0WfSG0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=38",
+      "cover": "(Cover by Sungha Jung)"
     },
     {
-      "title": "Perfect",
-      "singer": "Ed Sheeran",
+      "title": "PLANET",
+      "singer": "ラムジ",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Harp/Perfect%20-%20ED%20SHEERAN%20Marion%20Le%20Solliec%2C%20celtic%20and%20electric%20harp.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Ukulele/PLANET%E3%83%A9%E3%83%A0%E3%82%B8%20Fingerstyle%20Ukulele%20Cover(EnyaMusic%20Anny).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/86/62/11/866211be5c328632afbf53490477206c.jpg",
+          "https://i.pinimg.com/originals/24/13/13/241313ad5124729a15476cdced40ba9f.gif",
       "info":
-          "https://www.youtube.com/watch?v=sio2GoPCCpE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=69",
-      "cover": "(Cover by Marion Le Solliec)"
-    },
-    {
-      "title": "The Passing of Time (时间的过客)",
-      "singer": "名决",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/L%E1%BB%AF%20Kh%C3%A1ch%20Qua%20Th%E1%BB%9Di%20Gian%20%20Danh%20Quy%E1%BA%BFt%20%E6%97%B6%E9%97%B4%E7%9A%84%E8%BF%87%E5%AE%A2%20%20%E5%90%8D%E5%86%B3%20%20Kalimba%20Cover%20With%20Tab.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/d0/38/07/d03807f2470c27daf000198d3956e2d1.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=c6S1M4gO7Vg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=99",
-      "cover": "(Cover by KAI KALIMBA)"
-    },
-    {
-      "title": "Kiss The Rain",
-      "singer": "Yiruma",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Kalimba/KissTheRain-kalimbacover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/aa/20/d1/aa20d166225b63a59fa6a49123f51847.gif",
-      "info":
-          "https://www.youtube.com/watch?v=Bgo_1OtePfQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
-      "cover": "(Cover by April Yang)"
-    },
-    {
-      "title": "River Flows In You",
-      "singer": "Yiruma",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Kalimba/RiverFlowsinYou-Kalimba.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/f2/59/09/f259096e21e1fb466be5fb9a9934b405.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=DdYi7i6t2R8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
-      "cover": "(Cover by Silvita Kalimba & Vicente Guitar)"
-    },
-    {
-      "title": "When Night Falls (While You Were Sleeping)",
-      "singer": "Eddy Kim",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Kalimba/When%20Night%20falls%20-%20Eddy%20Kim%20While%20You%20Were%20Sleeping%20OST%20%20Kalimba.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/22/f7/31/22f7310e68b7ef15a3f22163be2964a2.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=BD-NAkBvU0w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
-      "cover": "(Cover by niniyah)"
+          "https://www.youtube.com/watch?v=JuBxQes1rtk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
+      "cover": "(Cover by EnyaMusic Anny)"
     },
     {
       "title": "Dance Monkey",
@@ -3041,50 +3029,6 @@
       "cover": "(Cover by Yuni Marimba 유니 마림바)"
     },
     {
-      "title": "I Really Like You",
-      "singer": "Carly Rae Jepsen",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20(Ray%20Mak).mp3?raw=true",
-      "coverUrl":
-          "https://avatar-ex-swe.nixcdn.com/song/2018/10/30/2/4/7/9/1540882623377_640.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=v06uRd6GBOo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
-      "cover": "(Cover by Ray Mak)"
-     },
-     {
-      "title": "Monsters",
-      "singer": "Katie Sky",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Monsters%20-%20Katie%20Sky%20_%20Cover%20%E9%82%93%E5%A3%AC%E9%91%AB%20-%20(OkaMeoww).mp3?raw=true",
-      "coverUrl":
-          "https://i1.sndcdn.com/artworks-000248106304-ang1c5-t500x500.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=6rmj5Rmhhws&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
-      "cover": "(Cover by OkaMeoww)"
-     },
-     {
-      "title": "Why Not Me",
-      "singer": "Enrique Iglesias",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Why%20not%20me%20-%20Enrique%20Iglesias%20_%20Piano%20-%20(I%20live%20in%20my%20world).mp3?raw=true",
-      "coverUrl":
-          "https://1.bp.blogspot.com/-58NtJBOQ8-I/XW4bSSRh6KI/AAAAAAAACK4/KyXflpjeWw0vzg4KLepuTz-9N0MkSqz8wCLcBGAs/s1600/bai194.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=y0k3h2iCDog&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
-      "cover": "(Cover by I live in my world)"
-     },
-     {
-      "title": "You Belong With Me",
-      "singer": "Taylor Swift",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20-%20You%20Belong%20With%20Me%20piano%20-%20(TAM%20TAM%20MUSIC).mp3?raw=true",
-      "coverUrl":
-          "https://i.scdn.co/image/ab67616d0000b273b787fda21f1fe8e6d81c6e85",
-      "info":
-          "https://www.youtube.com/watch?v=GeierEnSkrQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
-      "cover": "(Cover by TAM TAM MUSIC)"
-     },
-    {
       "title": "Señorita",
       "singer": "Shawn Mendes & Camila Cabello",
       "url":
@@ -3107,259 +3051,6 @@
       "cover": "(Cover by Yuni Marimba 유니 마림바)"
     },
     {
-      "title": "Canon In D",
-      "singer": "Johann Pachelbel",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/CanonInD-MusicBox.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/a1/4c/04/a14c043a8523e5f03a21c3b9cea18f5e.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=q_WH3miXs0M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
-      "cover": "(Cover by DeepBlue5412)"
-    },
-    {
-      "title": "Snow Flower",
-      "singer": "Park Hyo Shin",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/snowflower.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/52/a4/81/52a4811ef83e9dad35fc937dfa4c5d52.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=R2BSBOvUQWk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
-      "cover": "(Music Box by Flow Music)"
-    },
-    {
-      "title": "Uchiage Hanabi",
-      "singer": "Daoko and Kenshi Yonezu",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Uchiage%20Hanabi%20Music%20Box%20Cover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/16/b7/11/16b711608d72dd16e1662944726ea428.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=S8vyJMsXTXA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
-      "cover": "(Cover by Flow Music)"
-    },
-    {
-      "title": "Memories",
-      "singer": "Maroon 5",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Maroon%205%20-%20Memories.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/474x/29/18/62/291862dab6db10ae7f276fefcc5537a8.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=NRWfEu3JRcc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
-      "cover": "(Musicbox Cover)"
-    },
-    {
-      "title": "GUMI",
-      "singer": "Hoshi Ai",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/GUMI%20-%20Hoshi%20Ai%20Music%20Box.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/4b/00/65/4b0065c9fd27d0ee873069776a8f079c.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=t-DEjAzPzeA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
-      "cover": "(Cover by Flow Music)"
-    },
-     {
-      "title": "Fox Rain",
-      "singer": "Lee Sun Hee",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Fox%20RainLee%20Sun%20Hee%20%5BMusic%20Box%5D.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/d9/a7/b2/d9a7b22102edfc88bb79eb63fb1d8b38.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=A_WHcuoxCj8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
-      "cover": "(Music Box by R3 Music)"
-    },
-    {
-      "title": "Lemon",
-      "singer": "Kenshi Yonezu",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Lemon%20-%20Kenshi%20Yonezu%20Music%20Box%20Cover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/15/93/ed/1593ed12f2315a66b9552da96c5d3cda.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=LdYB-YoAOjc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
-      "cover": "(Cover by Flow Music)"
-    },
-    {
-      "title": "March 9 (1リットルの涙)",
-      "singer": "Remioromen",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/3%E6%9C%889%E6%97%A5%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/59/ad/c4/59adc41d3df46ba6534ade35b5133335.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=2rlEyqfJJHc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
-      "cover": "(Cover by R3 Music Box )"
-    },
-    {
-      "title": "Always",
-      "singer": "Yoon Mi Rae",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Always-MusicBox.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/27/76/57/2776574535317a2f12d3148907e8b5f3.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=xN_vIbpYV0o&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
-      "cover": "(Cover by relaxu)"
-    },
-    {
-      "title": "Beautiful In White",
-      "singer": "Westlife",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Beautiful%20in%20White%20by%20Westlife%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/0a/3b/03/0a3b03ce300f33a79195dff734249b99.gif",
-      "info":
-          "https://www.youtube.com/watch?v=0f45P8GETqE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=92&t=49s",
-      "cover": "(Cover by Music Box Melodies)"
-    },
-    {
-      "title": "Everytime",
-      "singer": "CHEN (EXO) & Punch",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/CHEN%20(EXO)%20%26%20Punch%20%E2%80%93%20Everytime%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/6e/f6/16/6ef616b887e51c343191abf9e45eeb0a.gif",
-      "info":
-          "https://www.youtube.com/watch?v=cXdykBGeGCI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=91&t=33s",
-      "cover": "(Cover by Musicbox cover)"
-    },
-    {
-      "title": "Call Me Baby",
-      "singer": "Carly Rae Jepsen",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Carly%20Rae%20Jepsen%20Call%20Me%20Maybe%20Musicbox.mp3?raw=true",
-      "coverUrl":
-          "https://media.tenor.com/images/3e898037d1d1d7aaed83786bada0ad00/tenor.gif",
-      "info":
-          "https://www.youtube.com/watch?v=SCIohy4z_k8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=89",
-      "cover": "(Musicbox Cover)"
-    },
-    {
-      "title": "We Don't Talk Anymore",
-      "singer": "Charlie Puth",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Charlie%20Puth%20We%20Don't%20Talk%20Anymore%20(Musicbox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/93/73/46/9373463c019496ea2e32370ab148d4ca.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=qFokXdA8eVc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=88&t=34s",
-      "cover": "(Musicbox Cover)"
-    },
-     {
-      "title": "Perfect",
-      "singer": "Ed Sheeran",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Ed%20Sheeran%20-%20Perfect%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/68/6d/3b/686d3bd01a52b6ce54a5dcd979c3e764.gif",
-      "info":
-          "https://www.youtube.com/watch?v=rvDdXRuCbME&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=93",
-      "cover": "(Musicbox cover)"
-    },
-    {
-      "title": "Summertime",
-      "singer": "Cinnamons & Evening Cinema",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Kimi%20no%20Toriko%20(Summertime)%20Music%20Box.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/95/48/ce/9548ce1af4cd2ec9946bfd1e1fe87cae.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=ftggefpJvq4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=43",
-      "cover": "(Cover by Project Lullaby)"
-    },
-    {
-      "title": "Konayuki(1リットルの涙)",
-      "singer": "Remioromen",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Konayuki.mp3?raw=true",
-      "coverUrl":
-          "https://pbs.twimg.com/media/ErPn_iJW4AMcpAp.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=3PS_lShi7nQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=25",
-      "cover": "(Cover by Relax α Wave - Topic)"
-    },
-    {
-      "title": "Let Her Go",
-      "singer": "Passenger",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Passenger%20-%20Let%20Her%20Go%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://upload.wikimedia.org/wikipedia/vi/b/ba/Passenger_-_Let_Her_Go.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=-on9do-knIA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=85",
-      "cover": "(Cover by Musicbox cover)"
-    },
-    {
-      "title": "Price Tag",
-      "singer": " Jessie J",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Price%20Tag%20-%20Musicbox%20Cover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/f6/31/cf/f631cfd904122f50aaa804d0f02d920a.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=GlvmxwFa5x4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=90",
-      "cover": "(Cover by Musicbox cover)"
-    },
-    {
-      "title": "Love Story",
-      "singer": "Taylor Swift",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Taylor%20Swift%20-%20Love%20Story%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://s4.favim.com/orig/141103/chibi-couple-cute-happy-Favim.com-2207374.gif",
-      "info":
-          "https://www.youtube.com/watch?v=qv1nbbi8ZH4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=94",
-      "cover": "(Cover by Musicbox cover)"
-    },
-    {
-      "title": "Grand Escape (Weathering with You OST)",
-      "singer": "Radwimps",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Weathering%20With%20You%20OST%20-%20Grand%20Escape%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://avatarfiles.alphacoders.com/200/200974.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=Wk5uoaQTzc0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=95",
-      "cover": "(Cover by Musicbox cover)"
-    },
-    {
-      "title": "Beautiful (Goblin OST)",
-      "singer": "Crush",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%5BGoblin%20%EB%8F%84%EA%B9%A8%EB%B9%84%20OST%5D%20Crush%20(%ED%81%AC%EB%9F%AC%EC%89%AC)%20-%20Beautiful%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/736x/42/ce/a5/42cea510595cd341b2677ad5e33c7113.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=5QrQjk3CE_Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=86",
-      "cover": "(Cover by Musicbox Cover)"
-    },
-    {
-      "title": "Carrying You (Castle in the Sky OST)",
-      "singer": "Azumi Inoue",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%E5%90%9B%E3%82%92%E3%81%AE%E3%81%9B%E3%81%A6%E4%BA%95%E4%B8%8A%E3%81%82%E3%81%9A%E3%81%BF(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i1.sndcdn.com/artworks-000085328517-s0prur-t500x500.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=OaQhzOaB2xo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
-      "cover": "(Cover by R3 Music Box)"
-    },
-    {
-      "title": "Stay With Me (Goblin OST)",
-      "singer": "Punch & Chanyeol",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/%EC%B0%AC%EC%97%B4%20(Chanyeol)%20%26%20%ED%8E%80%EC%B9%98%20(Punch)%20%E2%80%93%20Stay%20With%20Me%20(MusicBox).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/01/05/b0/0105b0b3ac53804e0327b42062319156.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=5QrQjk3CE_Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=87",
-      "cover": "(Cover by Musicbox Cover)"
-    },
-    {
       "title": "The Passing of Time (时间的过客)",
       "singer": "名决",
       "url":
@@ -3371,433 +3062,268 @@
       "cover": "(Cover by KAI KALIMBA)"
     },
     {
-      "title": "Hedwig's Theme",
-      "singer": "John Williams",
+      "title": "Kiss The Rain",
+      "singer": "Yiruma",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Hedwigs%20ThemeJohn%20Williams%20Music%20Box%20Harry%20Potter.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Kalimba/KissTheRain-kalimbacover.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/originals/58/ea/e0/58eae0f099e197bf4be7eadfa87e2ae1.png",
+          "https://i.pinimg.com/originals/aa/20/d1/aa20d166225b63a59fa6a49123f51847.gif",
       "info":
-          "https://www.youtube.com/watch?v=QpE1NHqvwwE",
-      "cover": "(Cover by R3 Music Box)"
+          "https://www.youtube.com/watch?v=Bgo_1OtePfQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by April Yang)"
     },
     {
-      "title": "Summertime",
-      "singer": "Cinnamons & Evening Cinema",
+      "title": "River Flows In You",
+      "singer": "Yiruma",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/MusicBox/Summertime%20Cinnamons%20x%20Evening%20Cinema%20Music%20Box%20Cover(Violin%20X%20Cello%20Official).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Kalimba/RiverFlowsinYou-Kalimba.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/11/87/23/1187235ddef1caa590283cdc72466ac9.jpg",
+          "https://i.pinimg.com/564x/f2/59/09/f259096e21e1fb466be5fb9a9934b405.jpg",
       "info":
-          "https://www.youtube.com/watch?v=8d78vtaZVn8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
-      "cover": "(Cover by Violin X Cello Official)"
+          "https://www.youtube.com/watch?v=DdYi7i6t2R8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
+      "cover": "(Cover by Silvita Kalimba & Vicente Guitar)"
     },
     {
-      "title": "Love Yourself",
-      "singer": "Justin Bieber",
+      "title": "When Night Falls (While You Were Sleeping)",
+      "singer": "Eddy Kim",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/Love%20Yourself(Musicbox%20cover).mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Kalimba/When%20Night%20falls%20-%20Eddy%20Kim%20While%20You%20Were%20Sleeping%20OST%20%20Kalimba.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/76/6a/f6/766af68da7633d852d889e8d70751fbf.jpg",
+          "https://i.pinimg.com/564x/22/f7/31/22f7310e68b7ef15a3f22163be2964a2.jpg",
       "info":
-          "https://www.youtube.com/watch?v=90gfPQlKUfw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
-      "cover": "(Cover by Musicbox cover)"
+          "https://www.youtube.com/watch?v=BD-NAkBvU0w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by niniyah)"
     },
     {
-      "title": "Little Did You Know",
-      "singer": "Alex & Sierra",
+      "title": "My Heart Will Go on",
+      "singer": "Celine Dion",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/%5BMusic%20Box%5D%20Alex%20%26%20Sierra%20-%20Little%20Do%20You%20Know-Yealt.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Harp/MyHeartWillGoOn-Harp%26Violin.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/2a/ac/7e/2aac7e9f585ccdf2cabdfebf286514b2.jpg",
+          "https://i.pinimg.com/564x/7b/de/b8/7bdeb8734b736533e977ef3172d5c612.jpg",
       "info":
-          "https://www.youtube.com/watch?v=TpiXfykn2Pk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
-      "cover": "(Cover by Yealt)"
-    },
-    {
-      "title": "Say Yes (Moon Lovers OST)",
-      "singer": "Loco & Punch",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Musicbox320Kpbs/%5BMusic%20box%20Cover%5D%20Say%20Yes%20-%20Loco%20%26%20Punch.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/28/ab/56/28ab56f270776020ccf380723e1330e0.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=9iTzAX1nN-Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
-      "cover": "(Cover by Musicbox Cover)"
-    },
-    {
-      "title": "Count On Me",
-      "singer": "Bruno Mars",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Coun%20On%20Me-Sungha%20Jung.mp3?raw=true",
-      "coverUrl":
-          "https://m.media-amazon.com/images/I/717FVMJIJCL._SS500_.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=EbAcN0WfSG0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=38",
-      "cover": "(Cover by Sungha Jung)"
-    },
-    {
-      "title": "PLANET",
-      "singer": "ラムジ",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Ukulele/PLANET%E3%83%A9%E3%83%A0%E3%82%B8%20Fingerstyle%20Ukulele%20Cover(EnyaMusic%20Anny).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/originals/24/13/13/241313ad5124729a15476cdced40ba9f.gif",
-      "info":
-          "https://www.youtube.com/watch?v=JuBxQes1rtk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
-      "cover": "(Cover by EnyaMusic Anny)"
-    },
-    {
-      "title": "It Ain't Me",
-      "singer": "Selena Gomez & Kygo",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/It%20Ain't%20Me%20(Selena%20Gomez%20%26%20Kygo%20Cover)%20-%20(Lindsey%20Stirling).mp3?raw=true",
-      "coverUrl":
-          "https://data.whicdn.com/images/326301065/original.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=4xcuKEwCDWg",
-      "cover": "(Cover by Lindsey Stirling)"
-     },
-     {
-      "title": "Always",
-      "singer": "Yoon Mi Rae",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Always-violin.mp3?raw=true",
-      "coverUrl":
-          "https://pbs.twimg.com/media/C8jSjz0XUAAFQuf.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=VIcwzjpmJNg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
-      "cover": "(Cover by Jenny Yun)"
-    },
-    {
-      "title": "O Mio Babbino Caro",
-      "singer": "Giacomo Puccini & Giovacchino Forzano",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/PucciniMioBabbinoCaro-violin.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/e7/0c/7b/e70c7bfc2b874fa6cc3c0415835e4089.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=9uQomRL7gDc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
-      "cover": "(Cover by Violinbow)"
-    },
-    {
-      "title": "Sad Violin",
-      "singer": "Sad Violin Music Collective",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/SadViolin.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/c5/11/a7/c511a7f472e8650f86b29c0be3744bc2.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=QuNhTLVgV2Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
-      "cover": "(Cover by thaSparkaZ)"
-    },
-    {
-      "title": "A Million Dreams",
-      "singer": "Ziv Zaifman, Hugh Jackman, Michelle Williams",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/A%20Million%20Dreams%20-%20The%20Greatest%20Showman%20(Violin%20Cover).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/ca/4d/43/ca4d434fa970953d8de61536ace4e983.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=5rm-TDPjYIo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=13",
-      "cover": "(Cover by Taylor Davis)"
-    },
-    {
-      "title": "Faded",
-      "singer": "Alan Walker",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/ALAN%20WALKER%20-%20FADED%20VIOLIN%20COVER.mp3?raw=true",
-      "coverUrl":
-          "https://i1.sndcdn.com/artworks-000169731686-zgvff2-t500x500.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=u6P2cs9FA2M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=13",
-      "cover": "(Cover by ItsAMoney)"
-    },
-     {
-      "title": "Back In Time (The Moon that Embraces the Sun)",
-      "singer": "Lee Sun Hee",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Back%20In%20Time%20(OST%20The%20Moon%20that%20Embraces%20the%20Sun)%20Violin%20Cover%20by%20Kezia%20Amelia.mp3?raw=true",
-      "coverUrl":
-          "https://i1.sndcdn.com/artworks-000019754301-64e44l-t500x500.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=SWsStfj33Zg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=24",
-      "cover": "(Cover by Kezia Amelia)"
-    },
-    {
-      "title": "Canon In D",
-      "singer": "Johann Pachelbel",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Canon%20in%20D%20(Pachelbel)%20-%20Violin%20%26%20Piano.mp3?raw=true",
-      "coverUrl":
-          "https://images-na.ssl-images-amazon.com/images/I/41Z1057hhPL.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=RBx-Ue28KUE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
-      "cover": "(Cover by TRITONIA MUSIC)"
-    },
-    {
-      "title": "Closer",
-      "singer": "Chainsmokers & Halsey",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Closer%20-%20The%20Chainsmokers%20-%20Violin%20Cover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/64/63/9f/64639fbdafd3f412dd7331d0dd9a86d0.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=S7OBCY2X7e0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
-      "cover": "(Cover by Daniel Jang)"
-    },
-    {
-      "title": "Despacito",
-      "singer": "Luis Fonsi & Daddy Yankee",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Despacito%20-%20Karolina%20Protsenko%20-%20Violin%20Cover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/ff/13/fd/ff13fd41be2a12d346b31f38d671cef0.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=xB4iFysPm9Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
-      "cover": "(Cover by Karolina Protsenko)"
+          "https://www.youtube.com/watch?v=RigyRr5B_gY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Marion Le Solliec)"
     },
     {
       "title": "Perfect",
       "singer": "Ed Sheeran",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Ed%20Sheeran%20-%20Perfect%20-%20Eduard%20Freixa%20Electric%20Violin.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Harp/Perfect%20-%20ED%20SHEERAN%20Marion%20Le%20Solliec%2C%20celtic%20and%20electric%20harp.mp3?raw=true",
       "coverUrl":
-          "https://m.media-amazon.com/images/M/MV5BMGU5YTRjMTUtZDU4Mi00NjFlLWExYTAtMjVkN2JmOTE1Y2Q2XkEyXkFqcGdeQXVyNjE0ODc0MDc@._V1_.jpg",
+          "https://i.pinimg.com/564x/86/62/11/866211be5c328632afbf53490477206c.jpg",
       "info":
-          "https://www.youtube.com/watch?v=j8DXM1GMi9c&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=18",
-      "cover": "(Cover by Eduard Freixa)"
+          "https://www.youtube.com/watch?v=sio2GoPCCpE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=69",
+      "cover": "(Cover by Marion Le Solliec)"
     },
     {
-      "title": "Love Shot",
-      "singer": "EXO",
+      "title": "He's a Pirate (Pirates of the Caribbean)",
+      "singer": "Klaus Badelt",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/EXO%20-%20LOVE%20SHOT%20VIOLIN%20COVER.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/2CELLOS%20-%20Pirates%20Of%20The%20Caribbean.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/originals/33/b0/1a/33b01ac4c928658e49a463a53378e307.jpg",
+          "https://i.pinimg.com/564x/fd/57/37/fd5737e91bbf2a17da0f925ad15f2c0a.jpg",
       "info":
-          "https://www.youtube.com/watch?v=N5k1xSAV2XU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
-      "cover": "(Cover by Jenny Yun)"
+          "https://www.youtube.com/watch?v=Xj3gU3jACe8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by 2CELLOS)"
     },
     {
-      "title": "Believer",
-      "singer": "Imagine Dragons",
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Imagine%20Dragons%20-%20Believer%20for%20violin%20and%20piano.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/PERFECT%20-%20ED%20SHEERAN%20(PianoCello%20Cover)%20PIANOCELLO%20DUO.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/13/ec/dc/13ecdc8fd4ba37012c075f0fc2c65a5e.jpg",
+          "https://i.pinimg.com/564x/59/8f/81/598f8185977fe7e76286b78bde2aaee8.jpg",
       "info":
-          "https://www.youtube.com/watch?v=Cm_N-hqbElc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
-      "cover": "(Cover by Alison Sparrow)"
+          "https://www.youtube.com/watch?v=TXHB9wL4WFg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by 2CELLOS)"
     },
     {
-      "title": "Love Story",
-      "singer": "Taylor Swift",
+      "title": "Wake Me Up",
+      "singer": "Avicii",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/LOVE%20STORY%20(Taylor%20Swift)%20-%20Violin%20Cover.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Wake%20Me%20Up%20%20Avicii%20violincellobass%20cover%20%20Simply%20Three.mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/originals/06/4b/e5/064be510f908080f7a1e47f282c07819.png",
+          "https://i1.sndcdn.com/artworks-000109873950-ftefx9-t500x500.jpg",
       "info":
-          "https://www.youtube.com/watch?v=bQIUQzMMD8I&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
-      "cover": "(Cover by ItsAMoney)"
-    },
-    {
-      "title": "Love Me Like You Do",
-      "singer": "Ellie Goulding",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Love%20Me%20Like%20You%20Do-Violin%20Cover.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/52/ad/da/52adda693b9a1756e4422c7e1249b6cd.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=VZRVou4cyic&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
-      "cover": "(Cover by Robert Mendoza)"
-    },
-    {
-      "title": "Memories",
-      "singer": "Maroon 5",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Maroon%205%20-%20Memories%20-%20Cover%20(Violin).mp3?raw=true",
-      "coverUrl":
-          "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/memories-album-art-02-design-template-f8a8aa46a67d375c6b6b7a7498de7232_screen.jpg?ts=1566569423",
-      "info":
-          "https://www.youtube.com/watch?v=Vh_sQ11LFTQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
-      "cover": "(Cover by ItsAMoney)"
-    },
-    {
-      "title": "My Heart Will Go On",
-      "singer": "Celine Dion",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/My%20Heart%20Will%20Go%20On%20(Titanic)%20Taylor%20Davis%20-%20Violin.mp3?raw=true",
-      "coverUrl":
-          "https://hips.hearstapps.com/ame-prod-goodhousekeeping-assets.s3.amazonaws.com/main/embedded/27732/best-period-romances-titanic-goodhousekeepinguk.jpg?crop=0.583xw:1.00xh;0.0452xw,0&resize=480:*",
-      "info":
-          "https://www.youtube.com/watch?v=tFdlhlmQ-ek&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=25",
-      "cover": "(Cover by Taylor Davis)"
-    },
-    {
-      "title": "Play Date",
-      "singer": "Melanie Martinez",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Playdate%20(Melanie%20Martinez)%20but%20it's%20on%20violin.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/a1/cb/a0/a1cba00db52fed953544bd868fc87a6c.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=Fg0Y19nYVME&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=21",
-      "cover": "(Cover by Joel Sunny Violin)"
-    },
-    {
-      "title": "River Flow In You",
-      "singer": "Yiruma",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/River%20Flow%20In%20You%20Violin.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/a2/dd/cd/a2ddcd8762c8d4ef5072f44a0b7b709b.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=12ibMHRQDGc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
-      "cover": "(Cover by Alison Sparrow)"
-    },
-    {
-      "title": "Rolling In The Deep",
-      "singer": "Adele",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Rolling%20in%20the%20Deep%20-%20Adele%20(violincellobass%20cover)%20-%20Simply%20Three.mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/42/89/57/428957c7abec2888988b87b3ee9033f6.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=tt2NIDtp-Ls&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+          "https://www.youtube.com/watch?v=XSs2cR2Tvuk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
       "cover": "(Cover by Simply Three)"
     },
     {
-      "title": "Someone You Loved",
-      "singer": "Lewis Capaldi",
+      "title": "Peer Gynt - Morning Mood",
+      "singer": "Edvard Grieg",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Someone%20You%20Loved%20-%20Lewis%20Capaldi%20-%20Violin%20cover%20by%20Daniel%20Jang.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Grieg%20-%20Peer%20Gynt%20_%20Oramo%20%C2%B7%20Berliner%20Philharmoniker%20-%20(Akademia%20Filmu%20i%20Telewizji).mp3?raw=true",
       "coverUrl":
-          "https://i.pinimg.com/564x/fe/28/57/fe28573857a718f84eb9c21d6f3e7c41.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=0S7X2ntBHtM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
-      "cover": "(Cover by Daniel Jang)"
+          "https://www.youtube.com/watch?v=QCiQho5DzfY",
+      "cover": "(Cover by Berliner Philharmoniker)"
+   },
+   {
+      "title": "Mariage d'Amour",
+      "singer": "Richard Clayderman",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Mariage%20d'Amour%20-%20Paul%20de%20Senneville%20_%20Jacob's%20Piano%20-%20(Jacob's%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.youtube.com/watch?v=FoCG-WNsZio&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=3",
+      "cover": "(Cover by Jacob's Piano)"
+   },
+   {
+      "title": "Eine Kleine Nachtmusik",
+      "singer": "Mozart",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Eine%20Kleine%20Nachtmusik%20-%20Mozart%20-%20(AllClassicalMusic).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4e/34/c3/4e34c3eec1d34cc1d44d5b3ba3786b60.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oy2zDJPIgwc&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=4",
+      "cover": "(Cover by AllClassicalMusic)"
+   },
+   { 
+      "title": "Für Elise",
+      "singer": "Ludwig van Beethoven",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Beethoven%20-%20F%C3%BCr%20Elise%20_%20Piano%20%26%20Orchestra%20-%20(Georgii%20Cherkin%20LIVE).mp3?raw=true",
+      "coverUrl":
+          "https://www.biography.com/.image/t_share/MTI2NTgyMzIxOTcyMjU5NDU5/beethoven-600x600jpg.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=e4d0LOuP4Uw&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=2",
+      "cover": "(Cover by Georgii Cherkin LIVE)"
+   },
+   {
+      "title": "Nocturne in E flat major, Op. 9 no. 2",
+      "singer": "Frédéric Chopin",
+      "url":
+          "https://files.musopen.org/recordings/101a3183-264d-4568-a78c-53a5f8a15c54.mp3?filename=Nocturne+in+E+flat+major,+Op.+9+no.+2.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Way Back Home",
-      "singer": "Shaun",
+      "title": "Nocturne in B flat minor, Op. 9 no. 1",
+      "singer": "Frédéric Chopin",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Way%20Back%20Home%20Violin%20-%20Jenny%20Yun%20%20Ivan%20Lee.mp3?raw=true",
+          "https://files.musopen.org/recordings/8476ae47-3751-4a07-a6db-a602e9dc5ffd.mp3?filename=Nocturne+in+B+flat+minor,+Op.+9+no.+1.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/65/85/3d/65853dd9b784ef5b2d3b7c9c7507a267.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=ddOja8d4GGY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=62",
-      "cover": "(Cover by Jenny Yun)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Lovely",
-      "singer": "Billie Eilish & Khalid",
+      "title": "Violin Concerto in F minor, RV 297 'Winter' - II. Largo",
+      "singer": "Antonio Vivaldi",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/ovely%20-%20Billie%20Eilish%20%26%20Khalid%20-%20Cover%20(Violin).mp3?raw=true",
+          "https://files.musopen.org/recordings/7750384a-3cc8-48b3-a653-4130641d60e2.mp3?filename=Violin+Concerto+in+F+minor,+RV+297+%27Winter%27+-+II.+Largo.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/a0/8c/57/a08c57d3c317af684dd0b33c49047752.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=_KFsJvgPfHg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
-      "cover": "(Cover by ItsAMoney)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Watashi no Uso",
-      "singer": "Your Lie in April OST",
+      "title": "Moonlight Sonata Op. 27 No. 2 - II. Allegretto",
+      "singer": "Ludwig Van Beethoven",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/your%20lie%20in%20aprilwatashi%20no%20uso%20LilyPichu.mp3?raw=true",
+          "https://files.musopen.org/recordings/6f8b86e1-2c34-4fc5-9d95-6998170e5593.mp3?filename=Paul+Pitman+-+Moonlight+Sonata+Op.+27+No.+2+-+II.+Allegretto.mp3&amp;preview",
       "coverUrl":
-          "https://i1.wp.com/66.media.tumblr.com/346e7c2dc66daff8e45c0ce881889033/tumblr_nq9xw2wKVE1s5f9ado1_500.gif",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=iW_P2UPkpc4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
-      "cover": "(Cover by LilyPichu)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Love Scenario",
-      "singer": "iKON",
+      "title": "Violin Concerto in E major, RV 269 'Spring' - II. Largo",
+      "singer": "Antonio Vivaldi",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/iKON(Love%20scenario)%20VIOLIN%20MUSIC.mp3?raw=true",
+          "https://files.musopen.org/recordings/a1b2efc0-c68a-4565-8aef-5687173fe5de.mp3?filename=Violin+Concerto+in+E+major,+RV+269+%27Spring%27+-+II.+Largo.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/cb/ee/e9/cbeee9be7c73e58fb86546e7641234dc.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=TvOssPvE7Sc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
-      "cover": "(Cover by Jenny Yun)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Flower (Crash Landing On You)",
-      "singer": "Yoon Mi Rae",
+      "title": "Arabesque No. 1. Andantino con moto",
+      "singer": "Claude Debussy",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Yoon%20Mi%20Rae%EC%9C%A4%EB%AF%B8%EB%9E%98-FLOWER%20Violin%20Cover%20Nana%20BanaDuo.mp3?raw=true",
+          "https://files.musopen.org/recordings/fea67336-3826-421a-949d-fa18a2c5bf49.mp3?filename=Arabesque+No.+1.+Andantino+con+moto.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/originals/ec/9c/25/ec9c2545089c5efef70c5987327e24ee.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=MGMGXEbKF5Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
-      "cover": "(Cover by Nana BanaDuo)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Harry Potter Medley",
-      "singer": "John Williams",
+      "title": "Goldberg Variations, BWV 988 - 10 - Variatio 9 a 1 Clav. Canone alla Terza",
+      "singer": "Johann Sebastian Bach",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Harry%20Potter%20%20Medley%20Juncurryahn%20and%20Lilypichu(sleightlymusical).mp3?raw=true",
+          "https://files.musopen.org/recordings/c4d8f6d8-29d7-404c-bb23-cdce709b47fd.mp3?filename=Goldberg+Variations,+BWV+988+-+10+-+Variatio+9+a+1+Clav.+Canone+alla+Terza.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/5c/b2/2f/5cb22f977f9ad5d772b38474626fba58.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=2s8QhbTB9VE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
-      "cover": "(Cover by Juncurryahn and Lilypichu)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Give You My Heart (Crash Landing On You)",
-      "singer": "IU",
+      "title": "Goldberg Variations, BWV 988 - 17 - Variatio 16 a 1 Clav. Ouverture",
+      "singer": "Johann Sebastian Bach",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/IU%E7%8D%BB%E4%B8%8A%E6%88%91%E7%9A%84%E5%BF%83%20Give%20You%20My%20Heart%E9%9F%93%E5%8A%87%E6%84%9B%E7%9A%84%E8%BF%AB%E9%99%8D%E5%8E%9F%E8%81%B2%E5%B8%B6%E5%B0%8F%E6%8F%90%E7%90%B4%E7%89%88%E6%9C%AC%20%20ViolinCover%20by%20AnViolin.mp3?raw=true",
+          "https://files.musopen.org/recordings/6cff37d0-2228-4972-ac1f-fc92c30fb796.mp3?filename=Goldberg+Variations,+BWV+988+-+17+-+Variatio+16+a+1+Clav.+Ouverture.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/d8/0d/58/d80d58b7bf1e3814cfe4d27cb9675355.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=-cgT5WK5Dpc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
-      "cover": "(Cover by 林子安 AnViolin)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Roar",
-      "singer": "Katy Perry",
+      "title": "Goldberg Variations, BWV 988 - 22 - Variatio 21 Canone alla Settima",
+      "singer": "Johann Sebastian Bach",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Katy%20Perry%20%20Roar%20for%20violin(Alison%20Sparrow).mp3?raw=true",
+          "https://files.musopen.org/recordings/ce95ce76-75c5-4467-8b87-a39441bdcc95.mp3?filename=Goldberg+Variations,+BWV+988+-+22+-+Variatio+21+Canone+alla+Settima.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/originals/bd/92/7a/bd927a1570a1b0f0903c2e8ad465ad6a.gif",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=MPwwmXdCZGw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
-      "cover": "(Cover by Alison Sparrow)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Something Just Like This",
-      "singer": "The Chainsmokers & Coldplay",
+      "title": "Goldberg Variations, BWV. 988 - Variation 22",
+      "singer": "Johann Sebastian Bach",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Something%20Just%20Like%20This%20(Alison%20Sparrow).mp3?raw=true",
+          "https://files.musopen.org/recordings/8832773e-c948-4474-b1de-f9d80f7dc672.mp3?filename=Goldberg+Variations,+BWV.+988+-+Variation+22.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/f7/f3/70/f7f370c1104b9c6f8e523f23e362e2c7.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=Pxy8Z2K1pF8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
-      "cover": "(Cover by Alison Sparrow)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Shake It Off",
-      "singer": "Taylor Swift",
+      "title": "Cello Suite No.1 in G major, BWV 1007",
+      "singer": "Johann Sebastian Bach",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Shake%20It%20Off%20%20Taylor%20Swift%20%20(From%20the%20Top).mp3?raw=true",
+          "https://files.musopen.org/recordings/17371b6a-cf7c-4498-8e57-2b3c065dffe7.mp3?filename=Cello+Suite+No.1+in+G+major,+BWV+1007+.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/39/00/54/3900546809177fa1ec12ac60d7c76a74.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=HlzEHobggRs&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=24",
-      "cover": "(Cover by From the Top)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
-      "title": "Memories X Canon in D X Beautiful in White",
-      "singer": "Various Artist",
+      "title": "Reverie",
+      "singer": "Constantin Stephan",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Memories%20X%20Canon%20in%20D%20X%20Beautiful%20in%20White%20Violin-Angelita%20Cecilia.mp3?raw=true",
+          "https://files.musopen.org/recordings/215784e0-ef13-4b5a-a0d8-5675908077f7.mp3?filename=Reverie+-+Constantin+Stephan.mp3&amp;preview",
       "coverUrl":
-          "https://i.pinimg.com/564x/4f/3f/32/4f3f32261d2889645dfe4f8d79cc1d09.jpg",
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
       "info":
-          "https://www.youtube.com/watch?v=PHVSNWWM36Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
-      "cover": "(Cover by Angelita Cecilia)"
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
     },
     {
       "title": "Luminescence",
@@ -4084,5 +3610,6 @@
       "info":
           "https://www.youtube.com/watch?v=hnXJ3i54EjQ&list=PLTpeyQJ-cKQclZdzxFyLzuz90wVmwCB9W&index=21",
       "cover": "(Cover by ShinyJess)"
-    }
+    },
+    
 ]
