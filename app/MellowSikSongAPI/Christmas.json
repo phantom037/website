@@ -1,5 +1,5 @@
 {
-  "numSong": 46,
+  "numSong": 54,
   "api": [
     {
       "title": "Carol Medley 4hands piano",
@@ -11,6 +11,94 @@
       "info":
           "https://www.youtube.com/watch?v=AlBkca8DQVI&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=1",
       "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "''Snowflakes'' Christmas Time Song",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/''Snowflakes''%20Christmas%20Time%20Song%20(KMBeats).mp3?raw=true",
+      "coverUrl":
+          "https://akamai-scene7.frontgate.com/is/image/frontgate/b-42572_main?$wfih$",
+      "info":
+          "https://www.youtube.com/watch?v=uG_WBc-R6HY&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=5",
+      "cover": "(Cover by KMBeats)"
+    },
+    {
+      "title": "All I Want for Christmas is You",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/All%20I%20Want%20for%20Christmas%20is%20You%20-%20(David%20Josade).mp3?raw=true",
+      "coverUrl":
+          "https://cdn.shopify.com/s/files/1/0261/7570/1064/products/e6cb195f-c9c6-4cf4-8cda-093e73d0fc69.6024c22ea8990db929404038fc6f0653@2x.jpg?v=1637077991",
+      "info":
+          "https://www.youtube.com/watch?v=Y-lcNPKfzoI&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=7",
+      "cover": "(Cover by David Josade)"
+    },
+    {
+      "title": "Angels We Have Heard on High",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Angels%20We%20Have%20Heard%20on%20High%20(Christian%20Hymns%20%26%20Gospel%20Music).mp3?raw=true",
+      "coverUrl":
+          "https://media4.giphy.com/media/WegW6SzFxtoJvoTGS2/giphy.gif?cid=790b7611d1093e9c000463d98d657c1466f043b436c344c1&rid=giphy.gif&ct=g",
+      "info":
+          "https://www.youtube.com/watch?v=MYWo4pUtP-Y&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=2",
+      "cover": "(Cover by Christian Hymns & Gospel Music)"
+    },
+    {
+      "title": "Angels We Have Heard on High",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Angels%20We%20Have%20Heard%20on%20High%20-%20(Kaleb%20Brasee).mp3?raw=true",
+      "coverUrl":
+          "https://media2.giphy.com/media/euviDNZfscxPOVSkHa/giphy.gif?cid=790b7611fc0102b1111a5cf5d62cf5dbfdfbc132d0f3333a&rid=giphy.gif&ct=g",
+      "info":
+          "https://www.youtube.com/watch?v=DRzGoS5TXTU&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=3",
+      "cover": "(Cover by Kaleb Brasee)"
+    },
+    {
+      "title": "Christmas piano hip hop beat 2014",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Christmas%20piano%20hip%20hop%20beat%202014(KIMBOproduction).mp3?raw=true",
+      "coverUrl":
+          "https://acegif.com/wp-content/gif/merrychristmas-unq-4.gif",
+      "info":
+          "https://www.youtube.com/watch?v=ABK9xL3Y6qg&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=6",
+      "cover": "(Cover by KIMBOproduction)"
+    },
+    {
+      "title": "All I Want for Christmas is You",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/Mariah%20Carey%20-%20All%20I%20Want%20For%20Christmas%20Is%20You%20(Epic%20Orchestra).mp3?raw=true",
+      "coverUrl":
+          "https://cdn.shopify.com/s/files/1/0261/7570/1064/products/e6cb195f-c9c6-4cf4-8cda-093e73d0fc69.6024c22ea8990db929404038fc6f0653@2x.jpg?v=1637077991",
+      "info":
+          "https://www.youtube.com/watch?v=69jGqjaSLlI&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=8",
+      "cover": "(Cover by Epic Orchestra)"
+    },
+    {
+      "title": "O Holy Night",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/O%20Holy%20Night%20-%20(Peder%20B.%20Helland).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/b1/21/24/b1212429751c51cfecc884b0712ac94d.gif",
+      "info":
+          "https://www.youtube.com/watch?v=tamy_K2jmW0&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=1",
+      "cover": "(Cover by Peder B. Helland)"
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "singer": "Christmas carol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Christmas/We%20Wish%20You%20a%20Merry%20Christmas%20(Relax%20%CE%B1%20Wave%20-%20Topic).mp3?raw=true",
+      "coverUrl":
+          "https://media.baamboozle.com/uploads/images/213981/1607614141_68589",
+      "info":
+          "https://www.youtube.com/watch?v=hvU9hEGzgmw&list=PLTpeyQJ-cKQd6BxeXdVl8eO1YvgyzY27K&index=9",
+      "cover": "(Cover by Relax α Wave - Topic)"
     },
     {
       "title": "Carol POP Medley l Bella's Solo Piano",
