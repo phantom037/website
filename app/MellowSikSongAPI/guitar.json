@@ -1,0 +1,761 @@
+{
+  "numSong": 69,
+  "api": [
+    {
+      "title": "Say Yes (Moon Lovers OST)",
+      "singer": "Loco & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Say%20Yes%20-%20Loco%20x%20Punch%20-%20(Jorell%20Prospero).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bd/71/4b/bd714bade09c73c86f9bd239a1b1b059.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ONmiTg9XW1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Jorell Prospero)"
+    },
+    {
+      "title": "Let It Go (Frozen OST)",
+      "singer": "Idina Menzel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Frozen%20OST)%20Let%20It%20Go%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c0/1d/35/c01d35b98cc2cc455ffd1099d740022b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=AAnID4RS7Vg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=110",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Why Not Me",
+      "singer": "Enrique Iglesias",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Why%20Not%20Me%20(Enrique%20Iglesias)%20-%20Guitar%20(Nguy%E1%BB%85n%20Hu%E1%BB%B3nh%20Th%C3%A1i%20-%20R%C3%A8).mp3?raw=true",
+      "coverUrl":
+          "https://avatar-ex-swe.nixcdn.com/playlist/2016/07/14/2/4/5/3/1468486450547_500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=wVdQjZxUb1w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Nguyễn Huỳnh Thái - Rè)"
+    },
+    {
+      "title": "You Belong With Me",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/you%20belong%20with%20me%20-%20taylor%20swift%20-%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/87/6e/6e/876e6ef3b13a578e3f7d32aba863febc.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9SCluoF_ick&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by paul iballa)"
+    },
+    {
+      "title": "It Ain't Me",
+      "singer": "Selena Gomez & Kygo",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Kygo%2C%20Selena%20Gomez%20-%20It%20Ain't%20Me%20-%20Fingerstyle%20-%20(James%20Bartholomew).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c0/1d/35/c01d35b98cc2cc455ffd1099d740022b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ku1zD9wQ-Rw",
+      "cover": "(Cover by James Bartholomew)"
+    },
+    {
+      "title": "Sweet but Psycho",
+      "singer": "Ava Max",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Sweet%20but%20Psycho%20-%20Ava%20Max%20-%20Guitar%20(Andrew%20Foy%20%EC%95%A4).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/0e/4c/dc/0e4cdc71815a3f4870daf045d4430902.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rjAdzSXqVrY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Andrew Foy 앤)"
+    },
+    {
+      "title": "The Heart Wants What it Wants",
+      "singer": "Selena Gomez",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/The%20Heart%20Wants%20What%20it%20Wants%20%20-%20Guitar%20-%20(Andrew%20Foy%20%EC%95%A4%EB%94%94).mp3?raw=true",
+      "coverUrl":
+          "https://s8.favim.com/orig/150802/girl-quotes-sad-selena-gomez-Favim.com-3042738.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=noibT5VkKGo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Andrew Foy 앤)"
+    },
+    {
+      "title": "Wolves",
+      "singer": "Selena Gomez & Marshmello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Wolves%20-%20Selena%20Gomez%20%26%20Marshmello%20-%20Fingerstyle%20-%20(Eddie%20van%20der%20Meer).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/DNecpfSVAAAw27W.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=f6rlu66cBD0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Eddie van der Meer)"
+    },
+    {
+      "title": "Can We Kiss Forever",
+      "singer": "Kina",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/can%20we%20kiss%20forever%20-%20kina%20_%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/20/b5/4220b59dfe710e988189ea79f8a0d628.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=MPacUs0Vgbo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by paul iballa)"
+    },
+    {
+      "title": "Ikaw Lang",
+      "singer": "Nobita",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/ikaw%20lang%20-%20nobita%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4c/3d/75/4c3d7568ed25e25e860a6a5bc68ed4f5.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=aptDONruRxs&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by paul iballa)"
+    },
+    {
+      "title": "Count On Me",
+      "singer": "Bruno Mars",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Coun%20On%20Me-Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://m.media-amazon.com/images/I/717FVMJIJCL._SS500_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=EbAcN0WfSG0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=38",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Stay With Me (Goblin OST)",
+      "singer": "Punch & Chanyeol",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Goblin)%20OST%20Stay%20With%20Me%20%20Chanyeol%20(EXO)Punch%20Cover%20(Guitar).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/5d/7f/cb/5d7fcbcce0f3c3a1a20d15e99b0bd63a.gif",
+      "info":
+          "https://www.youtube.com/watch?v=tRdOCIOJMkw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=81",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Memories",
+      "singer": "Maroon 5",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Maroon%205)%20Memories%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000603889666-05zoia-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=14mE1aVAPj0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=117",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Way Back Home",
+      "singer": "Shaun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(SHAUN)%20-%20Way%20Back%20Home%20Fingerstyle.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/7a/ac/95/7aac951fc35b2271e562ab8086f31d73.jpg",
+      "info": "https://www.youtube.com/watch?v=4r_OXsPGi40&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=111",
+      "cover": "(Cover by La Thang)"
+    },
+    {
+      "title": "Always With Me (Spirit Away)",
+      "singer": "Youmi Kimura",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Spirited%20Away)%20Always%20With%20Me%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000154884197-y299a3-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=EIcwEj9uzkk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=115",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Sparkle (Your Name OSt)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Your%20Name)%20Sparkle%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/f7/f2/79/f7f279cede0a314f109f5e04c78af05f.gif",
+      "info":
+          "https://www.youtube.com/watch?v=_u_SrYBSr3c&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=109",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Always (Descendants of The Sun)",
+      "singer": "Yoon Mi Rae",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Always%20-Yoonmirae%20%ED%83%9C%EC%96%91%EC%9D%98%20%ED%9B%84%EC%98%88%20OST%20Fingerstyle%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/a0/a4/f9/a0a4f97b03298bfea7b582b0e2be5cf3.gif",
+      "info":
+          "https://www.youtube.com/watch?v=p44OZ2V60Qo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=107",
+      "cover": "(Cover by Toey Fingerstyle)"
+    },
+    {
+      "title": "Havana",
+      "singer": "Camila Cabello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Camila%20Cabello%20-%20Havana%20-%20Cover%20(Fingerstyle%20Guitar).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/02/17/1d/02171d26e769beaae7fb6789159e50d2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Eaq914E77oY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=101",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Attention",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Charlie%20Puth%20-%20Attention%20-%20Cover%20(Fingerstyle%20Guitar).mp3?raw=true",
+      "coverUrl":
+          "https://ih1.redbubble.net/image.396214919.1773/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg",
+      "info": "https://www.youtube.com/watch?v=9ygrq7in_uI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=103",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Diem Xua",
+      "singer": "Trịnh Công Sơn",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/DI%E1%BB%84M%20X%C6%AFA%20Tr%E1%BB%8Bnh%20C%C3%B4ng%20S%C6%A1n%20%20Guitarist%20Tr%E1%BA%A7n%20Tu%E1%BA%A5n%20H%C3%B9ng.mp3?raw=true",
+      "coverUrl":
+          "https://shelikes.net/wp-content/uploads/2019/05/Sai-Gon-thap-nien-90-binh-di-trong-loat-anh-cua-nhiep-anh-gia-Nhat_789_thumb.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ZL8CMcFwM7E&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=33",
+      "cover": "(Cover by Trần Tuấn Hùng)"
+    },
+    {
+      "title": "You Dian Tian",
+      "singer": "Silence Wang",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/YouDianTian.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/03/6a/43/036a43d2ad32a17f1bcb7827097f1edd.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=kQWyZtvcrOU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Guitar Cover By ครูโ�้ GTC)"
+    },
+    {
+      "title": "It Was A Good Day",
+      "singer": "Depapepe",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Depapepe%20%E3%81%84%E3%81%84%E6%97%A5%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AD%20It%20Was%20A%20Good%20Day%20%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/cc/be/c3/ccbec33968405a288041dd3a3621ac66.jpg",
+      "info": "https://www.youtube.com/watch?v=VzkZDBEjDR4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=34",
+      "cover": "(Cover by Thien An Nguyen)"
+    },
+    {
+      "title": "Despacito",
+      "singer": "Luis Fonsi & Daddy Yankee",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Despacito%20Fingerstyle%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://upload.wikimedia.org/wikipedia/vi/archive/7/7d/20210320235506%21Despacito_cover.jpeg",
+      "info":
+          "https://www.youtube.com/watch?v=8YELO9yxs_c&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=99",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Ed%20Sheeran%20-%20Perfect%20-%20Cover%20(Fingerstyle%20guitar).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000291233430-6agdkk-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=O9x0QJ7s0Ck&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=106",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "How You Like That",
+      "singer": "Blackpink",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/How%20You%20Like%20That%20-%20Blackpink%20-%20acoustic%20fingerstyle%20guitar.mp3?raw=true",
+      "coverUrl":
+          "https://preview.redd.it/spjrydlqv1j51.jpg?auto=webp&s=d36744743a42a1ea9eaff115c787bf73c864f4ac",
+      "info":
+          "https://www.youtube.com/watch?v=r1jNUlieLKw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=112",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "I'm Yours",
+      "singer": "Jason Mraz",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/I'm%20Yours%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://direct.rhapsody.com/imageserver/images/alb.54706963/600x600.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=iyMQRVA2pnc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=114",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Believer",
+      "singer": "Imagine Dragons",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Imagine%20Dragons%20-%20Believer%20-%20Cover%20(Fingerstyle%20Cover).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/ec/38/5e/ec385ea30cd818960778634483c1968b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=YLr-wVAzziY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=102",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Lemon",
+      "singer": "Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Lemon%20-%20Kenshi%20Yonezu%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://ae01.alicdn.com/kf/HTB1bD1JPFXXXXXbaXXXq6xXFXXXH/Oct-Home-Textile-Your-Name-Japanese-Anime-Taki-Mitsuha-Polyester-Square-Pillow-Case-One-sided-Two.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=yWP5JsA_Rms&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=59",
+      "cover": "(Cover by Eddie van der Meer)"
+    },
+    {
+      "title": "Is There Still Anything That Love Can Do?",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Is%20There%20Still%20Anything%20That%20Love%20Can%20Do%20Weathering%20With%20You%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ab/dd/49/abdd497fd21951ea1038e22433fb572f.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oTgVtTh-rY4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=61",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Let Her Go",
+      "singer": "Passenger",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Let%20Her%20Go%20-%20Guitar%20James%20Bartholomew.mp3?raw=true",
+      "coverUrl":
+          "https://upload.wikimedia.org/wikipedia/vi/b/ba/Passenger_-_Let_Her_Go.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_ZaRQmLuChc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=42",
+      "cover": "(Cover byJames Bartholomew)"
+    },
+    {
+      "title": "Let Me Love You",
+      "singer": "DJ Snake & Justin Bieber",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Let%20Me%20Love%20You%20ft.%20Justin%20Bieber%20-%20Cover%20(Fingerstyle%20Guitar).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/c6/ee/42/c6ee42a39282c125b743d89ea43697f5.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=G05ErDhDiUA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=104",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Locked Away",
+      "singer": "R. City & Adam Levine",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Locked%20Away%20-%20R.%20City%20ft.%20Adam%20Levine%20-%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273692d0788d1a106616028f053",
+      "info":
+          "https://www.youtube.com/watch?v=tRNBvub1Dik&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=52",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "My Heart Will Go on",
+      "singer": "Celine Dion",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/My%20heart%20will%20go%20on%E2%8E%AALoud%2012%20String%20Guitar%20Version.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ce/0b/bb/ce0bbbdfd4c1d4ff3c6f18a3620ad11e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=SXkC92TqxAw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=116",
+      "cover": "(Cover by Eiro Nareth)"
+    },
+    {
+      "title": "Nandemonaiya",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Nandemonaiya%20Guitar%20Cover%20by%20Edward%20Ong.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/1e/6a/e3/1e6ae3dd17cbfd089bd07ee50d4cee18.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=jI8YraI4CP0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=65",
+      "cover": "(Cover by Edward Ong)"
+    },
+    {
+      "title": "Dau De Truong Thanh",
+      "singer": "Only C",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/%C4%90au%20%C4%90%E1%BB%83%20Tr%C6%B0%E1%BB%9Fng%20Th%C3%A0nh%20(Only%20C)%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000571378802-6n6h3p-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=b5FzMY19JkE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=47",
+      "cover": "(Cover by Cover TiVi)"
+    },
+    {
+      "title": "Psycho",
+      "singer": "Red Velvet",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Red%20Velvet%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3%20'Psycho'%20(Fingerstyle%20Guitar%20Cover).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/EPIm5dwU8AA7iA7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=z6RNopp5I0g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=108",
+      "cover": "(Cover by Iqbal Gumilar)"
+    },
+    {
+      "title": "River Flow In You",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/River_Flow_in_You%20-%20Sungha%20Jung%20(Classical%20Guitar).mp3?raw=true",
+      "coverUrl":
+          "https://images.fineartamerica.com/images-medium-large-5/melbourne-yarra-river-vintage-tim-hester.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_lUxR6En_JQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=113",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "We Don't Talk Anymore",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/We%20Don't%20Talk%20Anymore%20-%20Charlie%20Puth%20Ft.%20Selena%20Gomez%20-%20Fingerstyle%20Guitar%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://direct.rhapsody.com/imageserver/images/alb.216871770/600x600.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=M3dekVSwNjY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=105",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Zen Zen Zense (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Zenzenzense-%20YourNameOST-Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/83/75/4d/83754d9c24901ad643a403b6846e2e08.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=CNG8u-uNprM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Edward Ong)"
+    },
+    {
+      "title": "A Thousand Years",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Christina%20Perri%20-%20A%20Thousand%20Years%20-%20Fingerstyle%20Guitar%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://64.media.tumblr.com/186f8f7104c7b8a86675e3e9fa27f57a/0b628b95fe1c2f27-aa/s640x960/42f1082b2e136659e064318dfc6aa74861a64bf5.gif",
+      "info":
+          "https://www.youtube.com/watch?v=DwKQHdsEzd4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by James Bartholomew)"
+    },
+    {
+      "title": "Love Yourself",
+      "singer": "Justin Bieber",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Love%20Yourself%20-%20Justin%20Bieber%20-%20Fingerstyle%20Guitar%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/24/be/c0/24bec007ded43913dc2cbc28afad533c.gif",
+      "info":
+          "https://www.youtube.com/watch?v=V8UB8UfXDDo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=67",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Reality",
+      "singer": "Lost Frequencies",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Reality%20-%20Lost%20Frequencies.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/dd/dc/50/dddc5098c55b0f7efed71499bd445efd.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=RTQ_fZEQ0S0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Albert Gyorfi)"
+    },
+    {
+      "title": "But It's Destiny (Crash landing on you)",
+      "singer": "10cm",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/%5BFingerstyle%20Guitar%20Tab%5D%20But%20It's%20Destiny%20(Crash%20landing%20on%20you%20OST).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/77/c2/84/77c2845ae6a6aeb721a76e95d25c2196.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_3lP5GqNvW0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by [기타&타브]David's Guitar&TAB)"
+    },
+    {
+      "title": "Lovesick Girls",
+      "singer": "BLACKPINK",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Lovesick%20Girls%20%20BLACKPINK%20guitar%20cover(Andrew%20Foy%20%EC%95%A4%EB%94%94).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/DkPB2nKU0AA6tLd.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=INeUJl6s_N0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Payphone",
+      "singer": "Maroon 5 & Wiz Khalifa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Maroon%205%20%20Payphone%20%20Fingerstyle%20Guitar%20Cover%20By%20James%20Bartholomew.mp3?raw=true",
+      "coverUrl":
+          "https://www.cevirce.com/en/translate/wp-content/uploads/2021/06/maroon-5-feat.-wiz-khalifa-payphone-lyrics-1-1200x1200.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Il6yRSrgHeQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=30",
+      "cover": "(Cover by James Bartholomew)"
+    },
+    {
+      "title": "Nothing Else Matters",
+      "singer": "Metallica",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Metallica%20%20Nothing%20Else%20Matters%20Guitar(James%20Bartholomew).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000438871638-im9eal-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=4lVKlHCd4_g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by James Bartholomew)"
+    },
+    {
+      "title": "PLANET",
+      "singer": "Shinjiroh Inoue",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/PLANET%20guitar%20cover(%E5%B0%8F%E5%A3%B0%E6%8C%87%E5%BC%B9nice).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000329129811-4l9dyx-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=RqRAAlIV0l8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=33",
+      "cover": "(Cover by 小声指弹nice)"
+    },
+    {
+      "title": "Someone You Loved",
+      "singer": "Lewis Capaldi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Someone%20You%20Loved-(Fingerstyle%20Guitar)-Iqbal%20Gumilar.mp3?raw=true",
+      "coverUrl":
+          "https://dvfnvgxhycwzf.cloudfront.net/media/SharedImage/imageFull/.f7PO1krW/SharedImage-91162.jpg?t=57753a40748dd1bffc6b",
+      "info":
+          "https://www.youtube.com/watch?v=y3Lshqg_IWk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=34",
+      "cover": "(Cover by Iqbal Gumilar)"
+    },
+    {
+      "title": "Talking To The Moon",
+      "singer": "Bruno Mars",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/TalkingToTheMoon%20-%20Bruno%20Mars%20Guitar%20(Kenneth%20Acoustic).mp3?raw=true",
+      "coverUrl":
+          "https://media.istockphoto.com/photos/road-by-night-picture-id157284581?k=6&m=157284581&s=612x612&w=0&h=cGUMSm1TEzFYvK9f1_mITkaxaXLDHtSOtZCQxIil_34=",
+      "info":
+          "https://www.youtube.com/watch?v=KglrDrF6_uE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=37",
+      "cover": "(Cover by Kenneth Acoustic)"
+    },
+    {
+      "title": "The Nights",
+      "singer": "Avicii",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/The%20Nights-Avicii%20(Guitar)Iqbal%20Gumilar.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000548500974-ju7kgh-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Nvx39FuxnqA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Iqbal Gumilar)"
+    },
+    {
+      "title": "Can We Kiss Forever?",
+      "singer": "Kina & Adriana Proenza",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/can%20we%20kiss%20forever%20guitar(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/76/14/ef/7614efe1880a91e5c147e3e588f0b082.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Yv6P9fTqNP0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
+      "cover": "(Cover by Paul Iballa)"
+    },
+    {
+      "title": "Irony",
+      "singer": "Majiko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Irony%20%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%8B%20Vocaloid%20Fingerstyle%20Guitar%20Cover%20TABS(JayJay%20Fingerstyle).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/8a/ca/92/8aca92fedcdb8f60ed1470894842fd8c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6wuYLzQkzJw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by JayJay Fingerstyle)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Renai%20Circulation%20on%20Guitar%20ft%20The%20Anime%20Man(Eddie%20van%20der%20Meer).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/17/6f/7a/176f7a1abb4d32850bcab6ee2b3baf27.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1MgIqz66NZA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Cover by Eddie van der Meer)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Renai%20Circulation%E6%81%8B%E6%84%9B%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3fingerstyle%20cover%20%20Kana%20Hanazawa(Iqbal%20Gumilar).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/8c/c0/df/8cc0dfc0a980134f15cb1c4c0f8b552d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=uZYCWDtSmQY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Iqbal Gumilar)"
+    },
+    {
+      "title": "Summertime",
+      "singer": "Cinnamons & Evening cinema",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/summertime%20%20cinnamons%20evening%20cinema%20%20guitar(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://m.media-amazon.com/images/I/610jev8sNeL._SS500_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=b7hPRyygMeI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=18",
+      "cover": "(Cover by Paul Iballa)"
+    },
+    {
+      "title": "Irony",
+      "singer": "Majiko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/Irony%20%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%8B%20Vocaloid%20Fingerstyle%20Guitar%20Cover%20TABS(JayJay%20Fingerstyle).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/79/35/d5/7935d5bb073005aa00dff9d3ed5d2aa0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=l_9TGpuIAvk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Natanael A.)"
+    },
+    {
+      "title": "Chiisana Koi no Uta",
+      "singer": "Mongol800",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Chiisana%20Koi%20no%20Uta%20%20Fingerstyle%20Guitar%20(Leon%20Alex).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/9c/97/49/9c97490921e8ff904adeec0183ebee29.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=iGDv17HKPuM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=36",
+      "cover": "(Cover by Leon Alex)"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Ed%20Sheeran%20Thinking%20Out%20Loud%20%20Sungha%20(Sungha%20Jung).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a0/a6/bc/a0a6bcf0354def981d0a16d94e29d5c4.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=DfTsofeTkwg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title": "Dark Horse",
+      "singer": "Katy Perry",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Katy%20Perry%20%20Dark%20Horse%20fingerstyle%20guitar%20(Peter%20Gergely).mp3?raw=true",
+      "coverUrl":
+          "https://static.wikia.nocookie.net/katyperry/images/7/74/DarkHorse.jpg/revision/latest?cb=20170519001413",
+      "info":
+          "https://www.youtube.com/watch?v=30BelnxQ9jo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
+      "cover": "(Cover by Peter Gergely)"
+    },
+    {
+      "title": "One Call Away",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/One%20Call%20Away%20%20Fingerstyle%20(James%20Bartholomew).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/fc/7d/e6/fc7de6c5e116c5aa2e6e4ac0f6063250.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=KrmLwDU1aNo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by James Bartholomew)"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Thinking%20out%20Loud%20%20Ed%20Sheeran(Gareth%20Evans).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/6a/5e/6c/6a5e6c5e4719cbadfe8f07f7acc25f56.gif",
+      "info":
+          "https://www.youtube.com/watch?v=HWioZm53ez0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
+      "cover": "(Cover by Gareth Evans)"
+    },
+    {
+      "title": "Coming Home",
+      "singer": "Dirty Money & Skylar Grey",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Coming%20Home%20-%20Guitar%20Leon%20Alex.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c8/e5/29/c8e529b0e553a1d97251020e3dc2d6ef.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=n_rJRFYWAnQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Leon Alex)"
+    },
+    {
+      "title": "Can't Help Falling In Love x Perfect",
+      "singer": "Elvis Presley & Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/cant%20help%20falling%20in%20love%20x%20perfect-%20guitar-paul%20iballa.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/18/92/dd/1892ddd82d18fa9c73e300c8cf047902.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=kEPn-arXTU4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by paul iballa)"
+    },
+    {
+      "title": "Something Just Like This",
+      "singer": "Coldplay & The Chainsmokers",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Something%20Just%20Like%20This%20-%20(Braveheart%20%26%20Titanic)%20Guitar%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f9/3c/79/f93c79d738d248e44e4d5176ca99c91d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rLnhfqcNFVQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Eddie van der Meer)"
+    },
+    {
+      "title": "Something Just Like This",
+      "singer": "Coldplay & The Chainsmokers",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Something%20Just%20Like%20This%20-(Andrew%20Foy%20%EC%95%A4%EB%94%94)%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/d4/c5/e3/d4c5e3ecc7d9828810a04eddfd246943.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=A1greUonFAk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Yêu Lại Từ Đầu",
+      "singer": "Khắc Việt",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Y%C3%AAu%20L%E1%BA%A1i%20T%E1%BB%AB%20%C4%90%E1%BA%A7u%20-%20Kh%E1%BA%AFc%20Vi%E1%BB%87t%20(Mitxi%20T%C3%B2ng)%20-%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f2/c7/d9/f2c7d91eea27e13343ee1b0fba07520e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=VaRPPU0aV7o&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Mitxi Tòng)"
+    },
+    {
+      "title": "Get You The Moon",
+      "singer": "Kina & Snow",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/get%20you%20the%20moon%20_%20kina%20-%20guitar%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/46/45/f9/4645f997bd50ea02b497064b9fbc8c24.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=bQHgtlSCQUQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by paul iballa)"
+    },
+    {
+      "title": "Let Her Go",
+      "singer": "Passenger",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/let%20her%20go%20-%20passenger%20_%20guitar%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://images.8tracks.com/cover/i/009/297/820/11357964_1661127587453582_1449513441_n-4545.jpg?rect=0,0,640,640&q=98&fm=jpg&fit=max",
+      "info":
+          "https://www.youtube.com/watch?v=sRx7v3JGd_A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by paul iballa)"
+    },
+    {
+      "title": "A Thousand Year",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/a%20thousand%20years%20-%20christina%20perri%20_%20guitar%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/33/cc/0f/33cc0f5ab510f11906ab83e5324facf1.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=TgHfhvNdPjg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=12",
+      "cover": "(Cover by paul iballa)"
+    }
+  ]
+}

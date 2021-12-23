@@ -1,0 +1,181 @@
+{
+  "numSong": 16,
+  "api": [
+   {
+      "title": "Peer Gynt - Morning Mood",
+      "singer": "Edvard Grieg",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Grieg%20-%20Peer%20Gynt%20_%20Oramo%20%C2%B7%20Berliner%20Philharmoniker%20-%20(Akademia%20Filmu%20i%20Telewizji).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.youtube.com/watch?v=QCiQho5DzfY",
+      "cover": "(Cover by Berliner Philharmoniker)"
+   },
+   {
+      "title": "Mariage d'Amour",
+      "singer": "Richard Clayderman",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Mariage%20d'Amour%20-%20Paul%20de%20Senneville%20_%20Jacob's%20Piano%20-%20(Jacob's%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.youtube.com/watch?v=FoCG-WNsZio&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=3",
+      "cover": "(Cover by Jacob's Piano)"
+   },
+   {
+      "title": "Eine Kleine Nachtmusik",
+      "singer": "Mozart",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Eine%20Kleine%20Nachtmusik%20-%20Mozart%20-%20(AllClassicalMusic).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4e/34/c3/4e34c3eec1d34cc1d44d5b3ba3786b60.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oy2zDJPIgwc&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=4",
+      "cover": "(Cover by AllClassicalMusic)"
+   },
+   { 
+      "title": "Für Elise",
+      "singer": "Ludwig van Beethoven",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Beethoven%20-%20F%C3%BCr%20Elise%20_%20Piano%20%26%20Orchestra%20-%20(Georgii%20Cherkin%20LIVE).mp3?raw=true",
+      "coverUrl":
+          "https://www.biography.com/.image/t_share/MTI2NTgyMzIxOTcyMjU5NDU5/beethoven-600x600jpg.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=e4d0LOuP4Uw&list=PLTpeyQJ-cKQeUPWvS6nifAQmXAawzjYDm&index=2",
+      "cover": "(Cover by Georgii Cherkin LIVE)"
+   },
+   {
+      "title": "Nocturne in E flat major, Op. 9 no. 2",
+      "singer": "Frédéric Chopin",
+      "url":
+          "https://files.musopen.org/recordings/101a3183-264d-4568-a78c-53a5f8a15c54.mp3?filename=Nocturne+in+E+flat+major,+Op.+9+no.+2.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Nocturne in B flat minor, Op. 9 no. 1",
+      "singer": "Frédéric Chopin",
+      "url":
+          "https://files.musopen.org/recordings/8476ae47-3751-4a07-a6db-a602e9dc5ffd.mp3?filename=Nocturne+in+B+flat+minor,+Op.+9+no.+1.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Violin Concerto in F minor, RV 297 'Winter' - II. Largo",
+      "singer": "Antonio Vivaldi",
+      "url":
+          "https://files.musopen.org/recordings/7750384a-3cc8-48b3-a653-4130641d60e2.mp3?filename=Violin+Concerto+in+F+minor,+RV+297+%27Winter%27+-+II.+Largo.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Moonlight Sonata Op. 27 No. 2 - II. Allegretto",
+      "singer": "Ludwig Van Beethoven",
+      "url":
+          "https://files.musopen.org/recordings/6f8b86e1-2c34-4fc5-9d95-6998170e5593.mp3?filename=Paul+Pitman+-+Moonlight+Sonata+Op.+27+No.+2+-+II.+Allegretto.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Violin Concerto in E major, RV 269 'Spring' - II. Largo",
+      "singer": "Antonio Vivaldi",
+      "url":
+          "https://files.musopen.org/recordings/a1b2efc0-c68a-4565-8aef-5687173fe5de.mp3?filename=Violin+Concerto+in+E+major,+RV+269+%27Spring%27+-+II.+Largo.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Arabesque No. 1. Andantino con moto",
+      "singer": "Claude Debussy",
+      "url":
+          "https://files.musopen.org/recordings/fea67336-3826-421a-949d-fa18a2c5bf49.mp3?filename=Arabesque+No.+1.+Andantino+con+moto.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Goldberg Variations, BWV 988 - 10 - Variatio 9 a 1 Clav. Canone alla Terza",
+      "singer": "Johann Sebastian Bach",
+      "url":
+          "https://files.musopen.org/recordings/c4d8f6d8-29d7-404c-bb23-cdce709b47fd.mp3?filename=Goldberg+Variations,+BWV+988+-+10+-+Variatio+9+a+1+Clav.+Canone+alla+Terza.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Goldberg Variations, BWV 988 - 17 - Variatio 16 a 1 Clav. Ouverture",
+      "singer": "Johann Sebastian Bach",
+      "url":
+          "https://files.musopen.org/recordings/6cff37d0-2228-4972-ac1f-fc92c30fb796.mp3?filename=Goldberg+Variations,+BWV+988+-+17+-+Variatio+16+a+1+Clav.+Ouverture.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Goldberg Variations, BWV 988 - 22 - Variatio 21 Canone alla Settima",
+      "singer": "Johann Sebastian Bach",
+      "url":
+          "https://files.musopen.org/recordings/ce95ce76-75c5-4467-8b87-a39441bdcc95.mp3?filename=Goldberg+Variations,+BWV+988+-+22+-+Variatio+21+Canone+alla+Settima.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Goldberg Variations, BWV. 988 - Variation 22",
+      "singer": "Johann Sebastian Bach",
+      "url":
+          "https://files.musopen.org/recordings/8832773e-c948-4474-b1de-f9d80f7dc672.mp3?filename=Goldberg+Variations,+BWV.+988+-+Variation+22.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Cello Suite No.1 in G major, BWV 1007",
+      "singer": "Johann Sebastian Bach",
+      "url":
+          "https://files.musopen.org/recordings/17371b6a-cf7c-4498-8e57-2b3c065dffe7.mp3?filename=Cello+Suite+No.1+in+G+major,+BWV+1007+.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    },
+    {
+      "title": "Reverie",
+      "singer": "Constantin Stephan",
+      "url":
+          "https://files.musopen.org/recordings/215784e0-ef13-4b5a-a0d8-5675908077f7.mp3?filename=Reverie+-+Constantin+Stephan.mp3&amp;preview",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://musopen.org/",
+      "cover": "(From MUSOPEN)"
+    }
+  ]
+}

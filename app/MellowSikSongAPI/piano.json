@@ -1,0 +1,1508 @@
+{
+  "numSong": 137,
+  "api": [
+     {
+      "title": "I Really Like You",
+      "singer": "Carly Rae Jepsen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20(Ray%20Mak).mp3?raw=true",
+      "coverUrl":
+          "https://avatar-ex-swe.nixcdn.com/song/2018/10/30/2/4/7/9/1540882623377_640.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=v06uRd6GBOo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Ray Mak)"
+     },
+     {
+      "title": "Coincidence (Let's Fight Ghost OST)",
+      "singer": "Kim Sohee & Song Yubin",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Coincidence%20-%20Let's%20Fight%20Ghost%20-%20(%C3%9D%20Nhi%C3%AAn).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/77/31/287731bf3fe03b62892d45adb5242f8a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=mvk41pESSdM",
+      "cover": "(Cover by Ý Nhiên)"
+     },
+     {
+      "title": "Good Morning (Fight For My Way OST)",
+      "singer": "Kim Sohee & Song Yubin",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Good%20Morning%20-%20Fight%20for%20my%20way%20-%20(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/c0/95/d0/c095d0c8049ec189f98322f1ef1d507c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=mLdw8bnt7WY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Pianoheart)"
+     },
+     {
+      "title": "I'm Saying (The Heirs OST)",
+      "singer": "Lee Hong Ki",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/I'm%20Saying%20%EB%A7%90%EC%9D%B4%EC%95%BC%20(The%20Heirs%20OST)%20-%20(Animexduo).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/77/31/287731bf3fe03b62892d45adb5242f8a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9qO3IXSrU18&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by Animexduo)"
+     },
+     {
+      "title": "Moment (The Heirs OST)",
+      "singer": "Lee Chang Min",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Moment%20(The%20Heirs%20OST)%20-%20(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/1e/73/22/1e7322cbc04e66acbe41f89fff5b7448.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=KiylJwIbjLg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Pianoheart)"
+     },
+     {
+      "title": "No Way (Doctor OST)",
+      "singer": "Park Yongin & Kwon Soonil",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/No%20Way%20Doctor%20OST%20-%20(Funguypiano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/b3/57/34/b35734ace29236b3b58b7b145e295c19.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=r9A8YBjQCDQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Funguypiano)"
+     },
+     {
+      "title": "Say Yes (Moon Lovers OST)",
+      "singer": "Loco & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Say%20Yes%20by%20Loco%20%2C%20Punch%20-%20Scarlet%20Heart%20Ryeo%20OST%20-%20%20(Funguypiano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c3/c7/70/c3c7702575668778b38ada584af530cf.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=e-2CUyzSo8g",
+      "cover": "(Cover by Funguypiano)"
+     },
+     {
+      "title": "Reset",
+      "singer": "Tiger JK & Jinsil",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Tiger%20JK%20-%20Reset%20(Feat.%20Jinsil%20%EC%A7%84%EC%8B%A4%20Of%20Mad%20Soul%20Child)%20-%20(Blowing%20In%20The%20Wind).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/e7/40/7d/e7407d9d0a4f71a0c018501d7cbc30e9.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=f8Jcey0N1c0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Blowing In The Wind)"
+     },
+     {
+      "title": "Monsters",
+      "singer": "Katie Sky",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Monsters%20-%20Katie%20Sky%20_%20Cover%20%E9%82%93%E5%A3%AC%E9%91%AB%20-%20(OkaMeoww).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000248106304-ang1c5-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6rmj5Rmhhws&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by OkaMeoww)"
+     },
+     {
+      "title": "Why Not Me",
+      "singer": "Enrique Iglesias",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Why%20not%20me%20-%20Enrique%20Iglesias%20_%20Piano%20-%20(I%20live%20in%20my%20world).mp3?raw=true",
+      "coverUrl":
+          "https://1.bp.blogspot.com/-58NtJBOQ8-I/XW4bSSRh6KI/AAAAAAAACK4/KyXflpjeWw0vzg4KLepuTz-9N0MkSqz8wCLcBGAs/s1600/bai194.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=y0k3h2iCDog&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by I live in my world)"
+     },
+     {
+      "title": "You Belong With Me",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20-%20You%20Belong%20With%20Me%20piano%20-%20(TAM%20TAM%20MUSIC).mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273b787fda21f1fe8e6d81c6e85",
+      "info":
+          "https://www.youtube.com/watch?v=GeierEnSkrQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by TAM TAM MUSIC)"
+     },
+     {
+      "title": "Sweet But Psycho",
+      "singer": "Ava Max",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ava%20Max%20-%20Sweet%20but%20Psycho%20-%20(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://production.listennotes.com/episode/image/9340d184733747b48789f0f32a502005.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Rt5XXN8zFKU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+     },
+     {
+      "title": "Lose You To Love Me",
+      "singer": "Selena Gomez",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Selena%20Gomez%20-%20Lose%20You%20to%20Love%20Me%20-%20(Brooklyn%20Duo).mp3?raw=true",
+      "coverUrl":
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9302c3cb-d209-4cf5-a992-cb48c7cefd4a/deb0vad-a2f5553b-ae43-4ddc-a84f-ae433fb74334.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzMDJjM2NiLWQyMDktNGNmNS1hOTkyLWNiNDhjN2NlZmQ0YVwvZGViMHZhZC1hMmY1NTUzYi1hZTQzLTRkZGMtYTg0Zi1hZTQzM2ZiNzQzMzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VmKHAv8vQ504mD5Oj7rk-GFkYusKGNlA_s-24aJH-rE",
+      "info":
+          "https://www.youtube.com/watch?v=_y-k9WaeFFk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Brooklyn Duo)"
+     },
+     {
+      "title": "Wolves",
+      "singer": "Selena Gomez & Marshmello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Selena%20Gomez%2C%20Marshmello%20-%20Wolves%20-%20(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/67/f7/cc/67f7cc40a8c53ac2eba339a63ee2d174.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=HPemUpmKc7g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+     },
+     {
+      "title": "Work From Home",
+      "singer": "Fifth Harmony & Ty Dolla $ign ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Work%20From%20Home%20(Piano%20Cover)%20ft.%20Ty%20Dolla%20%24ign%20-%20(LittleTranscriber).mp3?raw=true",
+      "coverUrl":
+          "https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/work%20from%20home/file-20200427-145553-1vzj5mo.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=l6ihBSflDII&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by JLittleTranscriber)"
+     },
+     {
+      "title": "Something Just Like This",
+      "singer": "The Chainsmokers & Coldplay",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/'Something%20Just%20Like%20This'%20The%20Chainsmokers%20%26%20Coldplay%20(Sol%C3%ADs%20Music).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bb/f1/6a/bbf16ad95d95759befe305bf30c558d2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=4S5pqnv4EcE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Solís Music)"
+    },
+    {
+      "title": "Love Story",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20-%20Love%20Story%20Piano%20-%20(Riyandi%20Kusuma).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/91/69/75/91697506a1faf97752a570897e0cc1f4.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=SojAkORca9g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "A Bit Sweet",
+      "singer": "Silence Wang",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Love%20O2O%20_%20A%20Bit%20Sweet%20-%20(Ice.Pianist).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/24/93/e3/2493e34abd541cd4dd76d6c8ebeca1a9.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=UryfLMrPdlc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Ice.Pianist)"
+    },
+    {
+      "title": "Always (Descendants of The Sun)",
+      "singer": "Yoon Mi-rae",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Always(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/49/d4/de/49d4de1750a02dd3ba34b92313305109.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=WY5kGvKXUqE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Pianoheart)"
+    },
+    {
+      "title": "My Sunshine",
+      "singer": "Duc Phuc",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/A%CC%81nh%20Na%CC%86%CC%81ng%20Cu%CC%89a%20Anh%20-%20%C4%90u%CC%9B%CC%81c%20Phu%CC%81c%20_%20Piano%20Cover%20_%20(Ca%CC%80%20Pha%CC%81o).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a6/3b/04/a63b04d3f0d9138afdc07ea2ff7dd4e7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5SHDyI7v5EM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "Beo Dat May Troi",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Be%CC%80o%20Da%CC%A3t%20Ma%CC%82y%20Tro%CC%82i%20_%20Piano%20Cover%20_%20(C%C3%A0%20Ph%C3%A1o).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bb/c6/74/bbc674bc11b0a7ba9b6e1150eec76c55.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=fb_Su9o4W3g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "Kem Duyen",
+      "singer": "NIT, Rum, Masew, Rain Radio",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/K%C3%89M%20DUY%C3%8AN%20_%20RUM%20X%20NIT%20X%20MASEW%20_%20PIANO%20COVER%20_%20(C%C3%A0%20Ph%C3%A1o).mp3?raw=true",
+      "coverUrl":
+          "https://gifimage.net/wp-content/uploads/2017/07/cloud-gif-17.gif",
+      "info":
+          "https://www.youtube.com/watch?v=TdLfapWX-pE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "Hello, Goodbye (My Love From The Star OST)",
+      "singer": "Hyolyn",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Hello%2C%20Good%20bye-%20(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/d7/0b/37/d70b37c7ad4d9acd8a61a1452fe0fc82.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_3iLkk0dA9M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Pianoheart)"
+    },
+    {
+      "title": "My Destiny (My Love From The Star OST)",
+      "singer": "Lyn",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/My%20Destiny%20(You%20Who%20Came%20From%20The%20Stars%20OST)-%20(Pianoheart).mp3?raw=true",
+      "coverUrl":
+          "https://cdn.boldomatic.com/content/post/FvsWEA/if-things-are-meant-to-happen-they-re-going-to-hap?size=800",
+      "info":
+          "https://www.youtube.com/watch?v=8wam1naWTLo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Cover by Pianoheart)"
+    },
+    {
+      "title": "This Place Has You (Nơi Này Có Anh)",
+      "singer": "Sơn Tùng MTP",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/No%CC%9Bi%20Na%CC%80y%20Co%CC%81%20Anh%20-%20S%C6%A1n%20T%C3%B9ng%20MTP%20_%20Piano%20Cover%20_%20(C%C3%A0%20Ph%C3%A1o).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/0b/9a/0f/0b9a0fc61212b75bbc9083829c1d2713.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=wX7G8rlEkyk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "Behind That Girl (Phía Sau Một Cô Gái)",
+      "singer": "Soobin Hoang Son",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Phi%CC%81a%20Sau%20Mo%CC%A3%CC%82t%20Co%CC%82%20Ga%CC%81i%20_%20Piano%20Cover%20_%20(C%C3%A0%20Ph%C3%A1o).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/0d/04/da/0d04da149c013eeae7df2eb2dda421c3.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=L9JeNZnHd-k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "River Flows in You",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/River%20Flows%20in%20You%20-%20Cello%20David%20Solis.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f9/53/eb/f953eb8ec99da80bf5f9f07f3a27ec9b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=UVUwqxuDb9A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Cello Cover - David Solis)"
+    },
+    {
+      "title": "Cưới Nhau Đi ( Yes I Do )",
+      "singer": "Bùi Anh Tuấn ft Hiền Hồ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/C%C6%B0%E1%BB%9Bi%20Nhau%20%C4%90i%20(%20Yes%20I%20Do%20)%20B%C3%B9i%20Anh%20Tu%E1%BA%A5n%20ft%20Hi%E1%BB%81n%20H%E1%BB%93%20-%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/e3/1f/02/e31f02ef3760018b68a41a4914437e5d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=8-Dq-S3tFR4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=46",
+      "cover": "(Cover by NTH Audio Production)"
+    },
+    {
+      "title": "Ghen",
+      "singer": "Erik & Min",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Ghen%20C%C3%B4%20Vy%20Piano%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a8/df/cb/a8dfcb7c31a0343f5fe7d96923d3e735.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=XXBVRbjxvH4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=49",
+      "cover": "(Cover by Jarvis Phan)"
+    },
+    {
+      "title": "Silent Descent",
+      "singer": "Eugenio Mininni",
+      "url":
+          "https://assets.mixkit.co/music/preview/mixkit-silent-descent-614.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/564x/af/95/3d/af953dc0dcfce9d2132447e2896485a4.jpg",
+      "info": "https://mixkit.co/free-stock-music/",
+      "cover": "(Mixkit Version)"
+    },
+    {
+      "title": "Girls Like You",
+      "singer": "Maroon 5 ft Cardi B",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Girls%20Like%20You%20Piano-Pianella%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ba/3b/4a/ba3b4aecd3e7fc510fc5370d562f8446.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=D3mwMCdoarU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=35",
+      "cover": "(Cover by Pianella Piano)"
+    },
+    {
+      "title": "Girls Like You",
+      "singer": "Maroon 5 ft Cardi B",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Girls%20Like%20You-%20Piano%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/4f/29/42/4f2942342b98fba9c8dee2513cea5c58.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=wd2jIvBm1vY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=36",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Hong Kong 1",
+      "singer": "Nguyen Trong Tai & Sanji",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/HongKong%201%20-%20Nguy%E1%BB%85n%20Tr%E1%BB%8Dng%20T%C3%A0i%20%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/9f/2b/0c/9f2b0c89f3f44a4eb44bed9208dbf280.gif",
+      "info":
+          "https://www.youtube.com/watch?v=2ih8r0Inx3M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=51",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "Something Just Like This",
+      "singer": "The Chainsmokers & Coldplay",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Something%20Just%20Like%20This%20Costantino%20Carrara.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/73/73/a8/7373a828677c38b689ec8b4dac4e4f2b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6wFJhmhNeeg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by Costantino Carrara)"
+    },
+    {
+      "title": "Piano Reflections",
+      "singer": "Ahjay Stelino",
+      "url":
+          "https://assets.mixkit.co/music/preview/mixkit-piano-reflections-22.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/564x/6d/1c/57/6d1c576c102aeacb7f2794594284174b.jpg",
+      "info": "https://mixkit.co/free-stock-music/",
+      "cover": "(Mixkit Version)"
+    },
+    {
+      "title": "Start (Itaewon Class OST)",
+      "singer": "Gaho",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/ITAEWON%20CLASS%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/d4/bf/96/d4bf96205b6d3f90aa52c2c271817469.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ohM3Qe01vxg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=41",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "A Very Happy Christmas",
+      "singer": "Michael Ramir C",
+      "url":
+          "https://assets.mixkit.co/music/preview/mixkit-a-very-happy-christmas-897.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/564x/08/2a/5f/082a5f93b57a4144527fcebd7c6832bc.jpg",
+      "info": "https://mixkit.co/free-stock-music/",
+      "cover": "(Mixkit Version)"
+    },
+    {
+      "title": "Beautiful Dream",
+      "singer": "Diego Nava",
+      "url":
+          "https://assets.mixkit.co/music/preview/mixkit-beautiful-dream-493.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/736x/bd/34/04/bd340424b7b3e9ce4a146131e221fd80.jpg",
+      "info": "https://mixkit.co/free-stock-music/",
+      "cover": "(Mixkit Version)"
+    },
+    {
+      "title": "Kiss The Rain",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Kiss%20the%20Rain%20-%20Yiruma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/28/d0/88/28d088c397b218865210354825206bb1.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=so6ExplQlaY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Original Version)"
+    },
+    {
+      "title": "My Love",
+      "singer": "Lee Seung Chul",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Lee%20Seung%20Chul%20-%20My%20Love%20-%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/00/bc/85/00bc857fbc0934ea20ada6c2ac406286.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=h71YSgQYaGs&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=56",
+      "cover": "(Cover by Joyce Leong)"
+    },
+    {
+      "title": "Space Love",
+      "singer": "Unknown Artist",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Various%20Artists%20-%20Space%20Love.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/236x/10/7f/db/107fdb985df621ac74e9667ef504973e--love-from-another-star-the-star.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=kg5cp5c58vU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=13&t=138s",
+      "cover": "(Man from the star soundtrack)"
+    },
+    {
+      "title": "Always With Me",
+      "singer": "Youmi Kimura",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Alwayswithme-SpiritedAwayOST.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/57/b7/95/57b79500c34f0229f0bc882e6507cc20.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oK3J0xI_KaY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by ToWiMe)"
+    },
+    {
+      "title": "Lemon",
+      "singer": "Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Lemon%20-%20Yonezu%20Kenshi%20l%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/59/1e/f1/591ef1b1fbd29ae93d3647e6b21f377e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=07iRsCH1aRo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=40",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "Let Her Go",
+      "singer": "Passenger",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Let%20Her%20Go%20-%20Passenger%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/2f/db/7e/2fdb7ee6b99f764a75bec53d23013827.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rExcQ5nm_yU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=54",
+      "cover": "(Cover by Costantino Carrara)"
+    },
+    {
+      "title": "Ngay Mai Em Di",
+      "singer": "Lê Hiếu, Soobin Hoang Son, Hoang Touliver",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Ng%C3%A0y%20Mai%20Em%20%C4%90i%20-%20L%C3%AA%20Hi%E1%BA%BFu%20%20Piano%20C%C3%A0%20Ph%C3%A1o.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ae/52/e9/ae52e97009a420a4bf5c3ae6ff1c95fb.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=vxn3m86_nY0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=45",
+      "cover": "(Cover by Cà Pháo)"
+    },
+    {
+      "title": "Nothing's Gonna Change My Love For You",
+      "singer": "Westlife",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Nothing's%20gonna%20change%20my%20love%20for%20you%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/de/9b/8c/de9b8cc10ed16492482a11d2adff27d7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=U-7ShKEyKhU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=57",
+      "cover": "(Cover by กิพจัง )"
+    },
+    {
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/PERFECT%20-%20ED%20SHEERAN%20(Piano%20Solo%20Cover).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/86/62/11/866211be5c328632afbf53490477206c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=KLeiK0whCdY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=30",
+      "cover": "(Cover by The Piano Guys)"
+    },
+    {
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Perfect%20%20Ed%20Sheeran%20Piano%20Cover%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/5f/ae/43/5fae43cdc8fdb2e619d0aa8b6564d973.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=bzNYL66fCJI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=37",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Locked Away",
+      "singer": "R. City & Adam Levine",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Piano%20R.%20City%20ft.%20Adam%20Levine%20-%20Locked%20Away.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/d5/cc/c8/d5ccc89e43208d36828a6049bf236eaf.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=sUmUkQGgV_s&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=53",
+      "cover": "(Cover by Piano Variations)"
+    },
+    {
+      "title": "River Flows in You",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/River%20Flows%20in%20You%20-%20Cello%20David%20Solis.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bd/52/2e/bd522e82e920388dd42686bb06458403.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=UVUwqxuDb9A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by David Solis & Yiruma)"
+    },
+    {
+      "title": "Sangatsu Kokonoka (March 9)",
+      "singer": "Remioromen (1リットルの涙)",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Sangatsu%20Kokonoka-%20Remioromen(Piano%20March%209).mp3?raw=true",
+      "coverUrl":
+          "https://logo-imagecluster.img.mixi.jp/photo/comm/2/86/440286_122.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5SUsd0zIo9k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by Ray Krislianggi - AniMusic)"
+    },
+    {
+      "title": "Someone You Loved",
+      "singer": "Lewis Capaldi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Someone%20You%20Loved%20(PianoCello).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/90/a5/2a/90a52a2b352533a289a669aa563caca3.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qMG1BXo8Asg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=58",
+      "cover": "(Cover by The Piano Guys)"
+    },
+    {
+      "title": "Sparkle (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Sparkle%20-%20Kimi%20no%20Nawa%20(%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF)%20OST%20l%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ae/15/f4/ae15f4431e360a5997dfa86ecc3e11ee.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Gbb3fu631pc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=38",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "My Love",
+      "singer": "Westlife",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Westlife%20-%20My%20Love%20Piano%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ba/21/09/ba2109f57548f4d9364aef4d3d026598.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rk9rEfvJKL0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=55",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Zen Zen Zense (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Zen%20Zen%20Zense%20Kimi%20no%20Nawa%204hands%20piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/83/75/4d/83754d9c24901ad643a403b6846e2e08.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1g0xorm_sJw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=39",
+      "cover": "(Cover by BELLA&LUCAS 벨라앤루카스)"
+    },
+    {
+      "title": "Light Chaser (追光者)",
+      "singer": "Yoyo Sham",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/(Light%20Chaser)%E8%BF%BD%E5%85%89%E8%80%85%20%E9%8B%BC%E7%90%B4%E7%89%88%20%E4%B8%BB%E5%94%B1%20%E5%B2%91%E5%AF%A7%E5%85%92%20%E9%9B%BB%E8%A6%96%E5%8A%87%E5%A4%8F%E8%87%B3%E6%9C%AA%E8%87%B3%E6%8F%92%E6%9B%B2.mp3?raw=true",
+      "coverUrl":
+          "https://wiki.d-addicts.com/images/8/81/Rush_to_the_Dead_Summer_OST.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=5k725RgP8pY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=13",
+      "cover": "(Cover by Yudan730 魚蛋村鋼琴頻道)"
+    },
+    {
+      "title": "The Youth (少年)",
+      "singer": "Meng Ran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/(The%20Youth)%E5%B0%91%E5%B9%B4%20%20%E5%A4%A2%E7%84%B6%20%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E7%89%88%20%E9%AB%98%E9%9F%B3%E8%B3%AA%20%E5%AE%8C%E7%BE%8E%E6%BC%94%E7%B9%B9%20Piano%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/5e/d8/e4/5ed8e4d8438dcd49b0b86f49d0406f5b.gif",
+      "info":
+          "https://www.youtube.com/watch?v=2TsiWd1OL2s&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Grey Tracks Piano)"
+    },
+    {
+      "title": "Beautiful In White X Canon In D",
+      "singer": "West Life & Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Beautiful%20in%20White%20x%20Canon%20in%20D%20Piano%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/0a/1c/3c/0a1c3c10e9a730f873f3f85eb41262b7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=tX73H2FRcK8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=80",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Memories X Canon In D",
+      "singer": "Maroon 5 & Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Memories%20x%20Canon%20in%20D%20Piano%20Cover%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/79/6f/c4/796fc46995a3111344061f575d9da996.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=pAbhAmOxGfc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=76",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Nothing's Gonna Change My Love For You",
+      "singer": "Westlife",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Nothings%20Gonna%20Change%20My%20Love%20for%20You%20Piano%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/de/9b/8c/de9b8cc10ed16492482a11d2adff27d7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_ZKliUdu4T0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=77",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "River Flows In You X Kiss The Rain",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/River%20Flows%20in%20You%20x%20Kiss%20the%20Rain%20Piano%20Cover%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/d1/39/9a/d1399a5c8a85963c70be083023c012f3.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=xfr_IZ65Bi4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=79",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Someday (Itaewon Class)",
+      "singer": "Kim Feel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Someday%2C%20The%20Boy%20(Kim%20Feel)%20Piano(Mahi%20Shiroor).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/16/99/19/169919a458783c8a30cf321a6b68980c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=ChyZ93NX14M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=57",
+      "cover": "(Cover by Mahi Shiroor)"
+    },
+    {
+      "title": "Believer",
+      "singer": "Imagine Dragons",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/yt1s.com%20-%20Imagine%20Dragons%20%20Believer%20%20Piano%20Cover%20by%20Pianella%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/ec/38/5e/ec385ea30cd818960778634483c1968b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=aqVscO_FPZY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=80",
+      "cover": "(Cover by ova Musique - Pianella Piano)"
+    },
+    {
+      "title": "A Bit Sweet",
+      "singer": "Silence Wang",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/%E3%80%90%E6%98%BC%E5%A4%9C%E3%80%91%E6%9C%80%E7%BE%8E%E6%83%85%E4%BE%A3.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/03/6a/43/036a43d2ad32a17f1bcb7827097f1edd.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9Tp-PA62LIo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=59",
+      "cover": "(Cover by 晝夜)"
+    },
+    {
+      "title": "Later (後來)",
+      "singer": "René Liu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/%E5%BE%8C%E4%BE%86%20Later%E3%81%BF%E3%82%89%E3%81%84%E3%81%B8%E5%8A%89%E8%8B%A5%E8%8B%B1%20Ren%C3%A9%20Liu%20KIRORO%E9%8B%BC%E7%90%B4%20Jason%20Piano%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ff/1a/9f/ff1a9f47f9dc9e2eb0ad7a013201dbee.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=l5P2kQwQQuA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Jason Piano)"
+    },
+    {
+      "title": "Love in the Air",
+      "singer": "Ahjay Stelino",
+      "url":
+          "https://assets.mixkit.co/music/preview/mixkit-love-in-the-air-41.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a0/a6/bc/a0a6bcf0354def981d0a16d94e29d5c4.jpg",
+      "info":
+          "https://mixkit.co/free-stock-music/tag/piano/",
+      "cover": "(Mixkit Version)"
+    },
+    {
+      "title": "I Just Need Love",
+      "singer": "Arulo",
+      "url":
+          "https://assets.mixkit.co/music/preview/mixkit-i-just-need-love-321.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/564x/fa/c4/5d/fac45d23f0dca2b52504b0ffd92377e5.jpg",
+      "info":
+          "https://mixkit.co/free-stock-music/tag/piano/",
+      "cover": "(Mixkit Version)"
+    },
+    {
+      "title": "Nocturne in B flat minor, Op. 9 no. 1",
+      "singer": "Frédéric Chopin",
+      "url":
+          "https://files.musopen.org/recordings/ef7ae505-4a78-4f8d-bb32-2a26b0be5c43.mp3?filename=Nocturne+in+B+flat+minor,+Op.+9+no.+1.mp3",
+      "coverUrl":
+          "https://i.pinimg.com/564x/34/ac/53/34ac533fefb03472268bccb97de6d2f6.jpg",
+      "info":
+          "https://musopen.org/music/108-nocturnes-op-9/",
+      "cover": "(Musopen Version)"
+    }, 
+    {
+      "title": "Beauty and the Beast",
+      "singer": "Frédéric Chopin",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Beauty%20and%20the%20Beast%20(Piano%20Cover%20by%20Riyandi%20Kusuma).mp3?raw=true",
+      "coverUrl":
+          "https://pyxis.nymag.com/v1/imgs/61d/e0b/b7902dabddffa9551cf191d151869dd899-14-beauty-and-the-beast.rsquare.w700.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6n9Cysnoxug&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by Riyandi Kusuma)"
+    }, 
+    {
+      "title": "The Light Chaser",
+      "singer": "Yoyo Sham",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/The%20Light%20Runner%20(%E5%B2%91%E5%AF%A7%E5%85%92)%20-%20Piano%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/994070346562244609/awDpTMuD_400x400.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=aK5-uq3z74M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by MusicMike512)"
+    },
+    {
+      "title": "What Falling In Love Feels Like",
+      "singer": "Jake25.17 ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/What%20falling%20in%20love%20feels%20like%20-%20jake25.17.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/34/c4/c5/34c4c559123ef3eb56aea1c099b8d158.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=TWSev2zYD1o&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by Raymond)"
+    },
+    {
+      "title": "Away",
+      "singer": "G.E.M.",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Away%20-%20Yudan730.mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273c0aaf7864426248c7c3d72e7",
+      "info":
+          "https://www.youtube.com/watch?v=q9If8Sh5fB8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by Yudan730 魚蛋村鋼琴頻道)"
+    },
+    {
+      "title": "But It's Destiny (Crash landing on you)",
+      "singer": "10cm",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/(But%20It's%20Destiny)%20-%20Moonrise%20%EB%AC%B8%EB%9D%BC%EC%9D%B4%EC%A6%88.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/77/c2/84/77c2845ae6a6aeb721a76e95d25c2196.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6F4KSt56GMw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Moonrise 문라이즈)"
+    },
+    {
+      "title": "Talk Love (Descendants of the Sun)",
+      "singer": "K.Will",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Talk%20Love-Yudan730.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/b1/ce/ab/b1ceab3b6aed7bf6f3e595426a453b24.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Tml7bZg9ovg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=33",
+      "cover": "(Cover by Yudan730 魚蛋村鋼琴頻道)"
+    },
+    {
+      "title": "When Night Falls (While You Were Sleeping)",
+      "singer": "Eddy Kim",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/When%20Night%20falls%20-%20%20While%20You%20Were%20Sleeping%20(Nickey%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c2/4e/62/c24e62fcc6554d7fe6804f5e608d62af.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Pq24p6I-mwo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by 妮妮鋼琴Nickey Piano)"
+    },
+    {
+      "title": "Talk Love (Descendants of the Sun)",
+      "singer": "K.Will",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/%E2%80%8EDescendants%20of%20The%20Sun%20OSTalk%20Love%20-Funguypiano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/58/2b/cb/582bcb03993162b993bcba9ff7ec7d19.png",
+      "info":
+          "https://www.youtube.com/watch?v=ypVEj0uYkxc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Funguypiano)"
+    },
+    {
+      "title": "Flower (Crash Landing On You)",
+      "singer": "Yoon Mi Rae",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Yoon%20Mirae%20%20Flower%20Piano%20Cover%20%20Crash%20Landing%20On%20You%20Music%20(Today%20Malaysia).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/e1/9c/c3/e19cc3e529be832531ff3122f2494e71.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=7oNsRcAeNl8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Today Malaysia)"
+    },
+    {
+      "title": "But it's Destiny (Crash Landing On You)",
+      "singer": "10cm",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/%EC%9A%B0%EC%97%B0%EC%9D%B8%20%EB%93%AF%20%EC%9A%B4%EB%AA%85(But%20it's%20Destiny)%20-%2010cm.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/e0/74/35/e07435f1cd38418086d41ffda7531cf4.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=pNdwakPfteY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by catiano)"
+    },
+    {
+      "title": "Talk Love (Descendants of the Sun)",
+      "singer": "K.Will",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/%EC%BC%80%EC%9D%B4%EC%9C%8C(K.Will)%20-%20%EB%A7%90%ED%95%B4!%EB%AD%90%ED%95%B4(Talk%20Love)%20%ED%94%BC%EC%95%84%EB%85%B8%20%EC%97%B0%EC%A3%BC%2Cpianoheart.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/1f/75/5b/1f755bdd4469228c9aa1d829fcc8c93e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=CjbZe81Ym8s&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=34",
+      "cover": "(Cover by Pianoheart)"
+    },
+    {
+      "title": "Because I Miss You (Moonlight Drawn)",
+      "singer": "Beige",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Because%20I%20Miss%20You%20%E2%80%94%20Moonlight%20Drawn%20(Nickey%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/98/ae/69/98ae6922795fb9a79f2da26beaaf9dd1.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1e2BnBinjrI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by 妮妮鋼琴Nickey Piano)"
+    },
+    {
+      "title": "Can We Kiss Forever?",
+      "singer": "Kina & Adriana Proenza",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Can%20We%20Kiss%20Forever%20(Kina%20ft%20Adriana%20Proenza)%20%20Piano%20Cover%20by%20Welder%20Dias.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-fVce09XW7mjczD4F-bZDjtA-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=72NnZxHsB4Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
+      "cover": "(Cover by Welder Dias Piano)"
+    },
+    {
+      "title": "Count On Me",
+      "singer": "Bruno Mars",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Count%20on%20Me(Bruno%20Mars)%20Piano-Signature%20Artists.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/6b/89/b8/6b89b8692fdfc27f16ef9dde9349b93b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=r0F-HF1dZy8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=39",
+      "cover": "(Cover by Piano-Signature Artists)"
+    },
+    {
+      "title": "Shape Of You",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Ed%20Sheeran%20%20Shape%20Of%20You%20%20Piano%20Cover%20by%20Pianella%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/51/21/80/512180ea4cd919dcc99939e834f98656.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=BNCS26zJhh0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "It's You (While You Were Sleeping)",
+      "singer": "Henry",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Henry%20-%20It's%20You%20%20Piano-Funguypiano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a8/5a/ad/a85aadb660df072914a689e8f4829ced.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=3cxu1ygc4vw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Funguypiano)"
+    },
+    {
+      "title": "Some One You Loved",
+      "singer": "Lewis Capaldi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Lewis%20Capaldi%20-%20Someone%20You%20Loved(Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/98/1c/1d/981c1d6b895564d91ad4a35bbb2bb936.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=eT5muWj8rKI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=35",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Once Again (Descendants Of The Sun)",
+      "singer": " Kim Na-young & Mad Clown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Once%20Again-Yudan730.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/75/86/93/758693526120b5c91bd4eab47b4d4743.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=XMjF3BlaEjI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Yudan730 魚蛋村鋼琴頻道)"
+    },
+    {
+      "title": "I Love You Boy (While You Were Sleeping)",
+      "singer": "Suzy",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Suzy-I%20Love%20You%20Boy%20Piano%20Cover%20Funguypiano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ba/8d/d0/ba8dd0ab453f956a426464a6724cd79b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=soYKd8nW-8w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Funguypiano)"
+    },
+    {
+      "title": "Talking To The Moon",
+      "singer": "Bruno Mars",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Talking%20To%20The%20Moon%20(Piano)-Atlantic%20Lights.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/49/f6/73/49f673cbc0965b61660d22959f747fd0.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=xGJjht8Xdoc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=36",
+      "cover": "(Cover by Atlantic Lights)"
+    },
+    {
+      "title": "That Girl",
+      "singer": "Olly Murs",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/That%20Girl%20Olly%20Murs%20Tiktok(Flute%20In%20The%20Rain).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/25/d5/f4/25d5f4e18cd5c3fbd7d1935b62a19cf7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=96dHjkei-RY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=41",
+      "cover": "(Cover by Flute In The Rain)"
+    },
+    {
+      "title": "But Its Destiny (Crash landing on you)",
+      "singer": "10cm",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/But%20Its%20Destiny%20By%2010cm%20CLOY%20OST%20%20Piano%20Cover(Sir%20Ace%20TV).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000654292597-gt6wn1-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rh9EoaiaGhY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=23",
+      "cover": "(Cover by Sir Ace TV)"
+    },
+    {
+      "title": "Everytime (Descendants of the Sun)",
+      "singer": "CHEN & Punch",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/CHEN%2CPunch%20Everytime(Yudan730).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/f3/d6/26/f3d626d856f6f694317c89c4208202c6.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=jIi5pw1v4rg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=22",
+      "cover": "(Cover by Yudan730 魚蛋村鋼琴頻道)"
+    },
+    {
+      "title": "You Are My Everything (Descendants of the Sun)",
+      "singer": "Gummy",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Gummy%20You%20Are%20My%20Everything%20OST%20Pt4(Yudan730).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/c2/1e/2b/c21e2bc04a00bf8d97b457cc0e33ae4c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_p9x_qC2bKw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Yudan730 魚蛋村鋼琴頻道)"
+    },
+    {
+      "title": "Irony",
+      "singer": "Majiko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Hatsune%20Miku%20Irony%20%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%8B%20piano%20cover(Xxoo00O00ooxX).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/af/7c/68/af7c68795fa9a000dd3c6ce3a1f7cd61.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rZ5NFnG5h_k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by Xxoo00O00ooxX)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Renai%20Circulation%20%20Kana%20Hanazawa%20%20Bakemonogatari%20OP%204%20Piano(Fonzi%20M%20-%20Melodies%20on%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/60/a9/43/60a94300890d84fefecce018983a2db7.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=zZYx2C4oY70&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Cover by Fonzi M - Melodies on Piano)"
+    },
+    {
+      "title": "Renai Circulation",
+      "singer": "Kana Hanazawa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Renai%20Circulation%20%E3%83%94%E3%82%A2%E3%83%8E(Pan%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000460685424-c47haz-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=GNBwkNo893k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Pan Piano)"
+    },
+    {
+      "title": "Senorita x Havana",
+      "singer": "Shawn Mendes & Camila Cabello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Senorita%20x%20Havana%20%20Shawn%20Mendes%20Camila%20Cabello%20Piano%20Cover%20by%20Riyandi%20Kusuma.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/474x/98/b6/8e/98b68e4683d477e2fad39b70f8d49aae.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6vbAYC8UvZA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Señorita",
+      "singer": "Shawn Mendes & Camila Cabello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Se%C3%B1orita%20%20Shawn%20Mendes%20Camila%20Cabello%20%20Piano%20Cover(Jova%20Musique).mp3?raw=true",
+      "coverUrl":
+          "https://images.toofab.com/image/9f/1by1/2019/06/21/9fe481273ed3552684dd354131fe5c15_xl.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=DLqXxaajpNY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Song for Brother (Crash Landing On You)",
+      "singer": "Hye Seung Nam",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Song%20for%20BrotherCrash%20Landing%20On%20You%20Piano%20Cover(itsAmanda!).mp3?raw=true",
+      "coverUrl":
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16f47603-8820-494b-b493-f1738f82be45/de2p7fr-1eac04af-5bbb-44fc-b1ef-789018f28cdd.png/v1/fill/w_1280,h_1280,q_80,strp/crash_landing_on_you_by_kerv5_de2p7fr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzE2ZjQ3NjAzLTg4MjAtNDk0Yi1iNDkzLWYxNzM4ZjgyYmU0NVwvZGUycDdmci0xZWFjMDRhZi01YmJiLTQ0ZmMtYjFlZi03ODkwMThmMjhjZGQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.JB_8GmXSnzcyhkeu23KlijjG-klF8tkKhI2h86sa7rs",
+      "info":
+          "https://www.youtube.com/watch?v=wGXussn5BXU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by itsAmanda)"
+    },
+    {
+      "title": "On My Way",
+      "singer": "Alan Walker, Farruko, Sabrina Carpenter",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/ALAN%20WALKER%20%20ON%20MY%20WAY%20PIANO(Peter%20Buka).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f5/97/7a/f5977a6fc2dcf4156147459988fe0003.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=w2IH69pFsI0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=39",
+      "cover": "(Cover by Peter Buka)"
+    },
+    {
+      "title": "Aim to Be a Pokémon (Pokémon Theme)",
+      "singer": "Rica Matsumoto",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Aim%20to%20Be%20a%20Pok%C3%A9mon%20(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/bd/cb/6f/bdcb6f196e63b687c275d3c9e3b4c724.gif",
+      "info":
+          "https://www.youtube.com/watch?v=Tuto5Aufrb8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=32",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Alone",
+      "singer": "Alan Walker",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Alan%20Walker%20%20ALONE%20PIANO%20(Jova%20Musique).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/e8/20/dd/e820dd9d2c60741a2784eb961d12e33b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1TqHEWrbSaA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Wake Me Up",
+      "singer": "Avicii",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Avicii%20%20Wake%20Me%20Up%20%20Piano%20Cover%20(Jova%20Musique).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a2/cd/13/a2cd13f76f820b5f330b52bf8c6d647c.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=3lHKxqhn51Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Attention",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Charlie%20Puth%20%20Attention%20Piano%20(Peter%20Buka).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/3d/fe/96/3dfe960dac5aaa62b9b91df9c3ef22fb.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=QwDGd2rzc9o&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
+      "cover": "(Cover by Peter Buka)"
+    },
+    {
+      "title": "Dance Monkey",
+      "singer": "Tones and I",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/DANCE%20MONKEY%20%20HAVANA%20%20YUMMY%20%20BAD%20GUY%20%20SENORITA%20%20Piano%20(Peter%20Buka).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/83/15/bf/8315bf424b7f3498cbaf458b501618d5.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1M3e5si0-N0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by Peter Buka)"
+    },
+    {
+      "title": "Amazing Grace",
+      "singer": "E. O. Excell & John Newton",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Detective%20Conan%20-Amazing%20Grace(M7esn10).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/65/65/24/656524acb5a9460011bfa8fe0080b425.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=0_ZOOrBNz3E&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=42",
+      "cover": "(Cover by M7esn10)"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ed%20Sheeran%20%20Thinking%20Out%20Loud%20%20Piano%20(Francesco%20Parrino).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/1a/02/52/1a0252088536cb0a9cc92e8b7c07e14d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ik-eCIlemwk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=19",
+      "cover": "(Cover by Francesco Parrino)"
+    },
+    {
+      "title": "Harehare Ya",
+      "singer": "Maigo Hanyuu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Harehare%20Ya%20Sheet%20music%20Piano%20(Annan).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-DVKaOuDNHuaEULue-i2TcWw-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=k5RLIsMOsLg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=39",
+      "cover": "(Cover by Annan)"
+    },
+    {
+      "title": "How Far I'll Go",
+      "singer": "Auli'i Cravalho",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/How%20Far%20Ill%20Go%20%20(Adam%20Gordon%20Herd).mp3?raw=true",
+      "coverUrl":
+          "https://c-cl.cdn.smule.com/rs-s79/arr/a9/f4/e7037560-30e1-4a82-b876-104234732de9_1024.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ph1olYEW110&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Adam Gordon Herd)"
+    },
+    {
+      "title": "How Far I'll Go",
+      "singer": "Auli'i Cravalho",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/How%20far%20Ill%20go%20Moana%20(Davyd%20Kotok).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-aWFUjlQhTlIAZykD-j5i7yQ-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=NPlvVhH9q_U&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Davyd Kotok)"
+    },
+    {
+      "title": "Sorry",
+      "singer": "Justin Bieber",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Justin%20Bieber%20%20Sorry%20(Jova%20Musique%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://lh3.googleusercontent.com/-I0MurkxeeB4/V528KTpRoWI/AAAAAAAACDw/b_6uhkpnzPI/s640/blogger-image-114145320.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=IoWLPQH0y0U&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Roar",
+      "singer": "Katy Perry",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Katy%20Perry%20%20Roar%20instrumental%20(Mbandi%20-%20Music%20Beyond%20Borders)SaxPiano.mp3?raw=true",
+      "coverUrl":
+          "https://consequence.net/wp-content/uploads/2013/09/katy-perry_-roar_-promo_thumb.jpg?quality=80",
+      "info":
+          "https://www.youtube.com/watch?v=0KbuybKdWIg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Cover by Mbandi - Music Beyond Borders)"
+    },
+    {
+      "title": "Kokoronashi Somehow",
+      "singer": "Sou",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Kokoronashi%20Somehow%20%E5%BF%83%E5%81%9A%E3%81%97%20piano(dinhosaurrx~).mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273f672cfe50a513713ea7cdc85",
+      "info":
+          "https://www.youtube.com/watch?v=_fGm_teekjo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=37",
+      "cover": "(Cover by dinhosaurrx~)"
+    },
+    {
+      "title": "Kokoronashi",
+      "singer": "Sou",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Kokoronashi%E8%9D%B6Piano%20Cover(SLSMusic).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000129070881-33exfz-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=H3REpwirkzc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=36",
+      "cover": "(Cover by SLSMusic)"
+    },
+    {
+      "title": "Let Her Go",
+      "singer": "Passenger",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Let%20Her%20Go%20%20Piano%20(Jova%20Musique).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c6/6b/2c/c66b2c70d737a874449bd0a0c8dca69d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=4pgUj4P7fWk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=27",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Love Yourself",
+      "singer": "Justin Bieber",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Love%20Yourself%20%20Piano%20(Jova%20Musique).mp3?raw=true",
+      "coverUrl":
+          "https://yt3.ggpht.com/l9oF-vUQ4MBVf2_qwfdrgg2bCdcScouZQEvU7meojn9a_u9bSEOGMOnzSI8i07MooMjufPrUcw=s900-c-k-c0x00ffffff-no-rj",
+      "info":
+          "https://www.youtube.com/watch?v=vmbFS3BBTsw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Girls Like You",
+      "singer": "Maroon 5 feat Cardi B",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Maroon%205%20%20Girls%20Like%20You%20feat%20Cardi%20B%20%20Piano%20(Francesco%20Parrino).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/79/ed/30/79ed301046ee2843ef06e2f11f586552.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=eNnT1WPr9J0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=28",
+      "cover": "(Cover by Francesco Parrino)"
+    },
+    {
+      "title": "On My Way",
+      "singer": "Alan Walker, Farruko, Sabrina Carpenter",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/On%20My%20Way%20%20Alan%20Walker(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000513038754-yv80ss-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Rt-9uGyuFLc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=42",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "One Call Away",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/One%20Call%20Away%20%20Piano(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/16/90/8a/16908a9de66761356449f8c5b22d8daf.gif",
+      "info":
+          "https://www.youtube.com/watch?v=B8XcrauYovA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "One Call Away",
+      "singer": "Charlie Puth",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/One%20Call%20Away%20(Charlie%20Puth).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/fc/27/96/fc279625719cf6412ec81aab1630888e.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qgyHx2JKaq4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Charlie Puth)"
+    },
+    {
+      "title": "Racing into the Night",
+      "singer": "Yugo Ogura",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Racing%20into%20the%20Night%20-%20YOASOBI%20piano%20-%20(%E6%B7%B1%E6%A0%B9%20%20Fukane).mp3?raw=true",
+      "coverUrl":
+          "https://1.bp.blogspot.com/-IDbI-VgqXZU/X5JsYpLPXMI/AAAAAAAAHHo/4qr5EOMwmpsLZJ9e7DySYaixTDWXkHdyACPcBGAYYCw/w680/yorukake2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=8-_c0HDZI6E&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=34",
+      "cover": "(Cover by 深根 / Fukane)"
+    },
+    {
+      "title": "Something Just Like This & Hungarian Rhapsody No 2",
+      "singer": "The Chainsmokers , Coldplay & Franz Liszt",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Something%20Just%20Like%20This%20%20Hungarian%20Rhapsody%20No%202%20%20Line%20Rider%20(ThePianoGuys).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/91/43/39/914339dc5a73ed9ffedf4788795441e6.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=mZd1GsRHVts&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=12",
+      "cover": "(Cover by ThePianoGuys)"
+    },
+    {
+      "title": "Something Just Like This",
+      "singer": "The Chainsmokers & Coldplay",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Something%20Just%20Like%20This%20(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/1b/b5/ee/1bb5eef6ccc4b46b6ef5b3ea8efb231d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=tZGQ6dM3DUY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "Sparkle (Your Name)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Sparkle%20%20RADWIMPS(Animenz%20Piano%20Sheets).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/33/17/e4/3317e4e44f971d961cd93a411fa03837.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=cKgnDmpb4BU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=44",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Shake It Off",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20%20Shake%20It%20Off%20%20Piano(Francesco%20Parrino).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f6/93/03/f69303fa331fd4f667ac10a36bbd280a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=RvYKty9UbV4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=26",
+      "cover": "(Cover by Francesco Parrino)"
+    },
+    {
+      "title": "The Greatest Showman",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/The%20Greatest%20Showman%20The%20Piano(Costantino%20Carrara%20Music).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/2d/29/e8/2d29e867d13bb5db357dc962a6b7e840.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=0fknob2IEh4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=25",
+      "cover": "(Cover by Costantino Carrara Music)"
+    },
+    {
+      "title": "Is There Still Anything That Love Can Do? (Weathering With You)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/There%20Still%20Anything%20That%20Love%20Can%20Do(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/6d/4c/ec/6d4cec0de1ca4f57e78f2a99c09474cb.gif",
+      "info":
+          "https://www.youtube.com/watch?v=RWAj-fX5CyE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Who Says",
+      "singer": "Selena Gomez",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Who%20Says%20%20Selena%20Gomez(R%C3%AAveur%20Voyageur).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/b7/01/45/b70145927d95ca428e6ce5c4875b06b3.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=w5fh5LREYW8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Rêveur Voyageur)"
+    },
+    {
+      "title": "Passionate Duelist (YuGiOh)",
+      "singer": "Unkown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/YuGiOh%20Passionate%20Duelist%20Theme%20(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/74/01/68/740168679221524b1ae68621bf9de32c.gif",
+      "info":
+          "https://www.youtube.com/watch?v=tfwatFtgWPY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=37",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Sing Me To Sleep",
+      "singer": "Alan Walker",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Alan%20Walker%20%20Sing%20Me%20To%20Sleep%20PIANO%20COVER%20by%20Pianella%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/cf/a6/70/cfa670a622d5ca85a888111eebffe853.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=eSgd09t-lgE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+    },
+    {
+      "title": "I'm Coming home",
+      "singer": "Dirty Money & Skylar Grey",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Coming%20home%20-%20Skylar%20Grey%20-%20Piano-Qu%E1%BB%91c%20Anh%20Tr%E1%BA%A7n.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-7LjlhcFGI7uFCI0M-PoxzPQ-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=A7znip32kho&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Quốc Anh Trần)"
+    },
+    {
+      "title": "Halo",
+      "singer": "Beyoncé",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Beyonc%C3%A9%20-%20Halo%20_%20Piano%20Francesco%20Parrino.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/37/63/33/376333bac0fb49e56f329d6a1f644309.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qwNEukQzjtg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Francesco Parrino)"
+    },
+    {
+      "title": "Bản Tình Ca Đầu Tiên",
+      "singer": "Duy Khoa",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ba%CC%89n%20Ti%CC%80nh%20Ca%20%C4%90a%CC%82%CC%80u%20Tie%CC%82n%20(Ryan%20Huynh)%20-%20Piano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/27/6b/eb/276beb5fdb0a0bd89d79b653d7f16821.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=nE6ESL49ARs&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=14",
+      "cover": "(Cover by Ryan Huynh)"
+    },
+    {
+      "title": "Braveheart & Titanic",
+      "singer": "Piano Suite A James Horner Tribute 8.93",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Braveheart%20%26%20Titanic%20-%20Piano%20Suite%20-%20(Jacob's%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/e4/51/74/e45174f7b786d2debcf4139492187dee.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=RsEoX0FbETI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Jacob's Piano)"
+    },
+    {
+      "title": "Khi Cô Đơn Em Nhớ Ai",
+      "singer": "Dan Truong",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Khi%20c%C3%B4%20%C4%91%C6%A1n%20em%20nh%E1%BB%9B%20ai%20(wizardrypro)%20Piano%20Cover.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/8c/2f/98/8c2f98c2705ce072aeda4e9905465c7b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=XQG3uu3_E9M&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=20",
+      "cover": "(Cover by wizardrypro)"
+    },
+    {
+      "title": "My Heart Will Go On",
+      "singer": "Celine Dion",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/My%20heart%20will%20go%20on_(%E6%9C%88%E9%87%8E%E3%82%A2%E3%82%A4%E3%83%A9%E3%80%88Aira%20Piano%E3%80%89).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/7e/ff/34/7eff34d091174799cfc18c8218e93cb2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=S27rbRceTFY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=18",
+      "cover": "(Cover by 月野アイラ〈Aira Piano〉)"
+    },
+    {
+      "title": "True Colors",
+      "singer": "Cyndi Lauper",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/True%20Colors%20-%20Cyndi%20Lauper%20(Piano%20Cover%20by%20Riyandi%20Kusuma).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/236x/a8/78/07/a8780728d5fc17c4d476850e67d42d59.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=zkJSYGTA7Ds&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "「名探偵コナン」メインテーマ (Detective Conan OST)",
+      "singer": "Katsuo Ohno",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Detective%20Conan%20OST%20(%E6%9C%88%E9%87%8E%E3%82%A2%E3%82%A4%E3%83%A9%E3%80%88Aira%20Piano%E3%80%89).mp3?raw=true",
+      "coverUrl":
+          "https://data.whicdn.com/images/156253303/original.gif",
+      "info":
+          "https://www.youtube.com/watch?v=3B19vmd_-Y4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=17",
+      "cover": "(Cover by 月野アイラ〈Aira Piano〉)"
+    }
+  ]
+}
