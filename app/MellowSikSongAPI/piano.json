@@ -1,5 +1,5 @@
 {
-  "numSong": 137,
+  "numSong": 140,
   "api": [
      {
       "title": "I Really Like You",
@@ -11,6 +11,39 @@
       "info":
           "https://www.youtube.com/watch?v=v06uRd6GBOo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
       "cover": "(Cover by Ray Mak)"
+     },
+     {
+      "title": "Tea Party Under the Stars",
+      "singer": "Hui Che",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Tea%20Party%20Under%20the%20Stars%20-%20(%E6%82%A6%E8%80%B3%E9%9F%B3%E4%B9%90).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/35/a1/e5/35a1e508c2df39a733bf53c47a4395a9.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=CLqkRTtHx7w&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm",
+      "cover": "(Cover by 悦耳音乐)"
+     },
+     {
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ed%20Sheeran%20-%20Perfect%20(Piano%20Cover)%20-%20(The%20Theorist).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ab/ad/13/abad13cc122299f933005476cf58960b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=QZ41RzuYsWU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by The Theorist)"
+     },
+     {
+      "title": "Perfect & Pachelbel's CANON ",
+      "singer": "Ed Sheeran & Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ed%20Sheeran%20-%20Perfect%20(Wedding%20Version)%20VIOLIN%20%26%20PIANO%20feat.%20Pachelbel's%20CANON%20-%20(Paul%20Hankinson).mp3?raw=true",
+      "coverUrl":
+          "https://www.brides.com/thmb/bJFHjSjMi5sDAzuTH0IQqBS4ob4=/350x350/filters:max_bytes(150000):strip_icc()/nichole-and-george-wedding-23-square-0ddbdaa8e0b94c19aa775c182d3050fe.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=FBCkraYbyck&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Paul Hankinson)"
      },
      {
       "title": "Coincidence (Let's Fight Ghost OST)",
