@@ -1,5 +1,5 @@
 {
-  "numSong": 149,
+  "numSong": 151,
   "api": [
     {
       "title": "Monsters",
@@ -11,6 +11,28 @@
       "info":
           "https://www.youtube.com/watch?v=6rmj5Rmhhws&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
       "cover": "(Cover by OkaMeoww)"
+    },
+    {
+      "title": "Perfect",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ed%20Sheeran%20-%20Perfect%20(Piano%20Cover)%20-%20(The%20Theorist).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ab/ad/13/abad13cc122299f933005476cf58960b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=QZ41RzuYsWU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
+      "cover": "(Cover by The Theorist)"
+    },
+    {
+      "title": "Perfect & Pachelbel's CANON ",
+      "singer": "Ed Sheeran & Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ed%20Sheeran%20-%20Perfect%20(Wedding%20Version)%20VIOLIN%20%26%20PIANO%20feat.%20Pachelbel's%20CANON%20-%20(Paul%20Hankinson).mp3?raw=true",
+      "coverUrl":
+          "https://www.brides.com/thmb/bJFHjSjMi5sDAzuTH0IQqBS4ob4=/350x350/filters:max_bytes(150000):strip_icc()/nichole-and-george-wedding-23-square-0ddbdaa8e0b94c19aa775c182d3050fe.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=FBCkraYbyck&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Paul Hankinson)"
     },
     {
       "title": "Why Not Me",
