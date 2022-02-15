@@ -76,6 +76,39 @@
           "https://www.youtube.com/watch?v=9qO3IXSrU18&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
       "cover": "(Cover by Animexduo)"
      },
+    {
+      "title": "Franz Joseph Haydn - Trumpet Concerto Finale",
+      "singer": "Franz Joseph Haydn",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Franz%20Joseph%20Haydn%20-%20Trumpet%20Concerto%20Finale.mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.yourclassical.org/episode/2019/06/24/daily-download-franz-joseph-haydn--trumpet-concerto-finaleY",
+      "cover": "(From Your Classical)"
+   },
+   {
+      "title": "Johann Strauss II - The Beautiful Blue Danube",
+      "singer": "Johann Strauss",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Johann%20Strauss%20II%E2%80%99s%20An%20der%20sch%C3%B6nen%2C%20baluen%20Donau.mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.yourclassical.org/episode/2015/10/23/daily-download-johann-strauss-ii--the-beautiful-blue-danube",
+      "cover": "(From Your Classical)"
+    },
+    {
+      "title": "Pyotr Ilyich Tchaikovsky - Serenade for Strings, Op. 48 - Waltzer _ Squid Game OST",
+      "singer": "Pyotr Ilyich Tchaikovsky",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Classical/Pyotr%20Ilyich%20Tchaikovsky%20-%20Serenade%20for%20Strings%2C%20Op.%2048%20-%20Waltzer%20_%20Squid%20Game%20OST%20-%20(Original%20Soundtrack).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/profile_images/1121377499114610689/t_mbdhZH.png",
+      "info":
+          "https://www.youtube.com/watch?v=2CBU0H9OPPA",
+      "cover": "(Cover by Original Soundtrack)"
+   },
      {
       "title": "Moment (The Heirs OST)",
       "singer": "Lee Chang Min",
