@@ -71,8 +71,7 @@
     <section class="hero">
       <div class="hero-container">
         <div class="hero-content">
-          <h1 class="hero-title">Hi I'm Leo. <br>
-            This is my personal website.</h1>
+          <h1 class="hero-title"><span class="auto-input"></span></h1>
         </div>
       </div>
     </section>
@@ -189,4 +188,12 @@
     </footer>
   </body>
   <script src="./js/script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script>
+        var typed = new Typed(".auto-input", {strings: ["Hi I'm Leo", "I am a computer science student", "Welcome to my portfolio website."],
+        typeSpeed: 100,
+        backSpeed: 100,
+        loop: true
+        })
+    </script>
 </html>
