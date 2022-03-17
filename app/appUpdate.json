@@ -3,12 +3,12 @@
     "version": "2.0.2"
   },
   "Climee": {
-    "version": "none"
+    "version": "false"
   },
   "Ume Talk": {
     "version": "1.3.2"
   },
   "BMI Calculator": {
-    "version": "none"
+    "version": "false"
   }
 }
