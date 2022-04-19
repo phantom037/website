@@ -1,0 +1,44 @@
+/Subroutine check if char is uppercase or lowercase
+/if char is uppercase then output and move next char
+/else call ToUpperWord subroutine
+ToUpper, LoadI wordAddress			
+skipcond 800					/if HEX value of char > 0 do line 5
+halt							/else exit
+subt sixtyOne				 	/subtract HEX value of char with HEX 61
+skipcond 000					/if result < 0 (char already is uppercase)
+jump ToUpperWord				/else call ToUpperWord to convert to uppercase
+add sixtyOne					/add HEX 61 to restore the original char
+output							/print char
+load wordAddress				/move to next char
+add one
+store wordAddress
+jump ToUpper					/reursively call ToUpper
+
+/Subroutine convert lowercase character in string to uppercase character 
+/then output the uppercase character and move to next char in string
+ToUpperWord, loadI wordAddress	/acess the current index char in string
+subt twenty						/subtract the HEX value with 20 to convert uppercaseC
+output							/print char
+load wordAddress				/move to next char
+add one
+store wordAddress
+jump ToUpper					/reursively call ToUpper
+
+One, DEC 1
+one, DEC 1						/contain DEC value of 1
+sixtyOne, HEX 061				/contain HEX value of 61
+twenty, HEX 20					/contain HEX value of 20
+wordAddress, ADR word 			/array store my name
+word, HEX 048 	//H
+	  HEX 065	//e
+      HEX 06C	//l
+      HEX 06C	//l
+      HEX 06F	//o
+      HEX 020	//SPACE
+      HEX 057	//W
+      HEX 06F	//o
+      HEX 072	//r
+      HEX 06C	//l
+      HEX 064	//d	
+      HEX 0
+
