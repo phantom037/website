@@ -1,5 +1,5 @@
 {
-  "numSong": 3,
+  "numSong": 6,
   "api": [
    {
       "title": "He's a Pirate (Pirates of the Caribbean)",
@@ -32,6 +32,39 @@
           "https://i1.sndcdn.com/artworks-000109873950-ftefx9-t500x500.jpg",
       "info":
           "https://www.youtube.com/watch?v=XSs2cR2Tvuk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=29",
+      "cover": "(Cover by Simply Three)"
+    },
+    {
+      "title": "River Flows in You",
+      "singer": "Yiruma",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/River%20Flows%20in%20You%20-%20Cello%20David%20Solis.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/f9/53/eb/f953eb8ec99da80bf5f9f07f3a27ec9b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=UVUwqxuDb9A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=15",
+      "cover": "(Cover by Cello Cover - David Solis)"
+    },
+    {
+      "title": "Someone You Loved",
+      "singer": "Lewis Capaldi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano/Someone%20You%20Loved%20(PianoCello).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/90/a5/2a/90a52a2b352533a289a669aa563caca3.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qMG1BXo8Asg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=58",
+      "cover": "(Cover by The Piano Guys)"
+    },
+    {
+      "title": "Rolling In The Deep",
+      "singer": "Adele",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/Rolling%20in%20the%20Deep%20-%20Adele%20(violincellobass%20cover)%20-%20Simply%20Three.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/89/57/428957c7abec2888988b87b3ee9033f6.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=tt2NIDtp-Ls&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=16",
       "cover": "(Cover by Simply Three)"
     }
   ]
