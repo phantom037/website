@@ -1,5 +1,5 @@
 {
-  "numSong": 5,
+  "numSong": 7,
   "api": [
    {
       "title": "Galactic Star Cruiser White Noise",
@@ -45,7 +45,7 @@
           "https://www.youtube.com/watch?v=fb4yfCl7kJM",
       "cover": "(From Relaxing White Noise)"
     },
-     {
+    {
       "title": "Heavy Rain Sounds for Sleeping with Gentle Waves Lapping Peaceful",
       "singer": "Sleep Meditation",
       "url":
@@ -54,6 +54,28 @@
           "https://64.media.tumblr.com/fae0adf6a4fbb8b56dc3d607bf5e6eed/tumblr_p2va7mOuce1viuar9o1_1280.gifv",
       "info":
           "https://www.youtube.com/watch?v=5pjJl7paxZM",
+      "cover": "(From Relaxing White Noise)"
+    },
+    {
+      "title": "Cozy Cabin Ambience - Rain and Fireplace Sounds at Night",
+      "singer": "Sleep Meditation",
+      "url":
+          "https://www.dropbox.com/s/tq15xi15bbn7dl8/Cozy%20Cabin%20Ambience%20-%20Rain%20and%20Fireplace%20Sounds%20at%20Night%208%20Hours%20for%20Sleeping%2C%20Reading%2C%20Relaxation.mp3?raw=1",
+      "coverUrl":
+          "https://i.pinimg.com/564x/2d/36/6e/2d366e2ab161211be4bd3d6289c4ea02.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=1RcVIuZ8Wdk",
+      "cover": "(From Calmed By Nature)"
+    },
+    {
+      "title": "Bamboo Water Fountain Black Screen Water Sounds White Noise for Sleeping",
+      "singer": "Sleep Meditation",
+      "url":
+          "https://www.dropbox.com/s/k2swlid979a2n4g/Bamboo%20Water%20Fountain%20Black%20Screen%20Water%20Sounds%20White%20Noise%20for%20Sleeping%2010%20Hours.mp3?raw=1",
+      "coverUrl":
+          "https://64.media.tumblr.com/a3c79408cdd3d85614964b77ce2c1713/tumblr_punyrp3WMS1y7ei2ho7_400.gifv",
+      "info":
+          "https://www.youtube.com/watch?v=7h0v508F9YA",
       "cover": "(From Relaxing White Noise)"
     }
   ]
