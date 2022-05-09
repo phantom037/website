@@ -1,7 +1,40 @@
 {
-  "numSong": 37,
+  "numSong": 40,
   "api": [
-   {
+    {
+      "title": "Sparkle (Your Name OST)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Sparkle%20-%20Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2.mp3?raw=true",
+      "coverUrl":
+          "https://c.tenor.com/dpeYu-pi2mQAAAAM/your-name-kimi-no-na-wa.gif",
+      "info":
+          "https://www.youtube.com/watch?v=LO_C_ZAGvoU",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "We'll Be Alright - (Weathering With You OST)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/We'll%20Be%20Alright%20-%20Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/52/88/58/528858a87e4928bc04eaf00db1f1abd4.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=MIFNHiFdqB8",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Sangatsu Kokonoka (9th March)",
+      "singer": "Remioromen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Sangatsu%20Kokonoka%20(9%20March).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/ec/34/42ec34b74120ef964e8b78101ff59849.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qo6p6TX2VkI",
+      "cover": "(Cover by Ray Krislianggi - AniMusic)"
+    },
+    {
       "title": "Always With Me (Spirit Away)",
       "singer": "Youmi Kimura",
       "url":
