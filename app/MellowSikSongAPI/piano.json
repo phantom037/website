@@ -1,7 +1,95 @@
 {
-  "numSong": 140,
+  "numSong": 148,
   "api": [
-     {
+    {
+      "title": "Canon In D",
+      "singer": "Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Canon%20in%20D%20-%20Brooklyn%20Duo%20(cello%20%2B%20piano).mp3?raw=true",
+      "coverUrl":
+          "https://64.media.tumblr.com/8b69039ace4a704a69be869087692acc/bbfda66f0ba672b2-cb/s400x600/2203d5b81a95c52890ff2b3af8b15af9b5b7efb0.gifv",
+      "info":
+          "https://www.youtube.com/watch?v=Ptk_1Dc2iPY",
+      "cover": "(Cover by Brooklyn Duo)"
+    },
+    {
+      "title": "Sparkle (Your Name OST)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Sparkle%20-%20Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2.mp3?raw=true",
+      "coverUrl":
+          "https://c.tenor.com/dpeYu-pi2mQAAAAM/your-name-kimi-no-na-wa.gif",
+      "info":
+          "https://www.youtube.com/watch?v=LO_C_ZAGvoU",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Way Back Home",
+      "singer": "Shaun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Way%20Back%20Home%20-%20Funguypiano.mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273cc4ccd176ab48f1946b712fe",
+      "info":
+          "https://www.youtube.com/watch?v=c0TFZeXqwtc",
+      "cover": "(Cover by Funguypiano)"
+    },
+    {
+      "title": "We'll Be Alright - (Weathering With You OST)",
+      "singer": "Radwimps",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/We'll%20Be%20Alright%20-%20Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/52/88/58/528858a87e4928bc04eaf00db1f1abd4.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=MIFNHiFdqB8",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Sangatsu Kokonoka (9th March)",
+      "singer": "Remioromen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Sangatsu%20Kokonoka%20(9%20March).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/ec/34/42ec34b74120ef964e8b78101ff59849.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qo6p6TX2VkI",
+      "cover": "(Cover by Ray Krislianggi - AniMusic)"
+    },
+    {
+      "title": "Jar Of Hearts",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Jar%20Of%20Hearts%20-%20Epic%20Orchestra.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c7/c6/83/c7c6832a3539deade80a6bc251cb2365.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=KWFRxOO62p0",
+      "cover": "(Cover by Epic Orchestra)"
+    },
+    {
+      "title": "A Thousand Years",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/A%20Thousand%20Years%20-%20John%20Rod%20Dondoyano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/9f/36/1f/9f361f0228d08731b70cb0c996520606.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_TNwN92mw6E",
+      "cover": "(Cover by John Rod Dondoyano)"
+    },
+    {
+      "title": "A Thousand Years",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/A%20Thousand%20Years%20-%20The%20Piano%20Guys(Piano_Cello).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/6d/82/a7/6d82a7dcc5ac7dc67288c7d6fd53a23a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=QgaTQ5-XfMM",
+      "cover": "(Cover by The Piano Guys)"
+    }, 
+    {
       "title": "I Really Like You",
       "singer": "Carly Rae Jepsen",
       "url":
