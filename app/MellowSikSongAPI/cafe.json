@@ -1,7 +1,106 @@
 {
-  "numSong": 133,
+  "numSong": 142,
   "api": [
-   {
+    {
+      "title": "Way Back Home",
+      "singer": "Shaun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Way%20Back%20Home%20-%20Funguypiano.mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273cc4ccd176ab48f1946b712fe",
+      "info":
+          "https://www.youtube.com/watch?v=c0TFZeXqwtc",
+      "cover": "(Cover by Funguypiano)"
+    },
+    {
+      "title": "Someone You Loved",
+      "singer": "Lewis Capaldi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Someone%20You%20Loved%20-%20Vesislava%20Todorova%20(cello).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/29/7c/00/297c002cc0dbac1dce0f8661968a6ccc.gif",
+      "info":
+          "https://www.youtube.com/watch?v=7vIwU-zKyoQ",
+      "cover": "(Cover by Vesislava Todorova)"
+    },
+    {
+      "title": "My Heart Will Go On",
+      "singer": "Celine Dion",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/My%20Heart%20Will%20Go%20On%20-%202CELLOS%20(cello).mp3?raw=true",
+      "coverUrl":
+          "https://www.lamontagneart.com/wp-content/uploads/2020/11/TitanicPostPic.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=8lWXXHiQf6M",
+      "cover": "(Cover by 2CELLOS)"
+    },
+    {
+      "title": "Canon In D",
+      "singer": "Johann Pachelbel",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Canon%20in%20D%20-%20Brooklyn%20Duo%20(cello%20%2B%20piano).mp3?raw=true",
+      "coverUrl":
+          "https://64.media.tumblr.com/8b69039ace4a704a69be869087692acc/bbfda66f0ba672b2-cb/s400x600/2203d5b81a95c52890ff2b3af8b15af9b5b7efb0.gifv",
+      "info":
+          "https://www.youtube.com/watch?v=Ptk_1Dc2iPY",
+      "cover": "(Cover by Brooklyn Duo)"
+    },
+    {
+      "title": "A Thousand Years",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/A%20Thousand%20Years%20-%20Epic%20Orchestra(cello).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/fb/94/b3/fb94b33ece0710394b1af1255b6c9ed8.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=7mIR8fpHrac",
+      "cover": "(Cover by Epic Orchestra)"
+    },
+    {
+      "title": "Jar Of Hearts",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Jar%20Of%20Hearts%20-%20Epic%20Orchestra.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c7/c6/83/c7c6832a3539deade80a6bc251cb2365.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=KWFRxOO62p0",
+      "cover": "(Cover by Epic Orchestra)"
+    },
+    {
+      "title": "A Thousand Years",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/A%20Thousand%20Years%20-%20John%20Rod%20Dondoyano.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/9f/36/1f/9f361f0228d08731b70cb0c996520606.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_TNwN92mw6E",
+      "cover": "(Cover by John Rod Dondoyano)"
+    },
+    {
+      "title": "A Thousand Years",
+      "singer": "Christina Perri",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/A%20Thousand%20Years%20-%20The%20Piano%20Guys(Piano_Cello).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/6d/82/a7/6d82a7dcc5ac7dc67288c7d6fd53a23a.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=QgaTQ5-XfMM",
+      "cover": "(Cover by The Piano Guys)"
+    },
+    {
+      "title": "abcdefu",
+      "singer": "Gayle",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/abcdefu%20-%20Iqbal%20Gumilar(guitar).mp3?raw=true",
+      "coverUrl":
+          "https://glitteratitours.com/wp-content/uploads/2016/10/Palm-Trees-Sunset-Strip.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=aha776LT2bA",
+      "cover": "(Cover by Iqbal Gumilar)"
+    }, 
+    {
       "title": "Memories",
       "singer": "Maroon 5",
       "url":
