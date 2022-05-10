@@ -1,5 +1,71 @@
 [
     {
+      "title": "We Are! (One Piece OST)",
+      "singer": "Hiroshi Kitadani",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/We%20Are!%20-%20One%20Piece.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/a0/e7/84/a0e7845832279a1315e9d98624bff6de.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=_iHe7-RhP1I",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Doraemon no Uta (Doraemon OST)",
+      "singer": "Shunsuke Kikuchi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Doraemon%20No%20Uta%20_%20Piano%20Cover%20by%20Upwan%20Jindal.mp3?raw=true",
+      "coverUrl":
+          "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8bbeb18-a27f-46aa-888c-e0b9b9632770_304x300.gif",
+      "info":
+          "https://www.youtube.com/watch?v=dX9JsEdLWCs",
+      "cover": "(Cover by Upwan Jindal)"
+    },
+    {
+      "title": "Blue Bird (Naruto OST)",
+      "singer": "Ikimono-gakari",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Blue%20Bird%20-%20Naruto%20Shippuuden%20OP3.mp3?raw=true",
+      "coverUrl":
+          "https://64.media.tumblr.com/fca73ee9e25c63bbce780ddd5d262516/452a373d2bf1613d-47/s500x750/08346212ae4c61d407daf44857c7ea5917a43e58.gifv",
+      "info":
+          "https://www.youtube.com/watch?v=FTrJ-J_lsr0",
+      "cover": "(Cover by Upwan Jindal)"
+    },
+    {
+      "title": "Guren no Yumiya (Attack On Titan OST Season 1)",
+      "singer": "Linked Horizon",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Attack%20on%20Titan%20-%20Opening%201%20Theme%20_%20Guren%20no%20Yumiya.mp3?raw=true",
+      "coverUrl":
+          "https://ae01.alicdn.com/kf/HTB1OJA2IVXXXXaRXXXXq6xXFXXX6/Attack-On-Titan-Anime-Characters-45-45CM-Square-Pillow-Case-35692.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=MIUQGbA8B4k",
+      "cover": "(Cover by Patrik Pietschmann)"
+    },
+    {
+      "title": "Attack on Titan (Attack On Titan Main Theme)",
+      "singer": "Hiroyuki Sawano",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Attack%20on%20Titan%20(Main%20Theme)%20-%20Attack%20on%20Titan.mp3?raw=true",
+      "coverUrl":
+          "https://animeware.com/wp-content/uploads/2020/11/1932-8c836b.jpeg",
+      "info":
+          "https://www.youtube.com/watch?v=69lx6TvQTFg",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Doraemon no Uta (Doraemon OST)",
+      "singer": "Shunsuke Kikuchi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Doraemon%20no%20Uta%20-%20Fingerstyle%20Guitar.mp3?raw=true",
+      "coverUrl":
+          "https://media3.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif?cid=790b76116949e012a2f26ad973b253543a9dd053346e150a&rid=giphy.gif&ct=s",
+      "info":
+          "https://www.youtube.com/watch?v=Z26lVIkH4KQ",
+      "cover": "(Cover by Jakarudi Main Gitar)"
+    },
+    {
       "title": "Someone You Loved",
       "singer": "Lewis Capaldi",
       "url":
