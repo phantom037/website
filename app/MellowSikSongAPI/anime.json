@@ -1,6 +1,28 @@
 {
-  "numSong": 46,
+  "numSong": 48,
   "api": [
+    {
+      "title": "Overtaken (One Piece OST)",
+      "singer": "Shirō Hamaguchi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Overtaken%20-%20One%20Piece%20OST.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/35/9d/9c/359d9c5d36d35f34af477c54c7e2abe1.gif",
+      "info":
+          "https://www.youtube.com/watch?v=ol9gQ-WtXnk",
+      "cover": "(Cover by Thomas R. Piano)"
+    },
+    {
+      "title": "Sadness and Sorrow (Naruto OST)",
+      "singer": "Taylor Davis",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Naruto%20-%20Sadness%20and%20Sorrow%20(Piano%20Version)%20(320kbps).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/72/ef/b6/72efb6d6ec916c03bc30c9d113c16ca9.gif",
+      "info":
+          "https://www.youtube.com/watch?v=Kk60F8a7-Jw",
+      "cover": "(Cover by Patrik Pietschmann)"
+    },
     {
       "title": "We Are! (One Piece OST)",
       "singer": "Hiroshi Kitadani",
