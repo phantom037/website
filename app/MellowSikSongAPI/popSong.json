@@ -1,6 +1,39 @@
 {
-  "numSong": 133,
+  "numSong": 136,
   "api": [
+   {
+      "title": "When We Were Young",
+      "singer": "Adele",
+      "url":
+          "hhttps://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/When%20We%20Were%20Young%20-%20(Costantino%20Carrara%20Music).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/a1/ee/4e/a1ee4e917b2b3c224344b6de223a3db5.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=JYzZ8aD3FBU",
+      "cover": "(Cover by Costantino Carrara Music)"
+    },    
+    {
+      "title": "When We Were Young",
+      "singer": "Adele",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/When%20We%20Were%20Young%20-%20guitar%20-(Yenne%20Lee).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ca/8f/55/ca8f55ce360327f443302929afa697e2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ck_LcYgqsDw",
+      "cover": "(Cover by Yenne Lee)"
+    }, 
+    {
+      "title": "Thinking Out Loud",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Thinking%20Out%20Loud%20-%20Cello%20(Improvicello).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000102864051-o1akzp-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=xx58pQlu8Zc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm",
+      "cover": "(Cover by Improvicello)"
+    },
     {
       "title": "Someone You Loved",
       "singer": "Lewis Capaldi",
