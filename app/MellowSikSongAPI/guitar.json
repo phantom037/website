@@ -1,6 +1,28 @@
 {
-  "numSong": 71,
+  "numSong": 73,
   "api": [
+    {
+      "title": "When We Were Young",
+      "singer": "Adele",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/When%20We%20Were%20Young%20-%20guitar%20-(Yenne%20Lee).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ca/8f/55/ca8f55ce360327f443302929afa697e2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ck_LcYgqsDw",
+      "cover": "(Cover by Yenne Lee)"
+    },
+    {
+      "title": "Learn To Say Meow",
+      "singer": "Xiao Pan Pan & Xiao Feng Feng",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Learn%20To%20Meow%20-Fingerstyle%20Guitar%20(Toey%20Fingerstyle).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/86/bb/70/86bb70b92294335cfb9390c18ef653b8.gif",
+      "info":
+          "https://www.youtube.com/watch?v=5qduniIKzbY",
+      "cover": "(Cover by Toey Fingerstyle)"
+    },
     {
       "title": "abcdefu",
       "singer": "Gayle",
