@@ -1,5 +1,5 @@
 {
-  "numSong": 39,
+  "numSong": 38,
   "api": [
    {
       "title": "Coincidence (Let's Fight Ghost OST)",
@@ -22,17 +22,6 @@
       "info":
           "https://www.youtube.com/watch?v=mLdw8bnt7WY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
       "cover": "(Cover by Pianoheart)"
-   },
-   {
-      "title": "I'm Saying (The Heirs OST)",
-      "singer": "Lee Hong Ki",
-      "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/I'm%20Saying%20%EB%A7%90%EC%9D%B4%EC%95%BC%20(The%20Heirs%20OST)%20-%20(Animexduo).mp3?raw=true",
-      "coverUrl":
-          "https://i.pinimg.com/564x/28/77/31/287731bf3fe03b62892d45adb5242f8a.jpg",
-      "info":
-          "https://www.youtube.com/watch?v=9qO3IXSrU18&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=3",
-      "cover": "(Cover by Animexduo)"
    },
    {
       "title": "I'm Saying (The Heirs OST)",
