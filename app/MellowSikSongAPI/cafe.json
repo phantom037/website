@@ -1,16 +1,38 @@
 {
-  "numSong": 142,
+  "numSong": 152,
   "api": [
-    {
-      "title": "Way Back Home",
-      "singer": "Shaun",
+   {
+      "title": "When We Were Young",
+      "singer": "Adele",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Way%20Back%20Home%20-%20Funguypiano.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/When%20We%20Were%20Young%20-%20(Costantino%20Carrara%20Music).mp3?raw=true",
       "coverUrl":
-          "https://i.scdn.co/image/ab67616d0000b273cc4ccd176ab48f1946b712fe",
+          "https://i.pinimg.com/564x/a1/ee/4e/a1ee4e917b2b3c224344b6de223a3db5.jpg",
       "info":
-          "https://www.youtube.com/watch?v=c0TFZeXqwtc",
-      "cover": "(Cover by Funguypiano)"
+          "https://www.youtube.com/watch?v=JYzZ8aD3FBU",
+      "cover": "(Cover by Costantino Carrara Music)"
+    },    
+    {
+      "title": "When We Were Young",
+      "singer": "Adele",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/When%20We%20Were%20Young%20-%20guitar%20-(Yenne%20Lee).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/ca/8f/55/ca8f55ce360327f443302929afa697e2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ck_LcYgqsDw",
+      "cover": "(Cover by Yenne Lee)"
+    }, 
+    {
+      "title": "Thinking Out Loud",
+      "singer": "Ed Sheeran",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Thinking%20Out%20Loud%20-%20Cello%20(Improvicello).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000102864051-o1akzp-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=xx58pQlu8Zc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm",
+      "cover": "(Cover by Improvicello)"
     },
     {
       "title": "Someone You Loved",
@@ -101,17 +123,17 @@
       "cover": "(Cover by Iqbal Gumilar)"
     }, 
     {
-      "title": "Memories",
-      "singer": "Maroon 5",
+      "title": "I Really Like You",
+      "singer": "Carly Rae Jepsen",
       "url":
-          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Maroon%205)%20Memories%20-%20Sungha%20Jung.mp3?raw=true",
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20Violin%20Cover%20-(Laurent%20Bernadac).mp3?raw=true",
       "coverUrl":
-          "https://i1.sndcdn.com/artworks-000603889666-05zoia-t500x500.jpg",
+          "https://i.pinimg.com/564x/27/d8/b1/27d8b11b767db8322724c36c8568369b.jpg",
       "info":
-          "https://www.youtube.com/watch?v=14mE1aVAPj0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=117",
-      "cover": "(Cover by Sungha Jung)"
-   },
-   {
+          "https://www.youtube.com/watch?v=5PF40Zs3sz4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
+      "cover": "(Cover by Laurent Bernadac)"
+     },
+    {
       "title": "Tea Party Under the Stars",
       "singer": "Hui Che",
       "url":
@@ -145,6 +167,138 @@
       "cover": "(Cover by Paul Hankinson)"
     },
     {
+      "title": "You Belong With Me",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/you%20belong%20with%20me%20-%20taylor%20swift%20-%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/87/6e/6e/876e6ef3b13a578e3f7d32aba863febc.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=9SCluoF_ick&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by paul iballa)"
+    },
+     {
+      "title": "Something Just Like This",
+      "singer": "The Chainsmokers & Coldplay",
+      "url":
+        "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/'Something%20Just%20Like%20This'%20The%20Chainsmokers%20%26%20Coldplay%20(Sol%C3%ADs%20Music).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/bb/f1/6a/bbf16ad95d95759befe305bf30c558d2.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=4S5pqnv4EcE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Solís Music)"
+    },
+    {
+      "title": "It Ain't Me",
+      "singer": "Selena Gomez & Kygo",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/It%20Ain't%20Me%20(Selena%20Gomez%20%26%20Kygo%20Cover)%20-%20(Lindsey%20Stirling).mp3?raw=true",
+      "coverUrl":
+          "https://data.whicdn.com/images/326301065/original.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=4xcuKEwCDWg",
+      "cover": "(Cover by Lindsey Stirling)"
+    },
+    {
+      "title": "It Ain't Me",
+      "singer": "Selena Gomez & Kygo",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Kygo%2C%20Selena%20Gomez%20-%20It%20Ain't%20Me%20-%20Fingerstyle%20-%20(James%20Bartholomew).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/c0/1d/35/c01d35b98cc2cc455ffd1099d740022b.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Ku1zD9wQ-Rw",
+      "cover": "(Cover by James Bartholomew)"
+    },
+    {
+      "title": "Sweet but Psycho",
+      "singer": "Ava Max",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Sweet%20but%20Psycho%20-%20Ava%20Max%20-%20Guitar%20(Andrew%20Foy%20%EC%95%A4).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/736x/0e/4c/dc/0e4cdc71815a3f4870daf045d4430902.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=rjAdzSXqVrY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Andrew Foy 앤)"
+    },
+    {
+      "title": "The Heart Wants What it Wants",
+      "singer": "Selena Gomez",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/The%20Heart%20Wants%20What%20it%20Wants%20%20-%20Guitar%20-%20(Andrew%20Foy%20%EC%95%A4%EB%94%94).mp3?raw=true",
+      "coverUrl":
+          "https://s8.favim.com/orig/150802/girl-quotes-sad-selena-gomez-Favim.com-3042738.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=noibT5VkKGo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
+      "cover": "(Cover by Andrew Foy 앤)"
+    },
+    {
+      "title": "Wolves",
+      "singer": "Selena Gomez & Marshmello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Wolves%20-%20Selena%20Gomez%20%26%20Marshmello%20-%20Fingerstyle%20-%20(Eddie%20van%20der%20Meer).mp3?raw=true",
+      "coverUrl":
+          "https://pbs.twimg.com/media/DNecpfSVAAAw27W.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=f6rlu66cBD0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Eddie van der Meer)"
+     },
+     {
+      "title": "Sweet But Psycho",
+      "singer": "Ava Max",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ava%20Max%20-%20Sweet%20but%20Psycho%20-%20(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273f93a2a596b26604db87c3f1e",
+      "info":
+          "https://www.youtube.com/watch?v=Rt5XXN8zFKU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+     },
+     {
+      "title": "Lose You To Love Me",
+      "singer": "Selena Gomez",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Selena%20Gomez%20-%20Lose%20You%20to%20Love%20Me%20-%20(Brooklyn%20Duo).mp3?raw=true",
+      "coverUrl":
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9302c3cb-d209-4cf5-a992-cb48c7cefd4a/deb0vad-a2f5553b-ae43-4ddc-a84f-ae433fb74334.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzMDJjM2NiLWQyMDktNGNmNS1hOTkyLWNiNDhjN2NlZmQ0YVwvZGViMHZhZC1hMmY1NTUzYi1hZTQzLTRkZGMtYTg0Zi1hZTQzM2ZiNzQzMzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VmKHAv8vQ504mD5Oj7rk-GFkYusKGNlA_s-24aJH-rE",
+      "info":
+          "https://www.youtube.com/watch?v=_y-k9WaeFFk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
+      "cover": "(Cover by Brooklyn Duo)"
+     },
+     {
+      "title": "Wolves",
+      "singer": "Selena Gomez & Marshmello",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Selena%20Gomez%2C%20Marshmello%20-%20Wolves%20-%20(Jova%20Musique%20-%20Pianella%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/67/f7/cc/67f7cc40a8c53ac2eba339a63ee2d174.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=HPemUpmKc7g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Jova Musique - Pianella Piano)"
+     },
+     {
+      "title": "Work From Home",
+      "singer": "Fifth Harmony & Ty Dolla $ign ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Work%20From%20Home%20(Piano%20Cover)%20ft.%20Ty%20Dolla%20%24ign%20-%20(LittleTranscriber).mp3?raw=true",
+      "coverUrl":
+          "https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/work%20from%20home/file-20200427-145553-1vzj5mo.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=l6ihBSflDII&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by JLittleTranscriber)"
+     },
+    {
+      "title": "Memories",
+      "singer": "Maroon 5",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar/(Maroon%205)%20Memories%20-%20Sungha%20Jung.mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000603889666-05zoia-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=14mE1aVAPj0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=117",
+      "cover": "(Cover by Sungha Jung)"
+    },
+    {
       "title": "Attention",
       "singer": "Charlie Puth",
       "url":
@@ -153,6 +307,28 @@
           "https://ih1.redbubble.net/image.396214919.1773/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg",
       "info": "https://www.youtube.com/watch?v=9ygrq7in_uI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=103",
       "cover": "(Cover by Andrew Foy 앤디)"
+    },
+    {
+      "title": "Love Story",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20-%20Love%20Story%20Piano%20-%20(Riyandi%20Kusuma).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/91/69/75/91697506a1faf97752a570897e0cc1f4.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=SojAkORca9g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
+      "cover": "(Cover by Riyandi Kusuma)"
+    },
+    {
+      "title": "Can We Kiss Forever",
+      "singer": "Kina",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/can%20we%20kiss%20forever%20-%20kina%20_%20guitar%20-%20(paul%20iballa).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/20/b5/4220b59dfe710e988189ea79f8a0d628.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=MPacUs0Vgbo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by paul iballa)"
     },
     {
       "title": "Havana",
@@ -637,6 +813,39 @@
       "info":
           "https://www.youtube.com/watch?v=WrvZ7qe9isI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=73",
       "cover": "(Cover by Yuni Marimba 유니 마림바)"
+    },
+    {
+      "title": "I Really Like You",
+      "singer": "Carly Rae Jepsen",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Carly%20Rae%20Jepsen%20-%20I%20Really%20Like%20You%20-%20(Ray%20Mak).mp3?raw=true",
+      "coverUrl":
+          "https://avatar-ex-swe.nixcdn.com/song/2018/10/30/2/4/7/9/1540882623377_640.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=v06uRd6GBOo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
+      "cover": "(Cover by Ray Mak)"
+    },
+    {
+      "title": "Monsters",
+      "singer": "Katie Sky",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Monsters%20-%20Katie%20Sky%20_%20Cover%20%E9%82%93%E5%A3%AC%E9%91%AB%20-%20(OkaMeoww).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000248106304-ang1c5-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=6rmj5Rmhhws&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
+      "cover": "(Cover by OkaMeoww)"
+    },
+    {
+      "title": "You Belong With Me",
+      "singer": "Taylor Swift",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Taylor%20Swift%20-%20You%20Belong%20With%20Me%20piano%20-%20(TAM%20TAM%20MUSIC).mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b273b787fda21f1fe8e6d81c6e85",
+      "info":
+          "https://www.youtube.com/watch?v=GeierEnSkrQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by TAM TAM MUSIC)"
     },
     {
       "title": "Shape of You",
@@ -1297,6 +1506,17 @@
       "info":
           "https://www.youtube.com/watch?v=OIEfTXJz5VE&list=PLTpeyQJ-cKQclZdzxFyLzuz90wVmwCB9W&index=2",
       "cover": "(Cover by CalmPanda)"
+    },
+    {
+      "title": "Peer Gynt - Morning Mood",
+      "singer": "Edvard Grieg",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Study/Edvard%20Grieg%20-%20Peer%20Gynt%20%20-%20Morning%20Mood%20-%20Piano%20-%20(Leiki%20Ueda).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/84/c2/df/84c2dfa8da1060f2743579a6c2ac12ed.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=OoaQyu0wx1A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
+      "cover": "(Cover by Leiki Ueda)"
     },
     {
       "title": "Her",
