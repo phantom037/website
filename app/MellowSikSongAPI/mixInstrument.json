@@ -1,5 +1,5 @@
 {
-  "numSong": 289,
+  "numSong": 314,
   "api": [
     {
       "title": "Someone You Loved",
@@ -11,6 +11,281 @@
       "info":
           "https://www.youtube.com/watch?v=7vIwU-zKyoQ",
       "cover": "(Cover by Vesislava Todorova)"
+    },
+    {
+      "title": "10,000 Reasons (Bless the Lord)",
+      "singer": "Matt Redman ft Steve Angrisano",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/10%2C000%20Reasons%20(Bless%20the%20Lord)%20-%20(Kaleb%20Brasee).mp3?raw=true",
+      "coverUrl":
+          "https://c-fa.cdn.smule.com/rs-s80/arr/ea/79/ef071911-4dd9-4e7f-9002-e08bc5540340_1024.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=co47MhuIRaU",
+      "cover": "(Cover by Kaleb Brasee)"
+    },
+    {
+      "title": "Guren no Yumiya (Attack on Titan)",
+      "singer": "Linked Horizon",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Attack%20on%20Titan%20-%20%20Guren%20no%20Yumiya%20-%20(Patrik%20Pietschmann).mp3?raw=true",
+      "coverUrl":
+          "https://media.tenor.com/YBSVvmO8XK8AAAAM/attack-on-titan-hungry.gif",
+      "info":
+          "https://www.youtube.com/watch?v=MIUQGbA8B4k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=80",
+      "cover": "(Cover by Patrik Pietschmann)"
+    },
+    {
+      "title": "Attack on Titan (Main Theme)",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Attack%20on%20Titan%20(Main%20Theme)%20-%20(Animenz%20Piano%20Sheets).mp3?raw=true",
+      "coverUrl":
+          "https://giffiles.alphacoders.com/114/114540.gif",
+      "info":
+          "https://www.youtube.com/watch?v=69lx6TvQTFg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=79",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Canon in D - River Flows in You",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Canon%20in%20D%20-%20River%20Flows%20in%20You%20-%20(Eternity%20Roze).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/eb/c3/e8/ebc3e8fde748b758cb072aaeecc3879d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qyl9pdczYVE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=89",
+      "cover": "(Cover by Eternity Roze)"
+    },
+    {
+      "title": "Doraemon No Uta",
+      "singer": "Yamano Satoko ",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Doraemon%20No%20Uta%20-%20(Upwan%20Jindal).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/79/90/74/799074c7a9eaf9cfd54e3c47bb1ea501.gif",
+      "info":
+          "https://www.youtube.com/watch?v=dX9JsEdLWCs&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=78",
+      "cover": "(Cover by Upwan Jindal)"
+    },
+    {
+      "title": "Overtaken (One Piece OST)",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Overtaken%20Piano%20Cover%20-%20One%20Piece%20OST%20-%20(Thomas%20R.%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/75/67/34/756734cc591e3b3ef966d9eadffc3b22.gif",
+      "info":
+          "https://www.youtube.com/watch?v=ol9gQ-WtXnk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=82",
+      "cover": "(Cover by Thomas R. Piano)"
+    },
+    {
+      "title": "Dandelions",
+      "singer": "Ruth B",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ruth%20B.%20-%20Dandelions%20%20Piano%20Cover%20-%20(John%20Rod%20Dondoyano).mp3?raw=true",
+      "coverUrl":
+          "https://s3.amazonaws.com/broadtime_photo/418458154974",
+      "info":
+          "https://www.youtube.com/watch?v=ndiOMiFcfB4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=85",
+      "cover": "(Cover by John Rod Dondoyano)"
+    },
+    {
+      "title": "The Light Chaser",
+      "singer": "Yoyo Sham",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/The%20Light%20Chaser%20-%20(Nhi%20B%C3%ADch).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/82/08/3d/82083d0049ae71cc141e1c2681f79852.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=0fhBcL3lcAA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=88",
+      "cover": "(Cover by Nhi Bích)"
+    },
+    {
+      "title": "We Are! (One Piece OP1)",
+      "singer": "Hiroshi Kitadani",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/We%20Are!%20-%20One%20Piece%20OP1%20%5BPiano%5D%20-%20(Animenz%20Piano%20Sheets).mp3?raw=true",
+      "coverUrl":
+          "https://media.tenor.com/A32q04Ml-DwAAAAC/tony-tony-tony-chopper.gif",
+      "info":
+          "https://www.youtube.com/watch?v=_iHe7-RhP1I&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=81",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Orange (Your Lie in April OST)",
+      "singer": "7!!",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Your%20Lie%20in%20April%E3%80%8COrange%20%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%20-%207!!%E3%80%8DRu's%20Piano%20-%20(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://giffiles.alphacoders.com/139/13987.gif",
+      "info":
+          "https://www.youtube.com/watch?v=GEYepRwYKHw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=84",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Always With Me (Spirited Away OST)",
+      "singer": "Youmi Kimura",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Always%20With%20Me%20-%20Spirited%20Away%20(Piano)%20-%20(Ghibli%20Music).mp3?raw=true",
+      "coverUrl":
+          "https://thumbs.gfycat.com/CapitalIdealisticImperialeagle-size_restricted.gif",
+      "info":
+          "https://www.youtube.com/watch?v=ESJ7TQvFFrA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=70",
+      "cover": "(Cover by Ghibli Music)"
+    },
+    {
+      "title": "Blue Bird (Naruto Shippuuden OP3)",
+      "singer": "Ikimonogakari",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Blue%20Bird%20-%20Naruto%20Shippuuden%20OP3%20-%20(Animenz%20Piano%20Sheets).mp3?raw=true",
+      "coverUrl":
+          "https://thumbs.gfycat.com/BewitchedUnsungGrayfox-size_restricted.gif",
+      "info":
+          "https://www.youtube.com/watch?v=FTrJ-J_lsr0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=73",
+      "cover": "(Cover by Animenz Piano Sheets)"
+    },
+    {
+      "title": "Sadness and Sorrow (Naruto)",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Naruto%20-%20Sadness%20and%20Sorrow%20Piano%20-%20(Patrik%20Pietschmann).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/78/79/0f/78790fbb0df6995a5c8cf12878002d17.gif",
+      "info":
+          "https://www.youtube.com/watch?v=Kk60F8a7-Jw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=74",
+      "cover": "(Cover by Patrik Pietschmann)"
+    },
+    {
+      "title": "One Summer's Day",
+      "singer": "Joe Hisaishi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/One%20Summer's%20Day%20-%20Joe%20Hisaishi%20-%20(Joe%20Hisaishi%20Official).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/e2/ca/ca/e2caca6cd1086453264f2f04d2252a10.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=TK1Ij_-mank&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=69",
+      "cover": "(Cover by Joe Hisaishi Official)"
+    },
+    {
+      "title": "Genshin Impact - Soar In the Wind (Kamisato Ayaka Tsubaki in Thawing Snow OST)",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Soar%20In%20the%20Wind%20Kamisato%20Ayaka%20Tsubaki%20in%20Thawing%20Snow%20(Genshin%20Impact)%20Epic%20Piano%20-%20(ChaconneScott_ACG%20on%20Piano).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/20/17/d8/2017d847fb9cb4115f1fdf4460d76b40.gif",
+      "info":
+          "https://www.youtube.com/watch?v=57tGgRIaqHw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=72",
+      "cover": "(Cover by ChaconneScott_ACG on Piano)"
+    },
+    {
+      "title": "Tada Koe Hitotsu",
+      "singer": "Rokudenashi",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Tada%20Koe%20Hitotsu%20-%20Rokudenashi%20-%20(%E3%81%B0%E3%82%93%E3%81%91%E3%82%93Banken).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-HfRppQ0mVx8wEXxS-W0Pwxw-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=bZA9fPmFok0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=68",
+      "cover": "(Cover by ばんけんBanken)"
+    },
+    {
+      "title": "Uchiage Hanabi",
+      "singer": "DAOKO ft Kenshi Yonezu",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Uchiage%20Hanabi%20%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB%20DAOKO%20%C3%97%20Kenshi%20Yonezu%20-%20(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000358996056-il4s1i-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=bZUS4uW9FdQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=71",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "10.000 Reasons (Bless the Lord)",
+      "singer": "Matt Redman ft Steve Angrisano",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/10.000%20Reasons%20-%20Matt%20Redman%20-%20(Albert%20Gyorfi).mp3?raw=true",
+      "coverUrl":
+          "https://www.worshiptogether.com/media/dstdok0n/10k-reasons-final-3000x3000.jpg?anchor=center&mode=crop&width=400&rnd=132950945435430000",
+      "info":
+          "https://www.youtube.com/watch?v=R2qLIm-dzjQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=76",
+      "cover": "(Cover by Albert Gyorfi)"
+    },
+    {
+      "title": "Doraemon no Uta",
+      "singer": "Yamano Satoko",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/Doraemon%20no%20Uta%20-%20(Jakarudi).mp3?raw=true",
+      "coverUrl":
+          "https://resizing.flixster.com/n6i_ggdcS-E_qTleKXXlu7-gQuc=/300x300/v2/https://flxt.tmsimg.com/assets/p12434794_k_v13_aa.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=Z26lVIkH4KQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=77",
+      "cover": "(Cover by Jakarudi)"
+    },    
+    {
+      "title": "This place has me (NƠI NÀY CÓ ANH)",
+      "singer": "Sơn Tùng M-TP",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/N%C6%A0I%20N%C3%80Y%20C%C3%93%20ANH%20-%20Igor%20Presnyakov.mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b2735a85b345cb9461f3aa400dc1",
+      "info":
+          "https://www.youtube.com/watch?v=pnqMAwdoQag&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=93",
+      "cover": "(Cover by Igor Presnyakov)"
+    },
+    {
+      "title": "Darkside",
+      "singer": "Alan Walker",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/The%20Darkest%20Cello%20Music%20-%20Beginning%20to%20End%20-%20(Hendyamps%20Studios).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000415538445-okyde2-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=zrKMC4fAKp0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=86",
+      "cover": "(Cover by GnuS Cello)"
+    },
+    {
+      "title": "Love Theme from Romeo and Juliet",
+      "singer": "Nino Rota",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Love%20Theme%20from%20Romeo%20and%20Juliet%20-%20(CelloDeck%20%EC%B2%BC%EB%A1%9C%EB%8C%81).mp3?raw=true",
+      "coverUrl":
+          "https://images-na.ssl-images-amazon.com/images/I/811qMZvKJmL._AC_UL600_SR600,600_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=VE1HVFlsPMw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=83",
+      "cover": "(Cover by CelloDeck 첼로댁)"
+    },
+    {
+      "title": "Beginning to End",
+      "singer": "Chris Henderson and Landon Hook",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/The%20Darkest%20Cello%20Music%20-%20Beginning%20to%20End%20-%20(Hendyamps%20Studios).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000216789049-obkzms-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oyzoGp4eCB4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=90",
+      "cover": "(Cover by Hendyamps Studios)"
+    },
+    {
+      "title": "Endless love",
+      "singer": "Jackie Chan & Kim Hee-sun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/zither320Kpbs/Endless%20love%20%5Bzither%5D%20-%20The%20Soul%20of%20Wind.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/02/cc/5a/02cc5a2a387a73b0cb7c042b0246fdc8.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=3oxRgEQGuII&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=91",
+      "cover": "(Cover by The Soul of Wind)"
+    },
+    {
+      "title": "Endless love",
+      "singer": "Jackie Chan & Kim Hee-sun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/tree/main/guzheng320Kpbs?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/10/02/f0/1002f0e9831b236c42443ae12f05924d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=iwSk7mKkakY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=92",
+      "cover": "(Cover by Jocelyn Paramita)"
     },
     {
       "title": "My Heart Will Go On",
