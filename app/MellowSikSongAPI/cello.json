@@ -1,5 +1,5 @@
 {
-  "numSong": 11,
+  "numSong": 14,
   "api": [
    {
       "title": "Thinking Out Loud",
@@ -12,6 +12,39 @@
           "https://www.youtube.com/watch?v=xx58pQlu8Zc&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm",
       "cover": "(Cover by Improvicello)"
    }, 
+   {
+      "title": "Darkside",
+      "singer": "Alan Walker",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/The%20Darkest%20Cello%20Music%20-%20Beginning%20to%20End%20-%20(Hendyamps%20Studios).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000415538445-okyde2-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=zrKMC4fAKp0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=86",
+      "cover": "(Cover by GnuS Cello)"
+    },
+    {
+      "title": "Love Theme from Romeo and Juliet",
+      "singer": "Nino Rota",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Love%20Theme%20from%20Romeo%20and%20Juliet%20-%20(CelloDeck%20%EC%B2%BC%EB%A1%9C%EB%8C%81).mp3?raw=true",
+      "coverUrl":
+          "https://images-na.ssl-images-amazon.com/images/I/811qMZvKJmL._AC_UL600_SR600,600_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=VE1HVFlsPMw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=83",
+      "cover": "(Cover by CelloDeck 첼로댁)"
+    },
+    {
+      "title": "Beginning to End",
+      "singer": "Chris Henderson and Landon Hook",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/The%20Darkest%20Cello%20Music%20-%20Beginning%20to%20End%20-%20(Hendyamps%20Studios).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000216789049-obkzms-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=oyzoGp4eCB4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=90",
+      "cover": "(Cover by Hendyamps Studios)"
+    },
    {
       "title": "Someone You Loved",
       "singer": "Lewis Capaldi",
