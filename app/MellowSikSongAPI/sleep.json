@@ -1,5 +1,5 @@
 {
-  "numSong": 10,
+  "numSong": 13,
   "api": [
    {
       "title": "Galactic Star Cruiser White Noise",
@@ -110,6 +110,39 @@
       "info":
           "https://www.youtube.com/watch?v=UT34hl4suqw",
       "cover": "(From Soothing Melody)"
+    },
+    {
+      "title": "Reprise (Spirit Away OST) with rain",
+      "singer": "Sleep Meditation",
+      "url":
+          "https://www.dropbox.com/s/4wymook711jcxi0/Reprise.mp3?raw=1",
+      "coverUrl":
+          "https://thumbs.gfycat.com/VengefulGargantuanAttwatersprairiechicken-size_restricted.gif",
+      "info":
+          "https://www.youtube.com/watch?v=sO-V11NHxwg",
+      "cover": "(From Soothing Melody)"
+    },
+    {
+      "title": "Relaxing Christmas Carol Music",
+      "singer": "Sleep Meditation",
+      "url":
+          "https://www.dropbox.com/s/qxbrd9f1urk03un/Relaxing%20Christmas%20Carol%20Music.mp3?raw=1",
+      "coverUrl":
+          "https://media.tenor.com/aQF0nBRsqcEAAAAC/spinning-trees.gif",
+      "info":
+          "https://www.youtube.com/watch?v=_H6nNysTQs8",
+      "cover": "(From LADOREMI)"
+    },
+    {
+      "title": "Disney Calm Night Piano Collection for Deep Sleep",
+      "singer": "Sleep Meditation",
+      "url":
+          "https://www.dropbox.com/s/wueygkk570g28aq/Disney%20Calm%20Night%20Piano%20Collection%20for%20Deep%20Sleep.mp3?raw=1",
+      "coverUrl":
+          "https://i.pinimg.com/originals/d8/ee/18/d8ee184b8144e8414238e7c578b5e4f9.gif",
+      "info":
+          "https://www.youtube.com/watch?v=2x2CDVKD9RA",
+      "cover": "(From kno Music)"
     }
   ]
 }
