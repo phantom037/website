@@ -1,5 +1,5 @@
 {
-  "numSong": 151,
+  "numSong": 157,
   "api": [
     {
       "title": "Someone You Loved",
@@ -11,6 +11,72 @@
       "info":
           "https://www.youtube.com/watch?v=7vIwU-zKyoQ",
       "cover": "(Cover by Vesislava Todorova)"
+    },
+    {
+      "title": "10,000 Reasons (Bless the Lord)",
+      "singer": "Matt Redman ft Steve Angrisano",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/10%2C000%20Reasons%20(Bless%20the%20Lord)%20-%20(Kaleb%20Brasee).mp3?raw=true",
+      "coverUrl":
+          "https://c-fa.cdn.smule.com/rs-s80/arr/ea/79/ef071911-4dd9-4e7f-9002-e08bc5540340_1024.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=co47MhuIRaU",
+      "cover": "(Cover by Kaleb Brasee)"
+    },
+    {
+      "title": "Canon in D - River Flows in You",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Canon%20in%20D%20-%20River%20Flows%20in%20You%20-%20(Eternity%20Roze).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/eb/c3/e8/ebc3e8fde748b758cb072aaeecc3879d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=qyl9pdczYVE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=89",
+      "cover": "(Cover by Eternity Roze)"
+    },
+    {
+      "title": "10.000 Reasons (Bless the Lord)",
+      "singer": "Matt Redman ft Steve Angrisano",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/10.000%20Reasons%20-%20Matt%20Redman%20-%20(Albert%20Gyorfi).mp3?raw=true",
+      "coverUrl":
+          "https://www.worshiptogether.com/media/dstdok0n/10k-reasons-final-3000x3000.jpg?anchor=center&mode=crop&width=400&rnd=132950945435430000",
+      "info":
+          "https://www.youtube.com/watch?v=R2qLIm-dzjQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=76",
+      "cover": "(Cover by Albert Gyorfi)"
+    },
+    {
+      "title": "Love Theme from Romeo and Juliet",
+      "singer": "Nino Rota",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/Love%20Theme%20from%20Romeo%20and%20Juliet%20-%20(CelloDeck%20%EC%B2%BC%EB%A1%9C%EB%8C%81).mp3?raw=true",
+      "coverUrl":
+          "https://images-na.ssl-images-amazon.com/images/I/811qMZvKJmL._AC_UL600_SR600,600_.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=VE1HVFlsPMw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=83",
+      "cover": "(Cover by CelloDeck 첼로댁)"
+    },
+    {
+      "title": "Endless love",
+      "singer": "Jackie Chan & Kim Hee-sun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/zither320Kpbs/Endless%20love%20%5Bzither%5D%20-%20The%20Soul%20of%20Wind.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/02/cc/5a/02cc5a2a387a73b0cb7c042b0246fdc8.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=3oxRgEQGuII&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=91",
+      "cover": "(Cover by The Soul of Wind)"
+    },
+    {
+      "title": "Endless love",
+      "singer": "Jackie Chan & Kim Hee-sun",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/tree/main/guzheng320Kpbs?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/10/02/f0/1002f0e9831b236c42443ae12f05924d.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=iwSk7mKkakY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=92",
+      "cover": "(Cover by Jocelyn Paramita)"
     },
     {
       "title": "My Heart Will Go On",
