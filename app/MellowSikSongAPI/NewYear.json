@@ -1,0 +1,93 @@
+{
+  "numSong": ,
+  "api": [
+   {
+      "title": "Auld Lang Syne",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Auld%20Lang%20Syne%20-%20K%C4%81ru.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by Kāru)"
+    },
+    {
+      "title": "Auld Lang Syne",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Auld%20Lang%20Syne%20-%20isisip.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by isisip)"
+    },
+    {
+      "title": "Happy New Year",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Happy%20New%20Year%20-%20Gabriella9797.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by Gabriella9797)"
+    },
+    {
+      "title": "Happy New Year",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Happy%20New%20Year%20-%20MANH%20PIANO%20Official.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by MANH PIANO Official)"
+    },
+    {
+      "title": "Happy New Year",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Happy%20New%20Year%20-%20RG%20PIANO.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by RG PIANO)"
+    },
+    {
+      "title": "MÙA XUÂN ƠI!",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/M%C3%99A%20XU%C3%82N%20%C6%A0I!%20-%20MANH%20PIANO%20Official.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by MANH PIANO Official)"
+    },
+    {
+      "title": "Sangue Vienense",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Sangue%20Vienense%20-%20Johann%20Strauss%20II%20-%20Topic.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by Topic)"
+    },
+    {
+      "title": "Sul bel Danubio Blu",
+      "singer": "",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Sul%20bel%20Danubio%20blu%2C%20Johann%20Strauss%20-%20Poetessadimare.mp3?raw=true",
+      "coverUrl":
+          "",
+      "info":
+          "",
+      "cover": "(Cover by Poetessadimare)"
+    }
+  ]
+}
