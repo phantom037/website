@@ -1,92 +1,103 @@
 {
-  "numSong": ,
+  "numSong": 9,
   "api": [
    {
       "title": "Auld Lang Syne",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Auld%20Lang%20Syne%20-%20K%C4%81ru.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://media1.giphy.com/media/MViYNpI0wx69zX7j7w/giphy.gif?cid=790b7611474a15ce603a6de9a3e435f3ffc70027c6d71b42&rid=giphy.gif&ct=g",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=xBrpJ7FW0kY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=7",
       "cover": "(Cover by Kāru)"
     },
     {
       "title": "Auld Lang Syne",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Auld%20Lang%20Syne%20-%20isisip.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://media.tenor.com/ZcA4VSUVn0IAAAAd/fireworks.gif",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=7YrtkA8grW4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=6",
       "cover": "(Cover by isisip)"
     },
     {
       "title": "Happy New Year",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Happy%20New%20Year%20-%20Gabriella9797.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://imageresizer.static9.net.au/4ljhMHsK7u_KUPyjuxCXT40_e3w=/0x312:6000x3687/696x696/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F0732c4d9-8a3c-49f6-ac30-6b651551610f",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=NvffP-0qJ1o&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=8",
       "cover": "(Cover by Gabriella9797)"
     },
     {
       "title": "Happy New Year",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Happy%20New%20Year%20-%20MANH%20PIANO%20Official.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://i.guim.co.uk/img/media/9ef82a7759268e5bf55f4a139e962243d8776a73/0_0_3258_1955/master/3258.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9b2f4ff3eeef9bd685d7c42d95027c6c",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=pYDpPshcJE4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=9",
       "cover": "(Cover by MANH PIANO Official)"
     },
     {
       "title": "Happy New Year",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Happy%20New%20Year%20-%20RG%20PIANO.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://media.istockphoto.com/id/476659292/photo/celebration-day-in-new-york-city.jpg?s=612x612&w=0&k=20&c=dPuPSRFBLbHSRmUrhjADSQ-lgVvDj0X7bemsUVDOrAY=",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=62-kKeV7Tzo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=10",
       "cover": "(Cover by RG PIANO)"
     },
     {
       "title": "MÙA XUÂN ƠI!",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/M%C3%99A%20XU%C3%82N%20%C6%A0I!%20-%20MANH%20PIANO%20Official.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://i.guim.co.uk/img/media/f9e2af74a64a033e6f2c103e0e863e0ac282afec/53_0_3256_1954/master/3256.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=f24d0ba7b268dc2d2b1d1165d83a22cb",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=ZPaAgeas3_A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=2",
       "cover": "(Cover by MANH PIANO Official)"
     },
     {
+      "title": "Ngày Xuân Long Phụng Xum Vầy",
+      "singer": "Unknown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Ng%C3%A0y%20Xu%C3%A2n%20Long%20Ph%E1%BB%A5ng%20Xum%20V%E1%BA%A7y%20-%20Tr%E1%BA%A7n%20S%C6%A1n.mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/564x/42/24/93/422493b2f8a1a3887b9891940135e8f1.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=nD09IFvx2fk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=1",
+      "cover": "(Cover by Trần Sơn)"
+    },
+    {
       "title": "Sangue Vienense",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Sangue%20Vienense%20-%20Johann%20Strauss%20II%20-%20Topic.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://i.pinimg.com/originals/1d/f5/63/1df563b46b4e6b1da1b3b234b531e354.gif",
       "info":
-          "",
-      "cover": "(Cover by Topic)"
+          "https://www.youtube.com/watch?v=AtRGAa76sdM&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=4",
+      "cover": "(Cover by Johann Strauss II - Topic)"
     },
     {
       "title": "Sul bel Danubio Blu",
-      "singer": "",
+      "singer": "Unknown",
       "url":
           "https://github.com/acrosshorizon/palpitate/blob/main/New%20Year/Sul%20bel%20Danubio%20blu%2C%20Johann%20Strauss%20-%20Poetessadimare.mp3?raw=true",
       "coverUrl":
-          "",
+          "https://disneydose.com/wp-content/uploads/DisneylandFireworksCaliforniaDisneyBliss.jpg",
       "info":
-          "",
+          "https://www.youtube.com/watch?v=3LO3byyeNQo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=5",
       "cover": "(Cover by Poetessadimare)"
     }
   ]
