@@ -1,5 +1,5 @@
 {
-  "numSong": 136,
+  "numSong": 140,
   "api": [
    {
       "title": "When We Were Young",
@@ -12,6 +12,39 @@
           "https://www.youtube.com/watch?v=JYzZ8aD3FBU",
       "cover": "(Cover by Costantino Carrara Music)"
     },    
+    {
+      "title": "Darkside",
+      "singer": "Alan Walker",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Cello/The%20Darkest%20Cello%20Music%20-%20Beginning%20to%20End%20-%20(Hendyamps%20Studios).mp3?raw=true",
+      "coverUrl":
+          "https://i1.sndcdn.com/artworks-000415538445-okyde2-t500x500.jpg",
+      "info":
+          "https://www.youtube.com/watch?v=zrKMC4fAKp0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=86",
+      "cover": "(Cover by GnuS Cello)"
+    },
+    {
+      "title": "This place has me (NƠI NÀY CÓ ANH)",
+      "singer": "Sơn Tùng M-TP",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Guitar320Kpbs/N%C6%A0I%20N%C3%80Y%20C%C3%93%20ANH%20-%20Igor%20Presnyakov.mp3?raw=true",
+      "coverUrl":
+          "https://i.scdn.co/image/ab67616d0000b2735a85b345cb9461f3aa400dc1",
+      "info":
+          "https://www.youtube.com/watch?v=pnqMAwdoQag&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=93",
+      "cover": "(Cover by Igor Presnyakov)"
+    },
+    {
+      "title": "Dandelions",
+      "singer": "Ruth B",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Ruth%20B.%20-%20Dandelions%20%20Piano%20Cover%20-%20(John%20Rod%20Dondoyano).mp3?raw=true",
+      "coverUrl":
+          "https://s3.amazonaws.com/broadtime_photo/418458154974",
+      "info":
+          "https://www.youtube.com/watch?v=ndiOMiFcfB4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=85",
+      "cover": "(Cover by John Rod Dondoyano)"
+    },
     {
       "title": "When We Were Young",
       "singer": "Adele",
