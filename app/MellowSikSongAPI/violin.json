@@ -1,5 +1,5 @@
 {
-  "numSong": 34,
+  "numSong": 39,
   "api": [
     {
       "title": "Two Steps From Hell - Victory",
@@ -23,6 +23,46 @@
           "https://www.youtube.com/watch?v=4xcuKEwCDWg",
       "cover": "(Cover by Lindsey Stirling)"
      },
+    {
+      "title":"Canon in D",
+      "singer":"Pachelbel",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/%E5%85%84%E5%A6%B9%E8%81%AF%E5%90%88%E6%BC%94%E5%87%BA-%E5%8D%A1%E8%BE%B2%20%EF%BC%81Canon%20in%20D%20Major%20with%20sister%E3%80%90Classical%20by%20AnViolin%E3%80%91.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/ef/27/c0/ef27c0aa48c1afb249fb1a1dc14803f8.jpg",
+      "info":"https://www.youtube.com/watch?v=ftxC5dNr7QU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=210",
+      "cover":"林子安AnViolin"
+   },
+   {
+      "title":"Photograph",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/photograph%20(violin%20cover%20by%20Simply%20Three)%20-%20in%204K.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/c7/cb/77/c7cb77cfc7800ef786a08dd99d90aac6.jpg",
+      "info":"https://www.youtube.com/watch?v=CwtrzMn1BzE",
+      "cover":"Simply Three"
+   },
+   {
+      "title":"Lemon",
+      "singer":"Kenshi Yonezu",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/Lemon%20-%20(Orchestra%20Cover).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/d4/6d/85/d46d85c579344fc95794f6526192feb4.jpg",
+      "info":"https://www.youtube.com/watch?v=eaSMGZiEi5k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=207",
+      "cover":"Silverick"
+   },
+    {
+      "title":"River Flows In You",
+      "singer":"Yiruma",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/River%20Flows%20In%20You%20(Chill%20%26%20Relaxed%20Version).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/1b/42/12/1b42121d16ca313381a46a7d62cf8521.jpg",
+      "info":"https://www.youtube.com/watch?v=WSSIIC58Fsc",
+      "cover":"LAYERS 레이어스 클래식"
+   },
+   {
+      "title":"Snowman",
+      "singer":"Sia",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/Sia%20-%20Snowman%20-%20Violin%20Cover.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/43/e2/dc/43e2dc639708ce4c0f88cd292ae28190.gif",
+      "info":"https://www.youtube.com/watch?v=iXkhq8ttWCQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=183",
+      "cover":"캣올린CatOlin"
+   },
      {
       "title": "I Really Like You",
       "singer": "Carly Rae Jepsen",
