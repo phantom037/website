@@ -1,5 +1,5 @@
 {
-  "numSong": 223,
+  "numSong": 225,
   "api": [
     {
       "title": "When We Were Young",
@@ -12,6 +12,22 @@
           "https://www.youtube.com/watch?v=JYzZ8aD3FBU",
       "cover": "(Cover by Costantino Carrara Music)"
     },
+    {
+      "title":"Photograph",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/Cello/Ed%20Sheeran%20-%20Photograph%20for%20cello%20and%20piano%20(COVER).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/736x/7c/9f/45/7c9f45f45073730c539cafc002d9b7ea.jpg",
+      "info":"https://www.youtube.com/watch?v=B6V4WZA7ekk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=160",
+      "cover":" GnuS Cello"
+   },
+   {
+      "title":"First Love",
+      "singer":"",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/Cello/%E3%80%8AFirst%20Love%20%E5%88%9D%E6%88%80%E3%80%8B%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89%E3%81%86%E3%81%9F%E3%81%A0%E3%83%92%E3%82%AB%E3%83%AB%20%20%E5%A4%A7%E6%8F%90%E7%90%B4%E7%89%88%E6%9C%AC%20%20Cello%20cover%20%E3%80%8Ecover%20by%20YoYo%20Cello%E3%80%8F%E3%80%90%E7%B6%93%E5%85%B8%E6%AD%8C%E6%9B%B2%E7%B3%BB%E5%88%97%E3%80%91First%20Love%20%E5%88%9D%E6%88%80%E4%B8%BB%E9%A1%8C%E6%9B%B2.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/88/71/d4/8871d440024dc127978e80e01ee0a052.jpg",
+      "info":"https://www.youtube.com/watch?v=fVSdc_daTQA",
+      "cover":"YoYo Cello"
+  },
     {
       "title":"Comptine d`un autre ete",
       "singer":"Yann Tiersen",
