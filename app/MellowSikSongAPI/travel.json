@@ -1,5 +1,5 @@
 {
-  "numSong": 170,
+  "numSong": 171,
   "api": [
    {
       "title": "Always With Me (Spirit Away)",
@@ -11,6 +11,14 @@
       "info":
           "https://www.youtube.com/watch?v=EIcwEj9uzkk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=115",
       "cover": "(Cover by Sungha Jung)"
+    },
+    {
+      "title":"Another Sky (ANA boarding music)",
+      "singer":"Unknown",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Another%20Sky%20(ANA%20boarding%20music)%20-%20(Aira%20Piano).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/31/62/08/316208b0d27e6d399b0c5872af519ed7.jpg",
+      "info":"https://www.youtube.com/watch?v=jML3MShhGBg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=206",
+      "cover":"月野アイラ〈Aira Piano〉"
     },
     {
       "title": "Tea Party Under the Stars",
