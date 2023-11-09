@@ -13,6 +13,22 @@
       "cover": "(Cover by CalmPanda)"
     },
     {
+      "title":"River Flows in You",
+      "singer":"Yiruma",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/River%20Flows%20in%20You%20(Orchestral%20Version).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/0f/47/5a/0f475a821ea85797f5c18cad6b024617.jpg",
+      "info":"https://www.youtube.com/watch?v=axiZSrjgkMI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=202",
+      "cover":"Nathan Wu - Topic"
+   },
+    {
+      "title":"Comptine d`un autre ete",
+      "singer":"Yann Tiersen",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Yann%20Tiersen%20-%20Comptine%20d%60un%20autre%20ete%20-%20l%60apres-midi.mp3?raw=true",
+      "coverUrl":"https://i1.sndcdn.com/artworks-VYHBYjzokJDdI1Fn-9ovXrg-t500x500.jpg",
+      "info":"https://www.youtube.com/watch?v=NvryolGa19A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=250",
+      "cover":"Iain Hemstock"
+    },
+    {
       "title": "Peer Gynt - Morning Mood",
       "singer": "Edvard Grieg",
       "url":
@@ -45,6 +61,30 @@
           "https://www.youtube.com/watch?v=HehxcFnLD4Q&list=PLTpeyQJ-cKQclZdzxFyLzuz90wVmwCB9W&index=2",
       "cover": "(Cover by Leachy)"
     },
+    {
+      "title":"Chariots Of Fire",
+      "singer":"Vangelis",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Vangelis%20-%20Chariots%20Of%20Fire.mp3?raw=true",
+      "coverUrl":"https://archive.org/services/img/VangelisChariotsOfFireCompleteOST/full/pct:300/0/default.jpg",
+      "info":"https://www.youtube.com/watch?v=8a-HfNE3EIo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=221",
+      "cover":"VangelisVEVO"
+   },
+    {
+      "title":"Twinkle Twinkle Little Star",
+      "singer":"Jane Taylor",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Just%20a%20Normal%20Piano%20Version%20of%20Twinkle%20Twinkle%20Little%20Star.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/9d/f9/56/9df956570910448d6e5685f027c4c618.gif",
+      "info":"https://www.youtube.com/watch?v=bcA-M3QHZSI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=232",
+      "cover":"Akmigone"
+   },
+    {
+      "title":"Epiphany (Soul)",
+      "singer":"Soul",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/A%20pretty%20beautiful%20piano%20arrangement%20of%20-%20Epiphany.mp3?raw=true",
+      "coverUrl":"https://i1.sndcdn.com/artworks-2ixRuDfPwRj4E3rt-LVZEYQ-t500x500.jpg",
+      "info":"https://www.youtube.com/watch?v=S58NDgor_2A&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=231",
+      "cover":"Akmigone"
+   },
     {
       "title": "Cotton Cloud",
       "singer": "Fatb",
