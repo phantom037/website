@@ -13,6 +13,38 @@
       "cover": "(Cover by Costantino Carrara Music)"
     },    
     {
+      "title":"Love Me Like You Do",
+      "singer":"Ellie Goulding",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Love%20Me%20Like%20You%20Do%20(Sleep%20Mix).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/93/fc/91/93fc916777c42481ce8efabe7e30b9ba.jpg",
+      "info":"https://www.youtube.com/watch?v=D7ewVeKlnJk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=203",
+      "cover":"Sleep Music Guys - Topic"
+   },
+    {
+      "title":"I Swear",
+      "singer":"All-4-One",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/I%20Swear%20(Piano%20Cover%20by%20Riyandi%20Kusuma).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/16/ba/c4/16bac440137ac6e93a9cee9976b971c8.jpg",
+      "info":"https://www.youtube.com/watch?v=AQWQuFbNLN0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=220",
+      "cover":"Riyandi Kusuma"
+   },
+   {
+      "title":"I'm Yours",
+      "singer":"Jasin Mraz",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/I'M%20YOURS%20-%20JASON%20MRAZ%20%23%20Piano%20Version.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/e4/52/72/e45272ed50662eb1096de710c33f4fdf.gif",
+      "info":"https://www.youtube.com/watch?v=y6Mg2tMaHpg&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=218",
+      "cover":"Francesco Parrino"
+   },
+    {
+      "title":"Payphone",
+      "singer":"Maroon 5",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Maroon%205%20-%20Payphone%20(No%20Rap)%20%23%20Piano%20Cover%20with%20Strings%20(with%20Lyrics%20%26%20PIANO%20SHEET).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/07/24/93/0724937790e269ca129df96227d9d639.jpg",
+      "info":"https://www.youtube.com/watch?v=oMIpcfurG1Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=244",
+      "cover":"John Rod Dondoyano"
+    },
+    {
       "title": "Darkside",
       "singer": "Alan Walker",
       "url":
