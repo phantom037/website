@@ -13,6 +13,54 @@
       "cover": "(Cover by Thomas R. Piano)"
     },
     {
+      "title":"Summer of Goodbye (From Up on Poppy Hill)",
+      "singer":"Aoi Teshima",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/From%20up%20on%20Poppy%20Hill%20-%20Summer%20of%20Goodbye%20-%20Piano%20version.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/736x/ff/b6/91/ffb691c73d3d24a8857ae7ecc454eb17.jpg",
+      "info":"https://www.youtube.com/watch?v=WZFWpY2tAcE&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=239",
+      "cover":"Flo"
+   },
+    {
+      "title":"Konayuki (1 Litre of tear)",
+      "singer":"Remioromen",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Konayuki%20-%20(Ray%20Krislianggi).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/93/00/e4/9300e49ab2e6b947b937f335777322d0.jpg",
+      "info":"https://www.youtube.com/watch?v=9Z16Ez-HSEo&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=214",
+      "cover":"Ray Krislianggi"
+   },
+   {
+      "title":"Konayuki (1 Litre of tear)",
+      "singer":"Remioromen",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/1%20Litre%20of%20Tears%20-%20Konayuki%20(%E7%B2%89%E9%9B%AA)%20~Piano%20Version~.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/9c/ed/42/9ced428955c650aa35a7558aca68b184.gif",
+      "info":"https://www.youtube.com/watch?v=2RALgHDi2_g&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=213",
+      "cover":"The Piano Noob"
+   },
+   {
+      "title":"Song from a Secret Garden (Secret Garden)",
+      "singer":"Secret Garden",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Song%20from%20a%20Secret%20Garden%F0%9F%8C%BF%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EC%84%B1%EC%9D%98%20%EC%B2%BC%EB%A1%9C%EC%97%B0%EC%A3%BC%F0%9F%96%A4.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/b0/0b/49/b00b49f9d2c0c17322588cef3d2a6117.jpg",
+      "info":"https://www.youtube.com/watch?v=MfwJ4X7lx4k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=207",
+      "cover":"CelloDeck 첼로댁"
+   },
+    {
+      "title":"Your Lie in April Medley",
+      "singer":"AmaLee",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Your%20Lie%20in%20April%20Medley%20-%20(albie).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/8e/2d/27/8e2d27abd5285e213539fd9b7f1b2779.jpg",
+      "info":"https://www.youtube.com/watch?v=j1Xf7AxO2a0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=243",
+      "cover":"albie"
+   },
+   {
+      "title":"Orange (Your lie in April)",
+      "singer":"7!",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Your%20lie%20in%20April%20-%20(Fonzi%20M%20-%20Melodies%20on%20Piano).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/8a/22/bd/8a22bd5d519fb91f2dd6efc7c2f3122c.jpg",
+      "info":"https://www.youtube.com/watch?v=Z_po9Vywn0s&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=242",
+      "cover":"Fonzi M - Melodies on Piano"
+   },
+    {
       "title": "Guren no Yumiya (Attack on Titan)",
       "singer": "Linked Horizon",
       "url":
