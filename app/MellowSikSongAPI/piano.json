@@ -1,5 +1,5 @@
 {
-  "numSong": 225,
+  "numSong": 224,
   "api": [
     {
       "title": "When We Were Young",
@@ -299,14 +299,6 @@
       "coverUrl":"https://i.pinimg.com/564x/e8/2d/aa/e82daac84b38a41be20b49bd8f4c6e40.jpg",
       "info":"https://www.youtube.com/watch?v=NlprozGcs80&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=164",
       "cover":"diemauerdk"
-   },
-   {
-      "title":"Photograph",
-      "singer":"Pachelbel",
-      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Photograph%20(Piano%20Cello%20Cover)%20-%20Brooklyn%20Duo.mp3?raw=true",
-      "coverUrl":"https://i.pinimg.com/564x/97/3b/a2/973ba2aea65b0ae39cd4dacbf160952f.jpg",
-      "info":"https://www.youtube.com/watch?v=5NgVpzAVgGU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=201",
-      "cover":"Brooklyn Duo"
    },
    {
       "title":"Photograph ",
