@@ -11,7 +11,55 @@
       "info":
           "https://www.youtube.com/watch?v=JYzZ8aD3FBU",
       "cover": "(Cover by Costantino Carrara Music)"
-    },    
+    },
+    {
+      "title":"Closer",
+      "singer":"The Chainsmokers",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/%23Closer%23%20-%20The%20Chainsmokers%20(Piano%20Cover)%20-%20Costantino%20Carrara.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/2e/b5/d4/2eb5d4934bc5817f3c554a5ffe619939.jpg",
+      "info":"https://www.youtube.com/watch?v=n1yS7WdYLZ8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=203",
+      "cover":"Costantino Carrara Music c"
+    },
+    {
+      "title":"Golden Hour",
+      "singer":"JVKE",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/JVKE%20-%20golden%20hour%20%23%20Piano%20Cover%20by%20Pianella%20Piano.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/11/06/9f/11069f9e6b33b217295e2b118454bcca.jpg",
+      "info":"https://www.youtube.com/watch?v=S8TvXhLtLa0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=170",
+      "cover":"Jova Musique - Pianella Piano"
+   },
+   {
+      "title":"Photograph ",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Photograph%20-%20Ed%20Sheeran%20%23%20Piano%20Cover.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/7c/2e/a4/7c2ea4fe3b5b629f1f8b29136cf3580f.jpg",
+      "info":"https://www.youtube.com/watch?v=fi5isD3FdGU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=162",
+      "cover":"Welder Dias Piano"
+   },
+   {
+      "title":"Dreamers",
+      "singer":"Jung Kook",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Jung%20Kook%20-%20Dreamers%20(Piano%20Cover).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/1e/82/d0/1e82d0b89a2142f752235683452f79f3.jpg",
+      "info":"https://www.youtube.com/watch?v=YYE4bbigr9Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=197",
+      "cover":"Shuming Piano_P"
+    },
+    {
+      "title":"Halo",
+      "singer":"Beyoncé",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Halo%20-%20Beyonc%C3%A9%20(Piano%20Cover%20%23%20Sheet%20Music%20%23%20Partituras).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/41/cc/69/41cc6904784bd464ed2696c02b1ab1e5.jpg",
+      "info":"https://www.youtube.com/watch?v=vW5dn-ZP6ZA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=163",
+      "cover":"J. M. Quintana Cámara"
+    },
+    {
+      "title":"Levitating",
+      "singer":"Dua Lipa ft. DaBaby",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Dua%20Lipa%20-%20Levitating%20ft.%20DaBaby%20%23%20Piano%20Cover%20by%20Pianella%20Piano.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/86/ce/16/86ce16cb46d3a22f782222765ba7abbd.jpg",
+      "info":"https://www.youtube.com/watch?v=rRH2hU2Qv5Y&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=198",
+      "cover":"Jova Musique - Pianella Piano"
+    },
     {
       "title":"Love Me Like You Do",
       "singer":"Ellie Goulding",
