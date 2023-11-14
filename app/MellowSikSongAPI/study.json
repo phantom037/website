@@ -13,6 +13,78 @@
       "cover": "(Cover by CalmPanda)"
     },
     {
+      "title":"Canon In D",
+      "singer":"Pachelbel",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Canon%20In%20D%20(Piano%20and%20Violin%20Duet).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/bd/5b/00/bd5b006d792e216b87cf98bc7527b785.jpg",
+      "info":"https://www.youtube.com/watch?v=5NgVpzAVgGU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=201",
+      "cover":"Pachelbel Canon in D - Topic"
+    },
+    {
+      "title":"Snowman",
+      "singer":"Sia",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/Sia%20-%20Snowman%20-%20Violin%20Cover.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/43/e2/dc/43e2dc639708ce4c0f88cd292ae28190.gif",
+      "info":"https://www.youtube.com/watch?v=iXkhq8ttWCQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=183",
+      "cover":"캣올린CatOlin"
+   },
+    {
+      "title":"Photograph",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/photograph%20(violin%20cover%20by%20Simply%20Three)%20-%20in%204K.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/c7/cb/77/c7cb77cfc7800ef786a08dd99d90aac6.jpg",
+      "info":"https://www.youtube.com/watch?v=CwtrzMn1BzE",
+      "cover":"Simply Three"
+   },
+   {
+      "title":"Lemon",
+      "singer":"Kenshi Yonezu",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/Lemon%20-%20(Orchestra%20Cover).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/d4/6d/85/d46d85c579344fc95794f6526192feb4.jpg",
+      "info":"https://www.youtube.com/watch?v=eaSMGZiEi5k&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=207",
+      "cover":"Silverick"
+   },
+    {
+      "title":"Photograph",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/Cello/Ed%20Sheeran%20-%20Photograph%20for%20cello%20and%20piano%20(COVER).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/736x/7c/9f/45/7c9f45f45073730c539cafc002d9b7ea.jpg",
+      "info":"https://www.youtube.com/watch?v=B6V4WZA7ekk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=160",
+      "cover":" GnuS Cello"
+   },
+   {
+      "title":"First Love",
+      "singer":"",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/Cello/%E3%80%8AFirst%20Love%20%E5%88%9D%E6%88%80%E3%80%8B%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89%E3%81%86%E3%81%9F%E3%81%A0%E3%83%92%E3%82%AB%E3%83%AB%20%20%E5%A4%A7%E6%8F%90%E7%90%B4%E7%89%88%E6%9C%AC%20%20Cello%20cover%20%E3%80%8Ecover%20by%20YoYo%20Cello%E3%80%8F%E3%80%90%E7%B6%93%E5%85%B8%E6%AD%8C%E6%9B%B2%E7%B3%BB%E5%88%97%E3%80%91First%20Love%20%E5%88%9D%E6%88%80%E4%B8%BB%E9%A1%8C%E6%9B%B2.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/88/71/d4/8871d440024dc127978e80e01ee0a052.jpg",
+      "info":"https://www.youtube.com/watch?v=fVSdc_daTQA",
+      "cover":"YoYo Cello"
+   },
+    {
+      "title":"Beautiful Mistakes",
+      "singer":"Maroon 5",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/guitar/Beautiful%20Mistakes%20-%20Maroon%205%20-%20Fingerstyle%20Guitar%20Tutorial%20TAB%20%2B%20Chords%20%2B%20Lyrics.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/5d/e8/ad/5de8addc8beda4ee82127bb3d1c86e16.jpg",
+      "info":"https://www.youtube.com/watch?v=UXVXdjTJFpw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=212",
+      "cover":"yunus guitarist"
+   },
+   {
+      "title":"Careless Whisper",
+      "singer":"",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/guitar/Careless%20Whisper%20on%20One%20Guitar%20(Alexandr%20Misko).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/2e/65/d2/2e65d2d42298df93c36d98a73c935c72.jpg",
+      "info":"https://www.youtube.com/watch?v=YzgTMh21zhI&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=168",
+      "cover":"Alexandr Misko"
+   },
+    {
+      "title":"Canon in D",
+      "singer":"Pachelbel",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/Canon%20in%20D%20-%20%20Jacob's%20Piano.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/cb/76/57/cb76578bae4023773a10aa39fee352ec.gif",
+      "info":"https://www.youtube.com/watch?v=5NgVpzAVgGU&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=201",
+      "cover":"Jacob's Piano"
+    },
+    {
       "title":"River Flows in You",
       "singer":"Yiruma",
       "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/piano/River%20Flows%20in%20You%20(Orchestral%20Version).mp3?raw=true",
