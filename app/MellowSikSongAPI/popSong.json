@@ -28,6 +28,54 @@
       "info":"https://www.youtube.com/watch?v=S8TvXhLtLa0&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=170",
       "cover":"Jova Musique - Pianella Piano"
    },
+    {
+      "title":"Beautiful Mistakes",
+      "singer":"Maroon 5",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/guitar/Beautiful%20Mistakes%20-%20Maroon%205%20-%20Fingerstyle%20Guitar%20Tutorial%20TAB%20%2B%20Chords%20%2B%20Lyrics.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/5d/e8/ad/5de8addc8beda4ee82127bb3d1c86e16.jpg",
+      "info":"https://www.youtube.com/watch?v=UXVXdjTJFpw&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=212",
+      "cover":"yunus guitarist"
+   },
+    {
+      "title":"Beautiful Mistakes",
+      "singer":"Maroon 5",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/guitar/Maroon%205%20(%EB%A7%88%EB%A3%AC5)%20%20-%20Beautiful%20Mistakes%20(ft.%20Megan%20Thee%20Stallion)%20%EA%B8%B0%ED%83%80%20%EC%BB%A4%EB%B2%84(Guitar%20Cover).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/79/61/38/7961388ca568811e29b2ab271010cfa3.jpg",
+      "info":"https://www.youtube.com/watch?v=tZ5Hl9QThjA&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=200",
+      "cover":"ko_de 코드"
+   },
+    {
+      "title":"Photograph",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/Cello/Ed%20Sheeran%20-%20Photograph%20for%20cello%20and%20piano%20(COVER).mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/736x/7c/9f/45/7c9f45f45073730c539cafc002d9b7ea.jpg",
+      "info":"https://www.youtube.com/watch?v=B6V4WZA7ekk&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=160",
+      "cover":" GnuS Cello"
+   },
+    {
+      "title":"Snowman",
+      "singer":"Sia",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/Sia%20-%20Snowman%20-%20Violin%20Cover.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/originals/43/e2/dc/43e2dc639708ce4c0f88cd292ae28190.gif",
+      "info":"https://www.youtube.com/watch?v=iXkhq8ttWCQ&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=183",
+      "cover":"캣올린CatOlin"
+   },
+    {
+      "title":"Photograph",
+      "singer":"Ed Sheeran",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/violin/photograph%20(violin%20cover%20by%20Simply%20Three)%20-%20in%204K.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/c7/cb/77/c7cb77cfc7800ef786a08dd99d90aac6.jpg",
+      "info":"https://www.youtube.com/watch?v=CwtrzMn1BzE",
+      "cover":"Simply Three"
+   },
+   {
+      "title":"Nothing's Gonna Change My Love for You",
+      "singer":"",
+      "url":"https://github.com/acrosshorizon/palpitate_v2/blob/main/guitar/Nothing's%20Gonna%20Change%20My%20Love%20for%20You%20-%20George%20Benson%20-%20Fingerstyle%20Guitar%20Tutorial%20TAB.mp3?raw=true",
+      "coverUrl":"https://i.pinimg.com/564x/29/59/b9/2959b945adf6f4bf1bba6c8b5d41f559.jpg",
+      "info":"https://www.youtube.com/watch?v=CIRyYTJrx7Q&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=211",
+      "cover":"yunus guitarist"
+   },
    {
       "title":"Photograph ",
       "singer":"Ed Sheeran",
