@@ -1,5 +1,5 @@
 {
-  "numSong": 39,
+  "numSong": 43,
   "api": [
     {
       "title": "Two Steps From Hell - Victory",
@@ -12,6 +12,38 @@
           "https://www.youtube.com/watch?v=VYBn0sR5f84",
       "cover": "(Cover by 長笛琴人Annie&Mimi)"
     }, 
+    {
+    "title": "I Like Me Better - Lauv - violin cover by Daniel Jang",
+    "singer": "",
+    "url": "https://acrosshorizon.github.io/MellowSik/lAAnYCf5UaU.mp3?raw=true",
+    "coverUrl": "https://i.pinimg.com/236x/7b/90/12/7b90124a8f53456959f73ecf81d720d2.jpg",
+    "info": "https://www.youtube.com/watch?v=lAAnYCf5UaU",
+    "cover": "(Cover by Daniel Jang)"
+  },
+  {
+    "title": "CLOSER - (The Chainsmokers)  classic ver . by 2color flute &violin / Use Headphones / Halsey",
+    "singer": "",
+    "url": "https://acrosshorizon.github.io/MellowSik/NBB7MBabVFc.mp3?raw=true",
+    "coverUrl": "https://i.pinimg.com/236x/b8/07/04/b8070476bbf92e10a86a0dd3b9349dac.jpg",
+    "info": "https://www.youtube.com/watch?v=NBB7MBabVFc",
+    "cover": "(Cover by 2COLOR\ud22c\uceec\ub7ec)"
+  },
+  {
+    "title": "On My Way - Alan Walker (\uc568\ub7f0 \uc6cc\ucee4 \ucee4\ubc84) -\uc774\uc5b4\ud3f0 \ud544\uc218- violin & flute cover by 2color /PUBG Mobile",
+    "singer": "",
+    "url": "https://acrosshorizon.github.io/MellowSik/tjHPx2WTjJw.mp3?raw=true",
+    "coverUrl": "https://i.pinimg.com/474x/98/59/30/98593095931d2da182aaebddc8eaa30d.jpg",
+    "info": "https://www.youtube.com/watch?v=tjHPx2WTjJw",
+    "cover": "(Cover by 2COLOR\ud22c\uceec\ub7ec)"
+  },
+  {
+    "title": "Photograph - Ed Sheeran (cello/bass/violin cover by Simply Three) - in 4K",
+    "singer": "",
+    "url": "https://acrosshorizon.github.io/MellowSik/CwtrzMn1BzE.mp3?raw=true",
+    "coverUrl": "https://i.pinimg.com/236x/82/f3/9d/82f39da1c896b088418b5f5f91d9230f.jpg",
+    "info": "https://www.youtube.com/watch?v=CwtrzMn1BzE",
+    "cover": "(Cover by Simply Three)"
+  },
     {
       "title": "It Ain't Me",
       "singer": "Selena Gomez & Kygo",
